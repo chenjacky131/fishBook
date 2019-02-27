@@ -1,0 +1,6 @@
+# 45:Black Spoteed Puffer,Arothron nigropunctatus
+
+#### Chinese name: 黑斑叉鼻鲀、 狗头、污点河鲀
+
+![](../../.gitbook/assets/black-spoteed-puffer.jpg)
+
