@@ -9,4 +9,5 @@
 | ![](../../.gitbook/assets/small-peacock-grouper.jpg)  | [55:Peacock Grouper,Cephalopholis argus](55-peacock-grouper-cephalopholis-argus.md) |
 | ![](../../.gitbook/assets/small-false-stonefish.jpg)  | [56:False Stonefish,Scorpaenopsis diabolus](56-false-stonefish-scorpaenopsis-diabolus.md) |
 | ![](../../.gitbook/assets/small-banded-thicklip.jpg)  | [57:Banded Thicklip,Barred Wrasse,Hemigymnus fasciatus](3-unknow.md) |
+| ![](../../.gitbook/assets/small-aspidontus-dussumieri.jpg)  | [58:Aspidontus dussumieri,Dussumier's Blenny, Lance Blenny](58-aspidontus-dussumieri-dussumiers-blenny-lance-blenny.md) |
 
