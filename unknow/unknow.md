@@ -4,7 +4,6 @@
 | :---: | :---: |
 | ![](../.gitbook/assets/small-unknow25.jpg)  | 1 |
 | ![](../.gitbook/assets/small-unknow15.jpg)  | 2 |
-| ![](../.gitbook/assets/small-unknow14.jpg)  | 3 |
 | ![](../.gitbook/assets/small-unknow18.jpg)  | 4 |
 | ![](../.gitbook/assets/small-unknow19.jpg)  | 5 |
 | ![](../.gitbook/assets/small-unknow17.jpg)  | 6 |

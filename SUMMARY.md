@@ -92,6 +92,7 @@
   * [32:Disc Anemone Shrimp,Pliopontonia furtiva](shrimpsandcrabs/untitled/32-hidden-corallimorph-shrimp.md)
   * [33:Translucent Gorgonian Shrimp,Manipontonia psamathe](shrimpsandcrabs/untitled/1-unknow.md)
   * [34:Halimeda Crab,Arrowhead Crab,Huenia heraldica](shrimpsandcrabs/untitled/16-unknow.md)
+  * [35:Parasit anemone hermit crab,Dardanus pedunculatus](shrimpsandcrabs/untitled/35-parasit-anemone-hermit-crab-dardanus-pedunculatus.md)
 
 ## Fishes
 
