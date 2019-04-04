@@ -157,6 +157,11 @@
   * [56:False Stonefish,Scorpaenopsis diabolus](fishes/fish-eel-seastar-part-2/56-false-stonefish-scorpaenopsis-diabolus.md)
   * [57:Banded Thicklip,Barred Wrasse,Hemigymnus fasciatus](fishes/fish-eel-seastar-part-2/3-unknow.md)
 
+## Others
+
+* [Others](others/others/README.md)
+  * [1:Hemilienardia goubini,sea snail](others/others/1-hemilienardia-goubini-sea-snail.md)
+
 ## Unknow
 
 * [unknow](unknow/unknow.md)
