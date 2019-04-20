@@ -60,6 +60,7 @@
   * [52:Diversidoris crocea](nudibranch/nudibranch-platworm2/52-diversidoris-crocea.md)
   * [53:Ardeadoris egretta,Heron Ardeadoris](nudibranch/nudibranch-platworm2/53-ardeadoris-egretta-heron-ardeadoris.md)
   * [54:Thuridilla gracilis,Sapsucking Slug](nudibranch/nudibranch-platworm2/54-thuridilla-gracilis-sapsucking-slug.md)
+  * [55:Phyllodesmium briareum,Yellow-Tipped Phyllodesmium](nudibranch/nudibranch-platworm2/55-phyllodesmium-briareum-yellow-tipped-phyllodesmium.md)
 
 ## ShrimpsAndCrabs
 
