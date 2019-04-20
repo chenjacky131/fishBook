@@ -43,4 +43,5 @@ description: 'This part is about shrimps , crabs, lobster,shells and clams'
 | ![](../../.gitbook/assets/small-parasit-anemone-hermit-crab.jpg)  | [35:Parasit anemone hermit crab,Dardanus pedunculatus](35-parasit-anemone-hermit-crab-dardanus-pedunculatus.md) |
 | ![](../../.gitbook/assets/small-panulirus-versicolor.jpg)  | [36:Panulirus versicolor,Painted spiny lobster](36-panulirus-versicolor-painted-spiny-lobster.md) |
 | ![](../../.gitbook/assets/small-dasycaris-zanzibarica.jpg)  | [37:Dasycaris zanzibarica,Dasycaris zanzibarica,Zanzibar Whip Coral Shrimp](37-dasycaris-zanzibarica-dasycaris-zanzibarica-zanzibar-whip-coral-shrimp.md) |
+| ![](../../.gitbook/assets/small-gelastocaris-paronae.jpg)  | [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md) |
 

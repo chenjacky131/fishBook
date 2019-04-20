@@ -2,5 +2,5 @@
 
 #### Chinese name:海绵虾
 
-![](../.gitbook/assets/gelastocaris-paronae.jpg)
+![](../../.gitbook/assets/gelastocaris-paronae.jpg)
 
