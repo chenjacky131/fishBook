@@ -7,7 +7,7 @@ description: >-
 # About
 
 {% hint style="info" %}
-**In first page of each group, there is a summary list of the creatures in the group, click the link after the thumbnail will lead you to the detail page.The last name at the title is scientific name.**
+\(**Click on the menu bar on top left area to see classify of the creature is you are using mobile phone\) In first page of each group, there is a summary list of the creatures in the group, click the link after the thumbnail will lead you to the detail page.The first name at the title is scientific name.**
 {% endhint %}
 
 
@@ -16,7 +16,7 @@ description: >-
 
 All the photos were posted in my instagram , Here is the link : [**Chenjacky7003**](https://www.instagram.com/jackchen7003/)\*\*\*\*
 
-If the name of the creature is wrong, advices and suggestion is welcomed and I will fixed it.Also if you know the names of the creature in the group of "unknow" , please don't hesitate to tell me , haha.
+If the name of the creature is wrong, advices and suggestion is welcomed and I will fixed it.Also if you know the names of the creature in the group of "unknow" , please don't hesitate to tell me.
 
 Here is my messenger:
 
