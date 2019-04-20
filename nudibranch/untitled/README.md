@@ -2,7 +2,7 @@
 description: This part is about nudibranches and platworms
 ---
 
-# Nudibranch,Platworm
+# Nudibranch,Platworm1
 
 | Thumbnail | Link |
 | :---: | :---: |
