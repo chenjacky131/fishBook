@@ -57,6 +57,7 @@
   * [50:Ascidiophilla alba,flatworm](nudibranch/untitled/50-ascidiophilla-alba-flatworm.md)
 * [Nudibranch,Platworm2](nudibranch/nudibranch-platworm2/README.md)
   * [51:Chelidonura hirundinina,Swallotail Headshield Slug, Leech Aglaja](nudibranch/nudibranch-platworm2/51-chelidonura-hirundinina-swallotail-headshield-slug-leech-aglaja.md)
+  * [52:Diversidoris crocea](nudibranch/nudibranch-platworm2/52-diversidoris-crocea.md)
 
 ## ShrimpsAndCrabs
 
