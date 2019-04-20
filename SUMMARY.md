@@ -103,6 +103,7 @@
   * [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](shrimpsandcrabs/untitled/38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md)
   * [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](shrimpsandcrabs/untitled/39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md)
   * [40:Hippolyte commensalis,Xenia Soft Coral Shrimp, Hump-backed Shrimp](shrimpsandcrabs/untitled/40-hippolyte-commensalis-xenia-soft-coral-shrimp-hump-backed-shrimp.md)
+  * [41:Munida olivarae,Olivar's Lobster,Bug-eyed Squat Lobster](shrimpsandcrabs/untitled/41-munida-olivarae-olivars-lobster-bug-eyed-squat-lobster.md)
 
 ## Fishes
 

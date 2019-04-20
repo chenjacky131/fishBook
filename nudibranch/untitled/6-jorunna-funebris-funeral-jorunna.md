@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/jorunna-funebris.jpg)
 
+![juvenile](../../.gitbook/assets/jorunna-funebris-juvenile.jpg)
+
