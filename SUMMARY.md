@@ -160,6 +160,7 @@
   * [56:False Stonefish,Scorpaenopsis diabolus](fishes/fish-eel-seastar-part-2/56-false-stonefish-scorpaenopsis-diabolus.md)
   * [57:Banded Thicklip,Barred Wrasse,Hemigymnus fasciatus](fishes/fish-eel-seastar-part-2/3-unknow.md)
   * [58:Aspidontus dussumieri,Dussumier's Blenny, Lance Blenny](fishes/fish-eel-seastar-part-2/58-aspidontus-dussumieri-dussumiers-blenny-lance-blenny.md)
+  * [59:Dactyloptena orientalis,Flying Gurnard, Helmet Gurnard , Oriental Flying](fishes/fish-eel-seastar-part-2/59-dactyloptena-orientalis-flying-gurnard-helmet-gurnard-oriental-flying.md)
 
 ## Others
 
