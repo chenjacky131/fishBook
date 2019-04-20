@@ -100,6 +100,7 @@
   * [36:Panulirus versicolor,Painted spiny lobster](shrimpsandcrabs/untitled/36-panulirus-versicolor-painted-spiny-lobster.md)
   * [37:Dasycaris zanzibarica,Dasycaris zanzibarica,Zanzibar Whip Coral Shrimp](shrimpsandcrabs/untitled/37-dasycaris-zanzibarica-dasycaris-zanzibarica-zanzibar-whip-coral-shrimp.md)
   * [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](shrimpsandcrabs/untitled/38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md)
+  * [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](shrimpsandcrabs/untitled/39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md)
 
 ## Fishes
 

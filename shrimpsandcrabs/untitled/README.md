@@ -44,4 +44,5 @@ description: 'This part is about shrimps , crabs, lobster,shells and clams'
 | ![](../../.gitbook/assets/small-panulirus-versicolor.jpg)  | [36:Panulirus versicolor,Painted spiny lobster](36-panulirus-versicolor-painted-spiny-lobster.md) |
 | ![](../../.gitbook/assets/small-dasycaris-zanzibarica.jpg)  | [37:Dasycaris zanzibarica,Dasycaris zanzibarica,Zanzibar Whip Coral Shrimp](37-dasycaris-zanzibarica-dasycaris-zanzibarica-zanzibar-whip-coral-shrimp.md) |
 | ![](../../.gitbook/assets/small-gelastocaris-paronae.jpg)  | [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md) |
+| ![](../../.gitbook/assets/small-hairy-squat-lobster.jpg)  | [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md) |
 
