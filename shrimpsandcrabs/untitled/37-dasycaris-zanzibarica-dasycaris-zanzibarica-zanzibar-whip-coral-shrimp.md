@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/dasycaris-zanzibarica.jpg)
 
+![](../../.gitbook/assets/dasycaris-zanzibarica2.jpg)
+
