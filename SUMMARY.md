@@ -58,6 +58,7 @@
 * [Nudibranch,Platworm2](nudibranch/nudibranch-platworm2/README.md)
   * [51:Chelidonura hirundinina,Swallotail Headshield Slug, Leech Aglaja](nudibranch/nudibranch-platworm2/51-chelidonura-hirundinina-swallotail-headshield-slug-leech-aglaja.md)
   * [52:Diversidoris crocea](nudibranch/nudibranch-platworm2/52-diversidoris-crocea.md)
+  * [53:Ardeadoris egretta,Heron Ardeadoris](nudibranch/nudibranch-platworm2/53-ardeadoris-egretta-heron-ardeadoris.md)
 
 ## ShrimpsAndCrabs
 
@@ -101,6 +102,7 @@
   * [37:Dasycaris zanzibarica,Dasycaris zanzibarica,Zanzibar Whip Coral Shrimp](shrimpsandcrabs/untitled/37-dasycaris-zanzibarica-dasycaris-zanzibarica-zanzibar-whip-coral-shrimp.md)
   * [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](shrimpsandcrabs/untitled/38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md)
   * [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](shrimpsandcrabs/untitled/39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md)
+  * [40:Hippolyte commensalis,Xenia Soft Coral Shrimp, Hump-backed Shrimp](shrimpsandcrabs/untitled/40-hippolyte-commensalis-xenia-soft-coral-shrimp-hump-backed-shrimp.md)
 
 ## Fishes
 
@@ -171,6 +173,7 @@
 
 * [Others](others/others/README.md)
   * [1:Hemilienardia goubini,sea snail](others/others/1-hemilienardia-goubini-sea-snail.md)
+  * [2:Heteractis magnifica,Colored long tentacle Anemone](others/others/2-heteractis-magnifica-colored-long-tentacle-anemone.md)
 
 ## Unknow
 

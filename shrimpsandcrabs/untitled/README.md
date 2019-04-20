@@ -45,4 +45,5 @@ description: 'This part is about shrimps , crabs, lobster,shells and clams'
 | ![](../../.gitbook/assets/small-dasycaris-zanzibarica.jpg)  | [37:Dasycaris zanzibarica,Dasycaris zanzibarica,Zanzibar Whip Coral Shrimp](37-dasycaris-zanzibarica-dasycaris-zanzibarica-zanzibar-whip-coral-shrimp.md) |
 | ![](../../.gitbook/assets/small-gelastocaris-paronae.jpg)  | [38:Gelastocaris paronae,Cryptic Sponge Shrimp, Paron shrimp](38-gelastocaris-paronae-cryptic-sponge-shrimp-paron-shrimp.md) |
 | ![](../../.gitbook/assets/small-hairy-squat-lobster.jpg)  | [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md) |
+| ![](../../.gitbook/assets/small-hippolyte-commensalis.jpg)  | [40:Hippolyte commensalis,Xenia Soft Coral Shrimp, Hump-backed Shrimp](40-hippolyte-commensalis-xenia-soft-coral-shrimp-hump-backed-shrimp.md) |
 

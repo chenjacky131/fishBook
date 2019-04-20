@@ -4,6 +4,7 @@
 | :---: | :---: |
 | ![](../../.gitbook/assets/small-chelidonura-hirundinina.jpg)  | [51:Chelidonura hirundinina,Swallotail Headshield Slug, Leech Aglaja](51-chelidonura-hirundinina-swallotail-headshield-slug-leech-aglaja.md) |
 | ![](../../.gitbook/assets/small-diversidoris-crocea.jpg)  | [52:Diversidoris crocea](52-diversidoris-crocea.md) |
+| ![](../../.gitbook/assets/small-heron-ardeadoris.jpg)  | [53:Ardeadoris egretta,Heron Ardeadoris](53-ardeadoris-egretta-heron-ardeadoris.md) |
 
 
 
