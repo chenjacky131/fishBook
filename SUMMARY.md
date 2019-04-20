@@ -59,6 +59,7 @@
   * [51:Chelidonura hirundinina,Swallotail Headshield Slug, Leech Aglaja](nudibranch/nudibranch-platworm2/51-chelidonura-hirundinina-swallotail-headshield-slug-leech-aglaja.md)
   * [52:Diversidoris crocea](nudibranch/nudibranch-platworm2/52-diversidoris-crocea.md)
   * [53:Ardeadoris egretta,Heron Ardeadoris](nudibranch/nudibranch-platworm2/53-ardeadoris-egretta-heron-ardeadoris.md)
+  * [54:Thuridilla gracilis,Sapsucking Slug](nudibranch/nudibranch-platworm2/54-thuridilla-gracilis-sapsucking-slug.md)
 
 ## ShrimpsAndCrabs
 
@@ -104,6 +105,9 @@
   * [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](shrimpsandcrabs/untitled/39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md)
   * [40:Hippolyte commensalis,Xenia Soft Coral Shrimp, Hump-backed Shrimp](shrimpsandcrabs/untitled/40-hippolyte-commensalis-xenia-soft-coral-shrimp-hump-backed-shrimp.md)
   * [41:Munida olivarae,Olivar's Lobster,Bug-eyed Squat Lobster](shrimpsandcrabs/untitled/41-munida-olivarae-olivars-lobster-bug-eyed-squat-lobster.md)
+  * [42:Quadrella maculosa,Black Coral Crab or Trapeziid crab](shrimpsandcrabs/untitled/42-quadrella-maculosa-black-coral-crab-or-trapeziid-crab.md)
+  * [43:Trachypenaeopsis richtersii ,Richters Sand Shrimp](shrimpsandcrabs/untitled/43-trachypenaeopsis-richtersii-richters-sand-shrimp.md)
+  * [44:Manipontonia psamathe ,Translucent Gorgonian Shrimp](shrimpsandcrabs/untitled/44-manipontonia-psamathe-translucent-gorgonian-shrimp.md)
 
 ## Fishes
 
@@ -175,6 +179,8 @@
 * [Others](others/others/README.md)
   * [1:Hemilienardia goubini,sea snail](others/others/1-hemilienardia-goubini-sea-snail.md)
   * [2:Heteractis magnifica,Colored long tentacle Anemone](others/others/2-heteractis-magnifica-colored-long-tentacle-anemone.md)
+  * [3:Ovabunda macrospiculata,Soft coral](others/others/3-ovabunda-macrospiculata-soft-coral.md)
+  * [4:Pachycerianthus longistriatus,Striped tube anemone, Striated tube](others/others/4-pachycerianthus-longistriatus-striped-tube-anemone-striated-tube.md)
 
 ## Unknow
 

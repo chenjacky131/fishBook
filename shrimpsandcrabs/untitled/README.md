@@ -47,4 +47,7 @@ description: 'This part is about shrimps , crabs, lobster,shells and clams'
 | ![](../../.gitbook/assets/small-hairy-squat-lobster.jpg)  | [39:Lauriea siagiani,Pink Squad Lobster, Hairy Squad Lobster](39-lauriea-siagiani-pink-squad-lobster-hairy-squad-lobster.md) |
 | ![](../../.gitbook/assets/small-hippolyte-commensalis.jpg)  | [40:Hippolyte commensalis,Xenia Soft Coral Shrimp, Hump-backed Shrimp](40-hippolyte-commensalis-xenia-soft-coral-shrimp-hump-backed-shrimp.md) |
 | ![](../../.gitbook/assets/small-munida-olivarae.jpg)  | [41:Munida olivarae,Olivar's Lobster,Bug-eyed Squat Lobster](41-munida-olivarae-olivars-lobster-bug-eyed-squat-lobster.md) |
+| ![](../../.gitbook/assets/small-quadrella-maculosa.jpg)  | [42:Quadrella maculosa,Black Coral Crab or Trapeziid crab](42-quadrella-maculosa-black-coral-crab-or-trapeziid-crab.md) |
+| ![](../../.gitbook/assets/small-trachypenaeopsis-richtersii.jpg)  | [43:Trachypenaeopsis richtersii ,Richters Sand Shrimp](43-trachypenaeopsis-richtersii-richters-sand-shrimp.md) |
+| ![](../../.gitbook/assets/small-translucent-gorgonian-shrimp%20%281%29.jpg)  | [44:Manipontonia psamathe ,Translucent Gorgonian Shrimp](44-manipontonia-psamathe-translucent-gorgonian-shrimp.md) |
 
