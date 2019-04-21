@@ -7,7 +7,7 @@ description: >-
 # About
 
 {% hint style="info" %}
-\(**Click on the menu bar on top left area to see classify of the creature is you are using mobile phone\) In first page of each group, there is a summary list of the creatures in the group, click the link after the thumbnail will lead you to the detail page.The first name at the title is scientific name.**
+**Click on the menu bar on top left area to see classify of the creature is you are using mobile phone. Click the search icon to use the searching function**
 {% endhint %}
 
 
