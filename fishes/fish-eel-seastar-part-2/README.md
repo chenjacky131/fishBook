@@ -14,4 +14,6 @@
 | ![](../../.gitbook/assets/small-gorgasia-maculata.jpg)  | [60:Gorgasia maculata,Whitespotted garden eel](60-gorgasia-maculata-whitespotted-garden-eel.md) |
 | ![](../../.gitbook/assets/small-striped-eel-catfish.jpg)  | [61:Striped eel catfish,Plotosus lineatus](61-striped-eel-catfish-plotosus-lineatus.md) |
 | ![](../../.gitbook/assets/small-siokunichthys-nigrolineatus.jpg)  | [62:Siokunichthys nigrolineatus,Mushroom-coral Pipefish](62-siokunichthys-nigrolineatus-mushroom-coral-pipefish.md) |
+| ![](../../.gitbook/assets/small-pterois-volitans.jpg)  | [63:Pterois volitans,Red lionfish](63-pterois-volitans-red-lionfish.md) |
+| ![](../../.gitbook/assets/small-dendrochirus-zebra.jpg)  | [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md) |
 
