@@ -123,7 +123,7 @@
   * [9:Okinawa goby,Gobiodon okinawae](fishes/untitled/9-lubricogobius-exiguus-yellow-pygmy-goby.md)
   * [10:Large Whip Goby,Bryaninops amplus](fishes/untitled/10-bryaninops-loki-loki-whip-goby.md)
   * [11:Carpet Sole,Liachirus melanospilos](fishes/untitled/11-carpet-sole.md)
-  * [12:Warty Frogfish,Antennarius maculatus](fishes/untitled/12-warty-frogfish-antennarius-maculatus.md)
+  * [12:Warty Frogfish,Antennarius maculatus,Clown frogfish](fishes/untitled/12-warty-frogfish-antennarius-maculatus.md)
   * [13:Painted Frogfish,Antennarius Pictus](fishes/untitled/13-painted-frogfish-antennarius-pictus.md)
   * [14:Titan Triggerfish,Balistoides viridescens](fishes/untitled/14-titan-triggerfish.md)
   * [15:Birdbeak Burrfish,Cyclichthys orbicularis](fishes/untitled/15-orbicular-burrfish.md)

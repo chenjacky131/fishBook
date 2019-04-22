@@ -1,4 +1,4 @@
-# 12:Warty Frogfish,Antennarius maculatus
+# 12:Warty Frogfish,Antennarius maculatus,Clown frogfish
 
 #### Chinese name: **大斑躄鱼、** **五脚虎、青蛙鱼**
 
