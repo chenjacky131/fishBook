@@ -108,7 +108,6 @@
   * [41:Munida olivarae,Olivar's Lobster,Bug-eyed Squat Lobster](shrimpsandcrabs/untitled/41-munida-olivarae-olivars-lobster-bug-eyed-squat-lobster.md)
   * [42:Quadrella maculosa,Black Coral Crab or Trapeziid crab](shrimpsandcrabs/untitled/42-quadrella-maculosa-black-coral-crab-or-trapeziid-crab.md)
   * [43:Trachypenaeopsis richtersii ,Richters Sand Shrimp](shrimpsandcrabs/untitled/43-trachypenaeopsis-richtersii-richters-sand-shrimp.md)
-  * [44:Manipontonia psamathe ,Translucent Gorgonian Shrimp](shrimpsandcrabs/untitled/44-manipontonia-psamathe-translucent-gorgonian-shrimp.md)
 
 ## Fishes
 
