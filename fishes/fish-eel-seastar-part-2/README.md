@@ -12,4 +12,5 @@
 | ![](../../.gitbook/assets/small-aspidontus-dussumieri.jpg)  | [58:Aspidontus dussumieri,Dussumier's Blenny, Lance Blenny](58-aspidontus-dussumieri-dussumiers-blenny-lance-blenny.md) |
 |  ![](../../.gitbook/assets/small-dactyloptena-orientalis.jpg)  | [59:Dactyloptena orientalis,Flying Gurnard, Helmet Gurnard , Oriental Flying](59-dactyloptena-orientalis-flying-gurnard-helmet-gurnard-oriental-flying.md) |
 | ![](../../.gitbook/assets/small-gorgasia-maculata.jpg)  | [60:Gorgasia maculata,Whitespotted garden eel](60-gorgasia-maculata-whitespotted-garden-eel.md) |
+| ![](../../.gitbook/assets/small-striped-eel-catfish.jpg)  | [61:Striped eel catfish,Plotosus lineatus](61-striped-eel-catfish-plotosus-lineatus.md) |
 

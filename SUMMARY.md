@@ -173,6 +173,7 @@
   * [58:Aspidontus dussumieri,Dussumier's Blenny, Lance Blenny](fishes/fish-eel-seastar-part-2/58-aspidontus-dussumieri-dussumiers-blenny-lance-blenny.md)
   * [59:Dactyloptena orientalis,Flying Gurnard, Helmet Gurnard , Oriental Flying](fishes/fish-eel-seastar-part-2/59-dactyloptena-orientalis-flying-gurnard-helmet-gurnard-oriental-flying.md)
   * [60:Gorgasia maculata,Whitespotted garden eel](fishes/fish-eel-seastar-part-2/60-gorgasia-maculata-whitespotted-garden-eel.md)
+  * [61:Striped eel catfish,Plotosus lineatus](fishes/fish-eel-seastar-part-2/61-striped-eel-catfish-plotosus-lineatus.md)
 
 ## Others
 
