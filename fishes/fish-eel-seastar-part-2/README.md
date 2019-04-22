@@ -13,4 +13,5 @@
 |  ![](../../.gitbook/assets/small-dactyloptena-orientalis.jpg)  | [59:Dactyloptena orientalis,Flying Gurnard, Helmet Gurnard , Oriental Flying](59-dactyloptena-orientalis-flying-gurnard-helmet-gurnard-oriental-flying.md) |
 | ![](../../.gitbook/assets/small-gorgasia-maculata.jpg)  | [60:Gorgasia maculata,Whitespotted garden eel](60-gorgasia-maculata-whitespotted-garden-eel.md) |
 | ![](../../.gitbook/assets/small-striped-eel-catfish.jpg)  | [61:Striped eel catfish,Plotosus lineatus](61-striped-eel-catfish-plotosus-lineatus.md) |
+| ![](../../.gitbook/assets/small-siokunichthys-nigrolineatus.jpg)  | [62:Siokunichthys nigrolineatus,Mushroom-coral Pipefish](62-siokunichthys-nigrolineatus-mushroom-coral-pipefish.md) |
 
