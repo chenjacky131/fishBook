@@ -8,3 +8,5 @@
 
 ![](../../.gitbook/assets/ornate-ghost-pipefish3.jpg)
 
+![juvenile](../../.gitbook/assets/ornate-ghost-pipefish-juvenile.jpg)
+
