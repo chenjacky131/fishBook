@@ -119,7 +119,7 @@
   * [5:Red And Black Anemonefish,Fire Clownfish,Amphiprion melanopus](fishes/untitled/5-red-and-black-anemonefish-amphiprion-melanopus.md)
   * [6:Clown Anemonefish, Western Clown Anemonefish,Amphiprion ocellaris](fishes/untitled/6-false-clown-anemonefish-ocellaris-clownfish-amphiprion-ocellaris.md)
   * [7:Orbicular Batfish,Platax orbicularis](fishes/untitled/7-circular-spadefish-platax-orbicularis.md)
-  * [8:Yellowbanded Sweetlips,Plectorhinchus lineatus](fishes/untitled/8-diagonal-banded-sweetlips-plectorhinchus-lineatus.md)
+  * [8:Plectorhinchus lineatus，Yellowbanded Sweetlips，Diagonal-banded Sweetlips](fishes/untitled/8-diagonal-banded-sweetlips-plectorhinchus-lineatus.md)
   * [9:Okinawa goby,Gobiodon okinawae](fishes/untitled/9-lubricogobius-exiguus-yellow-pygmy-goby.md)
   * [10:Large Whip Goby,Bryaninops amplus](fishes/untitled/10-bryaninops-loki-loki-whip-goby.md)
   * [11:Carpet Sole,Liachirus melanospilos](fishes/untitled/11-carpet-sole.md)
