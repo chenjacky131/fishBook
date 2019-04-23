@@ -177,6 +177,7 @@
   * [62:Siokunichthys nigrolineatus,Mushroom-coral Pipefish](fishes/fish-eel-seastar-part-2/62-siokunichthys-nigrolineatus-mushroom-coral-pipefish.md)
   * [63:Pterois volitans,Red lionfish](fishes/fish-eel-seastar-part-2/63-pterois-volitans-red-lionfish.md)
   * [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](fishes/fish-eel-seastar-part-2/64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md)
+  * [65:Echeneis naucrates,Live Sharksucker](fishes/fish-eel-seastar-part-2/65-echeneis-naucrates-live-sharksucker.md)
 
 ## Others
 
