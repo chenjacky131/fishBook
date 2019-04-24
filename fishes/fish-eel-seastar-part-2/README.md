@@ -18,4 +18,5 @@
 | ![](../../.gitbook/assets/small-dendrochirus-zebra.jpg)  | [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md) |
 | ![](../../.gitbook/assets/echeneis-naucrates%20%281%29.jpg)  | [65:Echeneis naucrates,Live Sharksucker](65-echeneis-naucrates-live-sharksucker.md) |
 | ![](../../.gitbook/assets/small-plectorhinchus-chaetodonoides.jpg)  | [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md) |
+| ![](../../.gitbook/assets/small-amphiprion-perideraion.jpg)  | [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md) |
 

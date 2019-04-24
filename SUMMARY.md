@@ -116,8 +116,8 @@
   * [2:Moorish Idol,Zanclus cornutus](fishes/untitled/2-moorish-idol.md)
   * [3:Black-banded Demoiselle,Amblypomacentrus breviceps](fishes/untitled/3-black-banded-damselfish.md)
   * [4:Masked Spinefoot,Siganus puellus](fishes/untitled/4-masked-rabbitfish-siganus-puellus-decorated-rabbitfish.md)
-  * [5:Red And Black Anemonefish,Fire Clownfish,Amphiprion melanopus](fishes/untitled/5-red-and-black-anemonefish-amphiprion-melanopus.md)
-  * [6:Clown Anemonefish, Western Clown Anemonefish,Amphiprion ocellaris](fishes/untitled/6-false-clown-anemonefish-ocellaris-clownfish-amphiprion-ocellaris.md)
+  * [5:Amphiprion melanopus,Red And Black Anemonefish,Fire Clownfish](fishes/untitled/5-red-and-black-anemonefish-amphiprion-melanopus.md)
+  * [6:Amphiprion ocellaris,Clown Anemonefish, Western Clown Anemonefish](fishes/untitled/6-false-clown-anemonefish-ocellaris-clownfish-amphiprion-ocellaris.md)
   * [7:Orbicular Batfish,Platax orbicularis](fishes/untitled/7-circular-spadefish-platax-orbicularis.md)
   * [8:Plectorhinchus lineatus，Yellowbanded Sweetlips，Diagonal-banded Sweetlips](fishes/untitled/8-diagonal-banded-sweetlips-plectorhinchus-lineatus.md)
   * [9:Okinawa goby,Gobiodon okinawae](fishes/untitled/9-lubricogobius-exiguus-yellow-pygmy-goby.md)
@@ -179,6 +179,7 @@
   * [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](fishes/fish-eel-seastar-part-2/64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md)
   * [65:Echeneis naucrates,Live Sharksucker](fishes/fish-eel-seastar-part-2/65-echeneis-naucrates-live-sharksucker.md)
   * [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](fishes/fish-eel-seastar-part-2/66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md)
+  * [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](fishes/fish-eel-seastar-part-2/67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md)
 
 ## Others
 
