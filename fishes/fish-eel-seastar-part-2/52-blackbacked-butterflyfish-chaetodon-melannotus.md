@@ -1,6 +1,6 @@
-# 52:Blackbacked Butterflyfish,Chaetodon melannotus
+# 52:Chaetodon melannotus,Black-back Butterflyfish
 
-#### Chinese name:黑背蝶、曙色蝶
+#### Chinese name:黑背蝴蝶鱼、曙色蝶
 
 ![](../../.gitbook/assets/blackbacked-butterflyfish.jpg)
 

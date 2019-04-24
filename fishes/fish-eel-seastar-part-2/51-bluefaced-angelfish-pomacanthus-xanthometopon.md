@@ -1,6 +1,6 @@
-# 51:Bluefaced Angelfish,Pomacanthus xanthometopon
+# 51:Pomacanthus xanthometopon，Blue-face Angelfish
 
-#### Chinese name: 黄颅盖刺鱼
+#### Chinese name: 黄颅盖刺鱼，黄面神仙鱼
 
 ![](../../.gitbook/assets/bluefaced-angelfish.jpg)
 
