@@ -178,6 +178,7 @@
   * [63:Pterois volitans,Red lionfish](fishes/fish-eel-seastar-part-2/63-pterois-volitans-red-lionfish.md)
   * [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](fishes/fish-eel-seastar-part-2/64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md)
   * [65:Echeneis naucrates,Live Sharksucker](fishes/fish-eel-seastar-part-2/65-echeneis-naucrates-live-sharksucker.md)
+  * [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](fishes/fish-eel-seastar-part-2/66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md)
 
 ## Others
 

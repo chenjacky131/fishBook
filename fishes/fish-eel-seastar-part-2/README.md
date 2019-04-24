@@ -17,4 +17,5 @@
 | ![](../../.gitbook/assets/small-pterois-volitans.jpg)  | [63:Pterois volitans,Red lionfish](63-pterois-volitans-red-lionfish.md) |
 | ![](../../.gitbook/assets/small-dendrochirus-zebra.jpg)  | [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md) |
 | ![](../../.gitbook/assets/echeneis-naucrates%20%281%29.jpg)  | [65:Echeneis naucrates,Live Sharksucker](65-echeneis-naucrates-live-sharksucker.md) |
+| ![](../../.gitbook/assets/small-plectorhinchus-chaetodonoides.jpg)  | [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md) |
 
