@@ -180,6 +180,7 @@
   * [65:Echeneis naucrates,Live Sharksucker](fishes/fish-eel-seastar-part-2/65-echeneis-naucrates-live-sharksucker.md)
   * [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](fishes/fish-eel-seastar-part-2/66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md)
   * [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](fishes/fish-eel-seastar-part-2/67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md)
+  * [68:Acanthurus thompsoni,Whitetail Surgeonfish,Chocolate Surgeonfish, Night Surgeonfish](fishes/fish-eel-seastar-part-2/68-acanthurus-thompsoni-whitetail-surgeonfish-chocolate-surgeonfish-night-surgeonfish.md)
 
 ## Others
 
