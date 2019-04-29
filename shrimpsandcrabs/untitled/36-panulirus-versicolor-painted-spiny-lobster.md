@@ -4,3 +4,5 @@
 
 ![juvenile](../../.gitbook/assets/panulirus-versicolor.jpg)
 
+![](../../.gitbook/assets/panulirus-versicolor2.jpg)
+
