@@ -21,4 +21,7 @@
 | ![](../../.gitbook/assets/small-amphiprion-perideraion.jpg)  | [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md) |
 | ![](../../.gitbook/assets/small-acanthurus-thompsoni.jpg)  | [68:Acanthurus thompsoni,Whitetail Surgeonfish,Chocolate Surgeonfish, Night Surgeonfish](68-acanthurus-thompsoni-whitetail-surgeonfish-chocolate-surgeonfish-night-surgeonfish.md) |
 | ![](../../.gitbook/assets/small-amphiprion-clarkii.jpg)  | [69:Amphiprion clarkii,Yellowtail Clownfish](69-amphiprion-clarkii-yellowtail-clownfish.md) |
+| ![](../../.gitbook/assets/small-chaetodon-octofasciatus.jpg)  | [70:Chaetodon octofasciatus,Eightband Butterflyfish](70-chaetodon-octofasciatus-eightband-butterflyfish.md) |
+| ![](../../.gitbook/assets/small-dactylopus-kuiteri.jpg)  | [71:Dactylopus kuiteri,Orange-black Dragonet](71-dactylopus-kuiteri-orange-black-dragonet.md) |
+| ![](../../.gitbook/assets/small-fistularia-commersonii.jpg)  | [72:Fistularia commersonii,Bluespotted Cornetfish](72-fistularia-commersonii-bluespotted-cornetfish.md) |
 

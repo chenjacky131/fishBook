@@ -183,6 +183,9 @@
   * [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](fishes/fish-eel-seastar-part-2/67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md)
   * [68:Acanthurus thompsoni,Whitetail Surgeonfish,Chocolate Surgeonfish, Night Surgeonfish](fishes/fish-eel-seastar-part-2/68-acanthurus-thompsoni-whitetail-surgeonfish-chocolate-surgeonfish-night-surgeonfish.md)
   * [69:Amphiprion clarkii,Yellowtail Clownfish](fishes/fish-eel-seastar-part-2/69-amphiprion-clarkii-yellowtail-clownfish.md)
+  * [70:Chaetodon octofasciatus,Eightband Butterflyfish](fishes/fish-eel-seastar-part-2/70-chaetodon-octofasciatus-eightband-butterflyfish.md)
+  * [71:Dactylopus kuiteri,Orange-black Dragonet](fishes/fish-eel-seastar-part-2/71-dactylopus-kuiteri-orange-black-dragonet.md)
+  * [72:Fistularia commersonii,Bluespotted Cornetfish](fishes/fish-eel-seastar-part-2/72-fistularia-commersonii-bluespotted-cornetfish.md)
 
 ## Others
 
