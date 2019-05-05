@@ -11,6 +11,7 @@ description: no fish neither nudi
 | ![](../../.gitbook/assets/small-ovabunda-macrospiculata.jpg)  | [3:Ovabunda macrospiculata,Soft coral](3-ovabunda-macrospiculata-soft-coral.md) |
 | ![](../../.gitbook/assets/small-pachycerianthus-longistriatus.jpg)  | [4:Pachycerianthus longistriatus,Striped tube anemone, Striated tube](4-pachycerianthus-longistriatus-striped-tube-anemone-striated-tube.md) |
 | ![](../../.gitbook/assets/small-barrel-sponge.jpg)  | [5:barrel sponge,Xestospongia testudinaria](5-barrel-sponge-xestospongia-testudinaria.md) |
+| ![](../../.gitbook/assets/small-asthenosoma-varium.jpg)  | [6:Asthenosoma varium,Fire Urchin](6-asthenosoma-varium-fire-urchin.md) |
 
 
 

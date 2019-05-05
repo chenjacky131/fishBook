@@ -20,4 +20,5 @@
 | ![](../../.gitbook/assets/small-plectorhinchus-chaetodonoides.jpg)  | [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md) |
 | ![](../../.gitbook/assets/small-amphiprion-perideraion.jpg)  | [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md) |
 | ![](../../.gitbook/assets/small-acanthurus-thompsoni.jpg)  | [68:Acanthurus thompsoni,Whitetail Surgeonfish,Chocolate Surgeonfish, Night Surgeonfish](68-acanthurus-thompsoni-whitetail-surgeonfish-chocolate-surgeonfish-night-surgeonfish.md) |
+| ![](../../.gitbook/assets/small-amphiprion-clarkii.jpg)  | [69:Amphiprion clarkii,Yellowtail Clownfish](69-amphiprion-clarkii-yellowtail-clownfish.md) |
 

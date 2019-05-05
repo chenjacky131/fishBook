@@ -7,6 +7,7 @@
 | ![](../../.gitbook/assets/small-heron-ardeadoris.jpg)  | [53:Ardeadoris egretta,Heron Ardeadoris](53-ardeadoris-egretta-heron-ardeadoris.md) |
 | ![](../../.gitbook/assets/small-thuridilla-gracilis.jpg)  | [54:Thuridilla gracilis,Sapsucking Slug](54-thuridilla-gracilis-sapsucking-slug.md) |
 | ![](../../.gitbook/assets/small-yellow-tipped-phyllodesmium.jpg)  | [55:Phyllodesmium briareum,Yellow-Tipped Phyllodesmium](55-phyllodesmium-briareum-yellow-tipped-phyllodesmium.md) |
+| ![](../../.gitbook/assets/small-aegires-villosus-the-red-one.jpg)  | [56:Aegires villosus,Hairy Norse God](56-aegires-villosus-hairy-norse-god.md) |
 
 
 

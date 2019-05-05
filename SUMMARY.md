@@ -61,6 +61,7 @@
   * [53:Ardeadoris egretta,Heron Ardeadoris](nudibranch/nudibranch-platworm2/53-ardeadoris-egretta-heron-ardeadoris.md)
   * [54:Thuridilla gracilis,Sapsucking Slug](nudibranch/nudibranch-platworm2/54-thuridilla-gracilis-sapsucking-slug.md)
   * [55:Phyllodesmium briareum,Yellow-Tipped Phyllodesmium](nudibranch/nudibranch-platworm2/55-phyllodesmium-briareum-yellow-tipped-phyllodesmium.md)
+  * [56:Aegires villosus,Hairy Norse God](nudibranch/nudibranch-platworm2/56-aegires-villosus-hairy-norse-god.md)
 
 ## ShrimpsAndCrabs
 
@@ -181,6 +182,7 @@
   * [66:Plectorhinchus chaetodonoides,Harlequin Sweetlips](fishes/fish-eel-seastar-part-2/66-plectorhinchus-chaetodonoides-harlequin-sweetlips.md)
   * [67:Amphiprion perideraion,Pink Anemonefish,False Skunk-striped Anemonefish,Whitebanded Anemonefish](fishes/fish-eel-seastar-part-2/67-amphiprion-perideraion-pink-anemonefish-false-skunk-striped-anemonefish-whitebanded-anemonefish.md)
   * [68:Acanthurus thompsoni,Whitetail Surgeonfish,Chocolate Surgeonfish, Night Surgeonfish](fishes/fish-eel-seastar-part-2/68-acanthurus-thompsoni-whitetail-surgeonfish-chocolate-surgeonfish-night-surgeonfish.md)
+  * [69:Amphiprion clarkii,Yellowtail Clownfish](fishes/fish-eel-seastar-part-2/69-amphiprion-clarkii-yellowtail-clownfish.md)
 
 ## Others
 
@@ -190,6 +192,7 @@
   * [3:Ovabunda macrospiculata,Soft coral](others/others/3-ovabunda-macrospiculata-soft-coral.md)
   * [4:Pachycerianthus longistriatus,Striped tube anemone, Striated tube](others/others/4-pachycerianthus-longistriatus-striped-tube-anemone-striated-tube.md)
   * [5:barrel sponge,Xestospongia testudinaria](others/others/5-barrel-sponge-xestospongia-testudinaria.md)
+  * [6:Asthenosoma varium,Fire Urchin](others/others/6-asthenosoma-varium-fire-urchin.md)
 
 ## Unknow
 
