@@ -8,6 +8,19 @@
 | ![](../../.gitbook/assets/small-thuridilla-gracilis.jpg)  | [54:Thuridilla gracilis,Sapsucking Slug](54-thuridilla-gracilis-sapsucking-slug.md) |
 | ![](../../.gitbook/assets/small-yellow-tipped-phyllodesmium.jpg)  | [55:Phyllodesmium briareum,Yellow-Tipped Phyllodesmium](55-phyllodesmium-briareum-yellow-tipped-phyllodesmium.md) |
 | ![](../../.gitbook/assets/small-aegires-villosus-the-red-one.jpg)  | [56:Aegires villosus,Hairy Norse God](56-aegires-villosus-hairy-norse-god.md) |
+| ![](../../.gitbook/assets/small-hypselodoris-krakatoa.jpg)  | [57:Hypselodoris krakatoa,Hypselodoris Krakatoa](57-hypselodoris-krakatoa-hypselodoris-krakatoa.md) |
+| ![](../../.gitbook/assets/small-miamira-alleni.jpg)  | [58:Miamira alleni](58-miamira-alleni.md) |
+| ![](../../.gitbook/assets/small-nembrotha-kubaryana.jpg)  | [59:Nembrotha kubaryana,Nembrotha Kubaryana](59-nembrotha-kubaryana-nembrotha-kubaryana.md) |
+| ![](../../.gitbook/assets/small-nembrotha-milleri.jpg)  | [60:Nembrotha milleri,Miller's Nembrotha](60-nembrotha-milleri-millers-nembrotha.md) |
+| ![](../../.gitbook/assets/small-paraplanocera-marginata.jpg)  | [61:Paraplanocera marginata](61-paraplanocera-marginata.md) |
+| ![](../../.gitbook/assets/small-philinopsis-pilsbryi.jpg)  | [62:Philinopsis pilsbryi,Pilsbry's Headshield Slug](62-philinopsis-pilsbryi-pilsbrys-headshield-slug.md) |
+| ![](../../.gitbook/assets/small-phyllidiopsis-annae.jpg)  | [63:Phyllidiopsis annae,Anne's Phyllidiopsis](63-phyllidiopsis-annae-annes-phyllidiopsis.md) |
+| ![](../../.gitbook/assets/small-phyllodesmium-crypticum.jpg)  | [64:Phyllodesmium crypticum,Cryptic Phyllodesmium](64-phyllodesmium-crypticum-cryptic-phyllodesmium.md) |
+| ![](../../.gitbook/assets/small-phyllodesmium-opalescens-the-white-one.jpg)  | [65:Phyllodesmium opalescens](65-phyllodesmium-opalescens.md) |
+| ![](../../.gitbook/assets/small-pteraeolidia-semperi.jpg)  | [66:Pteraeolidia semperi](66-pteraeolidia-semperi.md) |
+| ![](../../.gitbook/assets/small-reticulidia-halgerda.jpg)  | [67:Reticulidia halgerda,Halgerda Reticulidia](67-reticulidia-halgerda-halgerda-reticulidia.md) |
+| ![](../../.gitbook/assets/small-sclerodoris-tuberculata.jpg)  | [68:Sclerodoris tuberculata](68-sclerodoris-tuberculata.md) |
+| ![](../../.gitbook/assets/small-tritonia-nilsodhneri.jpg)  | [69:Tritonia nilsodhneri,Tritonia Nilsodhneri](69-tritonia-nilsodhneri-tritonia-nilsodhneri.md) |
 
 
 

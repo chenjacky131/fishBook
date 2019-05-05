@@ -62,6 +62,19 @@
   * [54:Thuridilla gracilis,Sapsucking Slug](nudibranch/nudibranch-platworm2/54-thuridilla-gracilis-sapsucking-slug.md)
   * [55:Phyllodesmium briareum,Yellow-Tipped Phyllodesmium](nudibranch/nudibranch-platworm2/55-phyllodesmium-briareum-yellow-tipped-phyllodesmium.md)
   * [56:Aegires villosus,Hairy Norse God](nudibranch/nudibranch-platworm2/56-aegires-villosus-hairy-norse-god.md)
+  * [57:Hypselodoris krakatoa,Hypselodoris Krakatoa](nudibranch/nudibranch-platworm2/57-hypselodoris-krakatoa-hypselodoris-krakatoa.md)
+  * [58:Miamira alleni](nudibranch/nudibranch-platworm2/58-miamira-alleni.md)
+  * [59:Nembrotha kubaryana,Nembrotha Kubaryana](nudibranch/nudibranch-platworm2/59-nembrotha-kubaryana-nembrotha-kubaryana.md)
+  * [60:Nembrotha milleri,Miller's Nembrotha](nudibranch/nudibranch-platworm2/60-nembrotha-milleri-millers-nembrotha.md)
+  * [61:Paraplanocera marginata](nudibranch/nudibranch-platworm2/61-paraplanocera-marginata.md)
+  * [62:Philinopsis pilsbryi,Pilsbry's Headshield Slug](nudibranch/nudibranch-platworm2/62-philinopsis-pilsbryi-pilsbrys-headshield-slug.md)
+  * [63:Phyllidiopsis annae,Anne's Phyllidiopsis](nudibranch/nudibranch-platworm2/63-phyllidiopsis-annae-annes-phyllidiopsis.md)
+  * [64:Phyllodesmium crypticum,Cryptic Phyllodesmium](nudibranch/nudibranch-platworm2/64-phyllodesmium-crypticum-cryptic-phyllodesmium.md)
+  * [65:Phyllodesmium opalescens](nudibranch/nudibranch-platworm2/65-phyllodesmium-opalescens.md)
+  * [66:Pteraeolidia semperi](nudibranch/nudibranch-platworm2/66-pteraeolidia-semperi.md)
+  * [67:Reticulidia halgerda,Halgerda Reticulidia](nudibranch/nudibranch-platworm2/67-reticulidia-halgerda-halgerda-reticulidia.md)
+  * [68:Sclerodoris tuberculata](nudibranch/nudibranch-platworm2/68-sclerodoris-tuberculata.md)
+  * [69:Tritonia nilsodhneri,Tritonia Nilsodhneri](nudibranch/nudibranch-platworm2/69-tritonia-nilsodhneri-tritonia-nilsodhneri.md)
 
 ## ShrimpsAndCrabs
 
