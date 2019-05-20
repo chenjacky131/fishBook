@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/philinopsis-pilsbryi.jpg)
 
+![](../../.gitbook/assets/philinopsis-pilsbryi2.jpg)
+
