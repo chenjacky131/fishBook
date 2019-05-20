@@ -21,6 +21,13 @@
 | ![](../../.gitbook/assets/small-reticulidia-halgerda.jpg)  | [67:Reticulidia halgerda,Halgerda Reticulidia](67-reticulidia-halgerda-halgerda-reticulidia.md) |
 | ![](../../.gitbook/assets/small-sclerodoris-tuberculata.jpg)  | [68:Sclerodoris tuberculata](68-sclerodoris-tuberculata.md) |
 | ![](../../.gitbook/assets/small-tritonia-nilsodhneri.jpg)  | [69:Tritonia nilsodhneri,Tritonia Nilsodhneri](69-tritonia-nilsodhneri-tritonia-nilsodhneri.md) |
+| ![](../../.gitbook/assets/small-aplysia-oculifera.jpg)  | [70:Aplysia oculifera,Spotted Sea Hare](70-aplysia-oculifera-spotted-sea-hare.md) |
+| ![](../../.gitbook/assets/small-armina-semperi.jpg)  | [71:Armina semperi](71-armina-semperi.md) |
+| ![](../../.gitbook/assets/small-doto-racemosa.jpg)  | [72:Doto racemosa](72-doto-racemosa.md) |
+| ![](../../.gitbook/assets/small-lobiger-viridis.jpg)  | [73:Lobiger viridis,Green Sapsucking Slug](73-lobiger-viridis-green-sapsucking-slug.md) |
+| ![](../../.gitbook/assets/small-phyllodesmium-lizardense.jpg)  | [74:Phyllodesmium lizardense,Lizard Island Phyllodesmium](74-phyllodesmium-lizardense-lizard-island-phyllodesmium.md) |
+| ![](../../.gitbook/assets/small-tambja-morosa.jpg)  | [75:Tambja morosa,Gloomy Nudibranch](75-tambja-morosa-gloomy-nudibranch.md) |
+| ![](../../.gitbook/assets/small-thorunna-australis.jpg)  | [76:Thorunna australis](76-thorunna-australis.md) |
 
 
 
