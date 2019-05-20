@@ -75,6 +75,13 @@
   * [67:Reticulidia halgerda,Halgerda Reticulidia](nudibranch/nudibranch-platworm2/67-reticulidia-halgerda-halgerda-reticulidia.md)
   * [68:Sclerodoris tuberculata](nudibranch/nudibranch-platworm2/68-sclerodoris-tuberculata.md)
   * [69:Tritonia nilsodhneri,Tritonia Nilsodhneri](nudibranch/nudibranch-platworm2/69-tritonia-nilsodhneri-tritonia-nilsodhneri.md)
+  * [70:Aplysia oculifera,Spotted Sea Hare](nudibranch/nudibranch-platworm2/70-aplysia-oculifera-spotted-sea-hare.md)
+  * [71:Armina semperi](nudibranch/nudibranch-platworm2/71-armina-semperi.md)
+  * [72:Doto racemosa](nudibranch/nudibranch-platworm2/72-doto-racemosa.md)
+  * [73:Lobiger viridis,Green Sapsucking Slug](nudibranch/nudibranch-platworm2/73-lobiger-viridis-green-sapsucking-slug.md)
+  * [74:Phyllodesmium lizardense,Lizard Island Phyllodesmium](nudibranch/nudibranch-platworm2/74-phyllodesmium-lizardense-lizard-island-phyllodesmium.md)
+  * [75:Tambja morosa,Gloomy Nudibranch](nudibranch/nudibranch-platworm2/75-tambja-morosa-gloomy-nudibranch.md)
+  * [76:Thorunna australis](nudibranch/nudibranch-platworm2/76-thorunna-australis.md)
 
 ## ShrimpsAndCrabs
 
