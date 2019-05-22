@@ -28,6 +28,7 @@
 | ![](../../.gitbook/assets/small-phyllodesmium-lizardense.jpg)  | [74:Phyllodesmium lizardense,Lizard Island Phyllodesmium](74-phyllodesmium-lizardense-lizard-island-phyllodesmium.md) |
 | ![](../../.gitbook/assets/small-tambja-morosa.jpg)  | [75:Tambja morosa,Gloomy Nudibranch](75-tambja-morosa-gloomy-nudibranch.md) |
 | ![](../../.gitbook/assets/small-thorunna-australis.jpg)  | [76:Thorunna australis](76-thorunna-australis.md) |
+| ![](../../.gitbook/assets/small-carminodoris-nodulosa.jpg)  | [77:Carminodoris nodulosa](77-carminodoris-nodulosa.md) |
 
 
 

@@ -82,6 +82,7 @@
   * [74:Phyllodesmium lizardense,Lizard Island Phyllodesmium](nudibranch/nudibranch-platworm2/74-phyllodesmium-lizardense-lizard-island-phyllodesmium.md)
   * [75:Tambja morosa,Gloomy Nudibranch](nudibranch/nudibranch-platworm2/75-tambja-morosa-gloomy-nudibranch.md)
   * [76:Thorunna australis](nudibranch/nudibranch-platworm2/76-thorunna-australis.md)
+  * [77:Carminodoris nodulosa](nudibranch/nudibranch-platworm2/77-carminodoris-nodulosa.md)
 
 ## ShrimpsAndCrabs
 
