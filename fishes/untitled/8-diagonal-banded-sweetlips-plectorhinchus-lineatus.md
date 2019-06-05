@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/diagonal-banded-sweetlips.jpg)
 
+![](../../.gitbook/assets/diagonal-banded-sweetlips2.jpg)
+
