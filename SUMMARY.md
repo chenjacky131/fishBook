@@ -161,7 +161,7 @@
   * [25:Ribbon Moray Eel,Rhinomuraena quaesita](fishes/untitled/25-ribbon-moray-eel-rhinomuraena-quaesita.md)
   * [26:Dwarf Moray,Gymnothorax melatremus](fishes/untitled/26-golden-moral-eel.md)
   * [27:Black-finned Snake Eel,Ophichthus altipennis](fishes/untitled/27-black-finned-snake-eel.md)
-  * [28:Bluespotted Stingray,Neotrygon kuhlii](fishes/untitled/28-blue-spotted-stingray.md)
+  * [28:Neotrygon kuhlii,Bluespotted Stingray](fishes/untitled/28-blue-spotted-stingray.md)
   * [29:Whitetip Reef Shark,Triaenodon obesus](fishes/untitled/29-whitetip-reef-shark-triaenodon-obesus.md)
   * [30:Electric Clam,Ctenoides ales](fishes/untitled/30-electronic-shell.md)
   * [31:Granulated Sea Star,Choriaster granulatus](fishes/untitled/31-granulated-sea-star.md)
