@@ -1,4 +1,4 @@
-# 7:Orbicular Batfish,Platax orbicularis
+# 7:Platax orbicularis,Orbicular Batfish
 
 #### Chinese name:    **圆眼燕鱼**、蝙蝠鱼、鲳仔、圆海燕、飞翼
 
