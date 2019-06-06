@@ -188,7 +188,7 @@
   * [51:Pomacanthus xanthometopon，Blue-face Angelfish](fishes/fish-eel-seastar-part-2/51-bluefaced-angelfish-pomacanthus-xanthometopon.md)
   * [52:Chaetodon melannotus,Black-back Butterflyfish](fishes/fish-eel-seastar-part-2/52-blackbacked-butterflyfish-chaetodon-melannotus.md)
   * [53:Pacific steephead parrotfish,Steephead parrotfish](fishes/fish-eel-seastar-part-2/53-pacific-steephead-parrotfish-steephead-parrotfish.md)
-  * [54:Fire Goby,Nemateleotris magnifica](fishes/fish-eel-seastar-part-2/54-fire-goby-nemateleotris-magnifica.md)
+  * [54:Nemateleotris magnifica,Fire Goby](fishes/fish-eel-seastar-part-2/54-fire-goby-nemateleotris-magnifica.md)
   * [55:Peacock Grouper,Cephalopholis argus](fishes/fish-eel-seastar-part-2/55-peacock-grouper-cephalopholis-argus.md)
   * [56:False Stonefish,Scorpaenopsis diabolus](fishes/fish-eel-seastar-part-2/56-false-stonefish-scorpaenopsis-diabolus.md)
   * [57:Banded Thicklip,Barred Wrasse,Hemigymnus fasciatus](fishes/fish-eel-seastar-part-2/3-unknow.md)

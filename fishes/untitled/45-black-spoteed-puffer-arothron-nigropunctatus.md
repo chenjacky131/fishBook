@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/black-spoteed-puffer.jpg)
 
+![](../../.gitbook/assets/arothron-nigropunctatus.jpg)
+
