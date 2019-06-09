@@ -156,7 +156,7 @@
   * [20:Yellowbanded Pipefish,Dunckerocampus pessuliferus](fishes/untitled/20-ringed-pipefish-doryrhamphus-dactyliophorus-banded-pipefish.md)
   * [21:Corythoichthys haematopterus,Messmate pipefish,Yello-banded pipefish](fishes/untitled/21-orange-spotted-pipefish-corythoichthys-ocellatus.md)
   * [22:Gymnothorax flavimarginatus,Yellow-edged Moray](fishes/untitled/22-yellowmargin-moray-eel.md)
-  * [23:Greyface Moray Eel,White-eyed Moray, Gymnothorax thyrsoideus](fishes/untitled/23-white-eyed-moray-eel.md)
+  * [23:Gymnothorax thyrsoideus,Greyface Moray Eel,White-eyed Moray](fishes/untitled/23-white-eyed-moray-eel.md)
   * [24:Turkey Moray,White-mouth Moray,Gymnothorax meleagris](fishes/untitled/24-whitemouth-moray-eel-gymnothorax-meleagris-guinea-moray-eel-spotted-moray.md)
   * [25:Ribbon Moray Eel,Rhinomuraena quaesita](fishes/untitled/25-ribbon-moray-eel-rhinomuraena-quaesita.md)
   * [26:Dwarf Moray,Gymnothorax melatremus](fishes/untitled/26-golden-moral-eel.md)
