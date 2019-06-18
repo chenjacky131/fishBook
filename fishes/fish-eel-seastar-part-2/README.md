@@ -24,4 +24,15 @@
 | ![](../../.gitbook/assets/small-chaetodon-octofasciatus.jpg)  | [70:Chaetodon octofasciatus,Eightband Butterflyfish](70-chaetodon-octofasciatus-eightband-butterflyfish.md) |
 | ![](../../.gitbook/assets/small-dactylopus-kuiteri.jpg)  | [71:Dactylopus kuiteri,Orange-black Dragonet](71-dactylopus-kuiteri-orange-black-dragonet.md) |
 | ![](../../.gitbook/assets/small-fistularia-commersonii.jpg)  | [72:Fistularia commersonii,Bluespotted Cornetfish](72-fistularia-commersonii-bluespotted-cornetfish.md) |
+| ![](../../.gitbook/assets/small-ablabys-macracanthus.jpg)  | [73:Ablabys macracanthus](73-ablabys-macracanthus.md) |
+| ![](../../.gitbook/assets/small-acanthurus-xanthopterus.jpg)  | [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md) |
+| ![](../../.gitbook/assets/small-balistoides-conspicillum.jpg)  | [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md) |
+| ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [76:Balistoides viridescens,Titan triggerfish](76-balistoides-viridescens-titan-triggerfish.md) |
+| ![](../../.gitbook/assets/small-bothus-lunatus.jpg)  | [77:Bothus lunatus,Plate fish](77-bothus-lunatus-plate-fish.md) |
+| ![](../../.gitbook/assets/small-caranx-melampygus.jpg)  | [78:Caranx melampygus,Bluefin trevally](78-caranx-melampygus-bluefin-trevally.md) |
+| ![](../../.gitbook/assets/small-cromileptes-altivelis.jpg)  | [79:Cromileptes altivelis,Humpback grouper](79-cromileptes-altivelis-humpback-grouper.md) |
+| ![](../../.gitbook/assets/small-epinephelus-polyphekadion.jpg)  | [80:Epinephelus polyphekadion,Disguised Grouper, Camouflage Grouper](80-epinephelus-polyphekadion-disguised-grouper-camouflage-grouper.md) |
+| ![](../../.gitbook/assets/small-eurypegasus-draconis.jpg)  | [81:Eurypegasus draconis,Dwarf Seamoth, Little Dragonfish, Short Dragonfish, Short Seamoth](81-eurypegasus-draconis-dwarf-seamoth-little-dragonfish-short-dragonfish-short-seamoth.md) |
+| ![](../../.gitbook/assets/small-heniochus-acuminatus.jpg)  | [82:Heniochus acuminatus,Bannerfish, Coachman, Featherfin Coralfish, Longfin Bannerfish](82-heniochus-acuminatus-bannerfish-coachman-featherfin-coralfish-longfin-bannerfish.md) |
+| ![](../../.gitbook/assets/small-heniochus-chrysostomus.jpg)  | [83:Heniochus chrysostomus,Horned Bannerfish, Horned Coralfish, Pennant Bannerfish, Threeband Pennant](83-heniochus-chrysostomus-horned-bannerfish-horned-coralfish-pennant-bannerfish-threeband-pennant.md) |
 
