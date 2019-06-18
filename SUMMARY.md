@@ -64,7 +64,7 @@
   * [56:Aegires villosus,Hairy Norse God](nudibranch/nudibranch-platworm2/56-aegires-villosus-hairy-norse-god.md)
   * [57:Hypselodoris krakatoa,Hypselodoris Krakatoa](nudibranch/nudibranch-platworm2/57-hypselodoris-krakatoa-hypselodoris-krakatoa.md)
   * [58:Miamira alleni](nudibranch/nudibranch-platworm2/58-miamira-alleni.md)
-  * [59:Nembrotha kubaryana,Nembrotha Kubaryana](nudibranch/nudibranch-platworm2/59-nembrotha-kubaryana-nembrotha-kubaryana.md)
+  * [59:Nembrotha kubaryana](nudibranch/nudibranch-platworm2/59-nembrotha-kubaryana-nembrotha-kubaryana.md)
   * [60:Nembrotha milleri,Miller's Nembrotha](nudibranch/nudibranch-platworm2/60-nembrotha-milleri-millers-nembrotha.md)
   * [61:Paraplanocera marginata](nudibranch/nudibranch-platworm2/61-paraplanocera-marginata.md)
   * [62:Philinopsis pilsbryi,Pilsbry's Headshield Slug](nudibranch/nudibranch-platworm2/62-philinopsis-pilsbryi-pilsbrys-headshield-slug.md)
