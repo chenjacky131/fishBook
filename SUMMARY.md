@@ -207,6 +207,15 @@
   * [70:Chaetodon octofasciatus,Eightband Butterflyfish](fishes/fish-eel-seastar-part-2/70-chaetodon-octofasciatus-eightband-butterflyfish.md)
   * [71:Dactylopus kuiteri,Orange-black Dragonet](fishes/fish-eel-seastar-part-2/71-dactylopus-kuiteri-orange-black-dragonet.md)
   * [72:Fistularia commersonii,Bluespotted Cornetfish](fishes/fish-eel-seastar-part-2/72-fistularia-commersonii-bluespotted-cornetfish.md)
+* [73:Ablabys macracanthus](fishes/73-ablabys-macracanthus.md)
+* [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](fishes/74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md)
+* [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](fishes/75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md)
+* [76:Balistoides viridescens,Titan triggerfish](fishes/76-balistoides-viridescens-titan-triggerfish.md)
+* [77:Bothus lunatus,Plate fish](fishes/77-bothus-lunatus-plate-fish.md)
+* [78:Caranx melampygus,Bluefin trevally](fishes/78-caranx-melampygus-bluefin-trevally.md)
+* [79:Cromileptes altivelis,Humpback grouper](fishes/79-cromileptes-altivelis-humpback-grouper.md)
+* [80:Epinephelus polyphekadion,Disguised Grouper, Camouflage Grouper](fishes/80-epinephelus-polyphekadion-disguised-grouper-camouflage-grouper.md)
+* [81:Eurypegasus draconis,Dwarf Seamoth, Little Dragonfish, Short Dragonfish, Short Seamoth](fishes/81-eurypegasus-draconis-dwarf-seamoth-little-dragonfish-short-dragonfish-short-seamoth.md)
 
 ## Others
 
