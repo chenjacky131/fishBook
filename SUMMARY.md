@@ -130,6 +130,9 @@
   * [41:Munida olivarae,Olivar's Lobster,Bug-eyed Squat Lobster](shrimpsandcrabs/untitled/41-munida-olivarae-olivars-lobster-bug-eyed-squat-lobster.md)
   * [42:Quadrella maculosa,Black Coral Crab or Trapeziid crab](shrimpsandcrabs/untitled/42-quadrella-maculosa-black-coral-crab-or-trapeziid-crab.md)
   * [43:Trachypenaeopsis richtersii ,Richters Sand Shrimp](shrimpsandcrabs/untitled/43-trachypenaeopsis-richtersii-richters-sand-shrimp.md)
+  * [44:Araiopontonia odontorhyncha,Slender Crinoid Shrimp](shrimpsandcrabs/untitled/44-araiopontonia-odontorhyncha-slender-crinoid-shrimp.md)
+  * [45:Miropandalus hardingi,Dragon Shrimp, Gorgonian Horned Shrimp](shrimpsandcrabs/untitled/45-miropandalus-hardingi-dragon-shrimp-gorgonian-horned-shrimp.md)
+  * [46:Pontonides ankeri,Barred Wire Coral Shrimp](shrimpsandcrabs/untitled/46-pontonides-ankeri-barred-wire-coral-shrimp.md)
 
 ## Fishes
 
