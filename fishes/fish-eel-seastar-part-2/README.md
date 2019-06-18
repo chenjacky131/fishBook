@@ -35,4 +35,10 @@
 | ![](../../.gitbook/assets/small-eurypegasus-draconis.jpg)  | [81:Eurypegasus draconis,Dwarf Seamoth, Little Dragonfish, Short Dragonfish, Short Seamoth](81-eurypegasus-draconis-dwarf-seamoth-little-dragonfish-short-dragonfish-short-seamoth.md) |
 | ![](../../.gitbook/assets/small-heniochus-acuminatus.jpg)  | [82:Heniochus acuminatus,Bannerfish, Coachman, Featherfin Coralfish, Longfin Bannerfish](82-heniochus-acuminatus-bannerfish-coachman-featherfin-coralfish-longfin-bannerfish.md) |
 | ![](../../.gitbook/assets/small-heniochus-chrysostomus.jpg)  | [83:Heniochus chrysostomus,Horned Bannerfish, Horned Coralfish, Pennant Bannerfish, Threeband Pennant](83-heniochus-chrysostomus-horned-bannerfish-horned-coralfish-pennant-bannerfish-threeband-pennant.md) |
+| ![](../../.gitbook/assets/small-holothuria-edulis.jpg)  | [84:Holothuria edulis,Sea Cucumber](84-holothuria-edulis-sea-cucumber.md) |
+| ![](../../.gitbook/assets/small-labroides-dimidiatus.jpg)  | [85:Labroides dimidiatus,Blue Streak, Blue-streak Cleaner Wrasse, Bridled Beauty, Cleaner Fish](85-labroides-dimidiatus-blue-streak-blue-streak-cleaner-wrasse-bridled-beauty-cleaner-fish.md) |
+| ![](../../.gitbook/assets/small-nannocampus-weberi.jpg)  | [86:Nannocampus weberi,Reef-flat Pipefish](86-nannocampus-weberi-reef-flat-pipefish.md) |
+| ![](../../.gitbook/assets/small-ostracion-meleagris.jpg)  | [87:Ostracion meleagris,Whitespotted Boxfish](87-ostracion-meleagris-whitespotted-boxfish.md) |
+| ![](../../.gitbook/assets/small-pseudobalistes-flavimarginatus.jpg)  | [88:Pseudobalistes flavimarginatus,Yellowmargin Triggerfish](88-pseudobalistes-flavimarginatus-yellowmargin-triggerfish.md) |
+| ![](../../.gitbook/assets/small-sargocentron-spiniferum.jpg)  | [89:Sargocentron spiniferum,Giant Squirrelfish , Long-jawed Squirrelfish, Sabre Squirrelfish](89-sargocentron-spiniferum-giant-squirrelfish-long-jawed-squirrelfish-sabre-squirrelfish.md) |
 
