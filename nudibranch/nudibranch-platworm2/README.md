@@ -29,6 +29,8 @@
 | ![](../../.gitbook/assets/small-tambja-morosa.jpg)  | [75:Tambja morosa,Gloomy Nudibranch](75-tambja-morosa-gloomy-nudibranch.md) |
 | ![](../../.gitbook/assets/small-thorunna-australis.jpg)  | [76:Thorunna australis](76-thorunna-australis.md) |
 | ![](../../.gitbook/assets/small-carminodoris-nodulosa.jpg)  | [77:Carminodoris nodulosa](77-carminodoris-nodulosa.md) |
+| ![](../../.gitbook/assets/small-goniobranchus-reticulatus.jpg)  | [78:Goniobranchus reticulatus](78-goniobranchus-reticulatus.md) |
+| ![](../../.gitbook/assets/small-hypselodoris-tryoni.jpg)  | [79:Hypselodoris tryoni,Tryon's Risbecia](79-hypselodoris-tryoni-tryons-risbecia.md) |
 
 
 

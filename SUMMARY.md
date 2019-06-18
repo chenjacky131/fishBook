@@ -83,6 +83,8 @@
   * [75:Tambja morosa,Gloomy Nudibranch](nudibranch/nudibranch-platworm2/75-tambja-morosa-gloomy-nudibranch.md)
   * [76:Thorunna australis](nudibranch/nudibranch-platworm2/76-thorunna-australis.md)
   * [77:Carminodoris nodulosa](nudibranch/nudibranch-platworm2/77-carminodoris-nodulosa.md)
+  * [78:Goniobranchus reticulatus](nudibranch/nudibranch-platworm2/78-goniobranchus-reticulatus.md)
+  * [79:Hypselodoris tryoni,Tryon's Risbecia](nudibranch/nudibranch-platworm2/79-hypselodoris-tryoni-tryons-risbecia.md)
 
 ## ShrimpsAndCrabs
 
