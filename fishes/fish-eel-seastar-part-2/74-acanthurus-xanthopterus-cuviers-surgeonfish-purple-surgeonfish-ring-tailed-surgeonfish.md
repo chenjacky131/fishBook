@@ -4,5 +4,5 @@
 
 found in anilao 
 
-![](../.gitbook/assets/acanthurus-xanthopterus.jpg)
+![](../../.gitbook/assets/acanthurus-xanthopterus.jpg)
 

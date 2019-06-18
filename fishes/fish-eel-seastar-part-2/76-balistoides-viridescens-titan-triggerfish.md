@@ -4,5 +4,5 @@
 
 found in tubbataha
 
-![](../.gitbook/assets/balistoides-viridescens.jpg)
+![](../../.gitbook/assets/balistoides-viridescens.jpg)
 

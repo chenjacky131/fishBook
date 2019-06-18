@@ -4,5 +4,5 @@
 
 found in tubbataha
 
-![](../.gitbook/assets/epinephelus-polyphekadion.jpg)
+![](../../.gitbook/assets/epinephelus-polyphekadion.jpg)
 

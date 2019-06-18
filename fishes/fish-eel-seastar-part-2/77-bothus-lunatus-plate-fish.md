@@ -4,5 +4,5 @@
 
 found in tubbataha
 
-![](../.gitbook/assets/bothus-lunatus.jpg)
+![](../../.gitbook/assets/bothus-lunatus.jpg)
 

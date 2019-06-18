@@ -4,5 +4,5 @@
 
 found in anilao
 
-![](../.gitbook/assets/ablabys-macracanthus.jpg)
+![](../../.gitbook/assets/ablabys-macracanthus.jpg)
 

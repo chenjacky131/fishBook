@@ -4,5 +4,5 @@
 
 found in tubbataha
 
-![](../.gitbook/assets/caranx-melampygus.jpg)
+![](../../.gitbook/assets/caranx-melampygus.jpg)
 

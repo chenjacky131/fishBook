@@ -4,5 +4,5 @@
 
 found in tubbataha 
 
-![](../.gitbook/assets/cromileptes-altivelis.jpg)
+![](../../.gitbook/assets/cromileptes-altivelis.jpg)
 

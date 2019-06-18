@@ -4,5 +4,5 @@
 
 found in anilao 
 
-![](../.gitbook/assets/eurypegasus-draconis.jpg)
+![](../../.gitbook/assets/eurypegasus-draconis.jpg)
 

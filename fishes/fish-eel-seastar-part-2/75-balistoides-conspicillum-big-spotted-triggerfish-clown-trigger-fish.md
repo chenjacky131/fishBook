@@ -4,5 +4,5 @@
 
 found in tubbataha 
 
-![](../.gitbook/assets/balistoides-conspicillum.jpg)
+![](../../.gitbook/assets/balistoides-conspicillum.jpg)
 
