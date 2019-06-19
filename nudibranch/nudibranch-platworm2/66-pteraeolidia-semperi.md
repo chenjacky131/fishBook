@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/pteraeolidia-semperi.jpg)
 
+![](../../.gitbook/assets/pteraeolidia-semperi2.jpg)
+
