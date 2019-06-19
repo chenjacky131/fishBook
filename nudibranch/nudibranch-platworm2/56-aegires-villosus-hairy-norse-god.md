@@ -4,3 +4,5 @@
 
 ![the pink one](../../.gitbook/assets/aegires-villosus-the-red-one.jpg)
 
+![](../../.gitbook/assets/aegires-villosus2.jpg)
+
