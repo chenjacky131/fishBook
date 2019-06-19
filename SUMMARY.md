@@ -175,7 +175,7 @@
   * [34:LinckiaSeaStar,Linckialaevigata](fishes/untitled/34-blue-linckia.md)
   * [35: Crown-of-thorns Sea Star,Acanthaster planci](fishes/untitled/35-crown-of-thorns-starfish.md)
   * [36:Giant Trevally,Caranx ignobilis](fishes/untitled/36-caranx-ignobilis-giant-trevally.md)
-  * [37:Bearded scorpionfish,Scorpaenopsis barbata](fishes/untitled/37-stone-fish.md)
+  * [37:Scorpaenopsis oxycephala,Tasseled Scorpionfish, Smallscale Scorpionfish](fishes/untitled/37-stone-fish.md)
   * [38:Hummingbird Bobtail Squid,Euprymna berryi](fishes/untitled/38-berrys-bobtail-squid-euprymna-berryi-humming-bird-bobtail-squid.md)
   * [39:Crocodile Fish,Cymbacephalus beauforti](fishes/untitled/39-crocodile-fish-cymbacephalus-beauforti-de-beauforts-flathead.md)
   * [40:File fish,Brachaluteres jacksonianus](fishes/untitled/21-unknow.md)
