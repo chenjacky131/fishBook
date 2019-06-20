@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/gymnothorax-flavimarginatus.jpg)
 
+![](../../.gitbook/assets/yellowmargin-moray-eel2.jpg)
+
