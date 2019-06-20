@@ -6,3 +6,7 @@
 
 ![](../../.gitbook/assets/bullocks-hypselodoris2.jpg)
 
+![](../../.gitbook/assets/hypselodoris-bullockii.jpg)
+
+![](../../.gitbook/assets/hypselodoris-bullockii2.jpg)
+
