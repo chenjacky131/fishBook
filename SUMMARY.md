@@ -102,7 +102,7 @@
   * [11: Orangutan Crab,Achaeus japonicus](shrimpsandcrabs/untitled/11-orangutan-crab-achaeus-japonicus.md)
   * [12: Skeleton Shrimp,Pseudoprotella phasma](shrimpsandcrabs/untitled/12-caprellidae-skeleton-shrimp.md)
   * [13: Blue Maxima Clam,Small Giant Clam, Elongate Giant Clam,Tridacna maxima](shrimpsandcrabs/untitled/13-maxima-giant-clam.md)
-  * [14: Banded Coral Shrimp,Stenopus hispidus](shrimpsandcrabs/untitled/14-banded-coral-shrimp.md)
+  * [14: Stenopus hispidus,Banded Coral Shrimp](shrimpsandcrabs/untitled/14-banded-coral-shrimp.md)
   * [15:Harlequin Shrimp,Hymenocera picta](shrimpsandcrabs/untitled/15-harlequin-shrimp.md)
   * [16: Spiny Tiger Shrimp, Bongo Shrimp,Phyllognathia ceratophthalma](shrimpsandcrabs/untitled/16-spiny-tiger-shrimp.md)
   * [17: Squat Anemone Shrimp,Thor amboinensis](shrimpsandcrabs/untitled/17-squat-anemone-shrimp-sexy-anemone-shrimp.md)
