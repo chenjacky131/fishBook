@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/arothron-nigropunctatus.jpg)
 
+![](../../.gitbook/assets/arothron-nigropunctatus2.jpg)
+
