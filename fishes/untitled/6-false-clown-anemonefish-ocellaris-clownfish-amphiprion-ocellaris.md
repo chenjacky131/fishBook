@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/amphiprion-ocellaris2.jpg)
 
+![](../../.gitbook/assets/amphiprion-ocellaris3.jpg)
+
