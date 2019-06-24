@@ -24,7 +24,7 @@
 | ![](../../.gitbook/assets/small-chaetodon-octofasciatus.jpg)  | [70:Chaetodon octofasciatus,Eightband Butterflyfish](70-chaetodon-octofasciatus-eightband-butterflyfish.md) |
 | ![](../../.gitbook/assets/small-dactylopus-kuiteri.jpg)  | [71:Dactylopus kuiteri,Orange-black Dragonet](71-dactylopus-kuiteri-orange-black-dragonet.md) |
 | ![](../../.gitbook/assets/small-fistularia-commersonii.jpg)  | [72:Fistularia commersonii,Bluespotted Cornetfish](72-fistularia-commersonii-bluespotted-cornetfish.md) |
-| ![](../../.gitbook/assets/small-ablabys-macracanthus.jpg)  | [73:Ablabys macracanthus](73-ablabys-macracanthus.md) |
+| ![](../../.gitbook/assets/small-ablabys-macracanthus%20%281%29.jpg)  | [73:Ablabys macracanthus](73-ablabys-macracanthus.md) |
 | ![](../../.gitbook/assets/small-acanthurus-xanthopterus.jpg)  | [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md) |
 | ![](../../.gitbook/assets/small-balistoides-conspicillum.jpg)  | [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md) |
 | ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [76:Balistoides viridescens,Titan triggerfish](76-balistoides-viridescens-titan-triggerfish.md) |
