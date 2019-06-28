@@ -229,6 +229,17 @@
   * [87:Ostracion meleagris,Whitespotted Boxfish](fishes/fish-eel-seastar-part-2/87-ostracion-meleagris-whitespotted-boxfish.md)
   * [88:Pseudobalistes flavimarginatus,Yellowmargin Triggerfish](fishes/fish-eel-seastar-part-2/88-pseudobalistes-flavimarginatus-yellowmargin-triggerfish.md)
   * [89:Sargocentron spiniferum,Giant Squirrelfish , Long-jawed Squirrelfish, Sabre Squirrelfish](fishes/fish-eel-seastar-part-2/89-sargocentron-spiniferum-giant-squirrelfish-long-jawed-squirrelfish-sabre-squirrelfish.md)
+  * [90:Aeoliscus strigatus,Coral Shrimpfish, Jointed Razor-fish, Striped Shrimpfish](fishes/fish-eel-seastar-part-2/90-aeoliscus-strigatus-coral-shrimpfish-jointed-razor-fish-striped-shrimpfish.md)
+  * [91:Alopias vulpinus, Thresher Shark](fishes/fish-eel-seastar-part-2/91-alopias-vulpinus-thresher-shark.md)
+  * [92:Arothron manilensis,Narrow-lined Puffer,Striped Puffer](fishes/fish-eel-seastar-part-2/92-arothron-manilensis-narrow-lined-puffer-striped-puffer.md)
+  * [93:Cassiopea andromeda, Upside-down Sea Jelly](fishes/fish-eel-seastar-part-2/93-cassiopea-andromeda-upside-down-sea-jelly.md)
+  * [94:Chaetodon vagabundus,Vagabond Butterflyfish,Criss-cross Butterflyfish](fishes/fish-eel-seastar-part-2/94-chaetodon-vagabundus-vagabond-butterflyfish-criss-cross-butterflyfish.md)
+  * [95:Chelonia mydas,Green Sea Turtle](fishes/fish-eel-seastar-part-2/95-chelonia-mydas-green-sea-turtle.md)
+  * [96:Cirrhitichthys aprinus,Blotched Hawkfish,Red Barred Hawkfish,Threadfin Hawkfish](fishes/fish-eel-seastar-part-2/96-cirrhitichthys-aprinus-blotched-hawkfish-red-barred-hawkfish-threadfin-hawkfish.md)
+  * [97:Cociella punctata,Flathead](fishes/fish-eel-seastar-part-2/97-cociella-punctata-flathead.md)
+  * [98:Culcita novaeguineae,Cushion Star,Pin-Kissen Sea Star](fishes/fish-eel-seastar-part-2/98-culcita-novaeguineae-cushion-star-pin-kissen-sea-star.md)
+  * [99:Diademichthys lineatus,Urchin Clingfish,Yellowstripe Clingfish](fishes/fish-eel-seastar-part-2/99-diademichthys-lineatus-urchin-clingfish-yellowstripe-clingfish.md)
+  * [100:Ecsenius namiyei,Black comb-tooth, Namiye's Combtooth Blenny](fishes/fish-eel-seastar-part-2/100-ecsenius-namiyei-black-comb-tooth-namiyes-combtooth-blenny.md)
 
 ## Others
 

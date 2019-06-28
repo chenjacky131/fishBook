@@ -41,4 +41,15 @@
 | ![](../../.gitbook/assets/small-ostracion-meleagris.jpg)  | [87:Ostracion meleagris,Whitespotted Boxfish](87-ostracion-meleagris-whitespotted-boxfish.md) |
 | ![](../../.gitbook/assets/small-pseudobalistes-flavimarginatus.jpg)  | [88:Pseudobalistes flavimarginatus,Yellowmargin Triggerfish](88-pseudobalistes-flavimarginatus-yellowmargin-triggerfish.md) |
 | ![](../../.gitbook/assets/small-sargocentron-spiniferum.jpg)  | [89:Sargocentron spiniferum,Giant Squirrelfish , Long-jawed Squirrelfish, Sabre Squirrelfish](89-sargocentron-spiniferum-giant-squirrelfish-long-jawed-squirrelfish-sabre-squirrelfish.md) |
+| ![](../../.gitbook/assets/small-aeoliscus-strigatus.jpg)  | [90:Aeoliscus strigatus,Coral Shrimpfish, Jointed Razor-fish, Striped Shrimpfish](90-aeoliscus-strigatus-coral-shrimpfish-jointed-razor-fish-striped-shrimpfish.md) |
+| ![](../../.gitbook/assets/small-alopias-vulpinus.jpg)  | [91:Alopias vulpinus, Thresher Shark](91-alopias-vulpinus-thresher-shark.md) |
+| ![](../../.gitbook/assets/small-arothron-manilensis.jpg)  | [92:Arothron manilensis,Narrow-lined Puffer,Striped Puffer](92-arothron-manilensis-narrow-lined-puffer-striped-puffer.md) |
+| ![](../../.gitbook/assets/small-cassiopea-andromeda.jpg)  | [93:Cassiopea andromeda, Upside-down Sea Jelly](93-cassiopea-andromeda-upside-down-sea-jelly.md) |
+| ![](../../.gitbook/assets/chaetodon-vagabundus.jpg)  | [94:Chaetodon vagabundus,Vagabond Butterflyfish,Criss-cross Butterflyfish](94-chaetodon-vagabundus-vagabond-butterflyfish-criss-cross-butterflyfish.md) |
+| ![](../../.gitbook/assets/chelonia-mydas%20%281%29.jpg)  | [95:Chelonia mydas,Green Sea Turtle](95-chelonia-mydas-green-sea-turtle.md) |
+| ![](../../.gitbook/assets/small-cirrhitichthys-aprinus.jpg)  | [96:Cirrhitichthys aprinus,Blotched Hawkfish,Red Barred Hawkfish,Threadfin Hawkfish](96-cirrhitichthys-aprinus-blotched-hawkfish-red-barred-hawkfish-threadfin-hawkfish.md) |
+| ![](../../.gitbook/assets/small-cociella-punctata.jpg)  | [97:Cociella punctata,Flathead](97-cociella-punctata-flathead.md) |
+| ![](../../.gitbook/assets/small-culcita-novaeguineae.jpg)  | [98:Culcita novaeguineae,Cushion Star,Pin-Kissen Sea Star](98-culcita-novaeguineae-cushion-star-pin-kissen-sea-star.md) |
+| ![](../../.gitbook/assets/small-diademichthys-lineatus.jpg)  | [99:Diademichthys lineatus,Urchin Clingfish,Yellowstripe Clingfish](99-diademichthys-lineatus-urchin-clingfish-yellowstripe-clingfish.md) |
+| ![](../../.gitbook/assets/small-ecsenius-namiyei.jpg)  | [100:Ecsenius namiyei,Black comb-tooth, Namiye's Combtooth Blenny](100-ecsenius-namiyei-black-comb-tooth-namiyes-combtooth-blenny.md) |
 
