@@ -240,6 +240,16 @@
   * [98:Culcita novaeguineae,Cushion Star,Pin-Kissen Sea Star](fishes/fish-eel-seastar-part-2/98-culcita-novaeguineae-cushion-star-pin-kissen-sea-star.md)
   * [99:Diademichthys lineatus,Urchin Clingfish,Yellowstripe Clingfish](fishes/fish-eel-seastar-part-2/99-diademichthys-lineatus-urchin-clingfish-yellowstripe-clingfish.md)
   * [100:Ecsenius namiyei,Black comb-tooth, Namiye's Combtooth Blenny](fishes/fish-eel-seastar-part-2/100-ecsenius-namiyei-black-comb-tooth-namiyes-combtooth-blenny.md)
+* [Fish,Eel,Seastar Part 3](fishes/fish-eel-seastar-part-3/README.md)
+  * [101:Eurhamphaea vexilligera,Red-Spot Comb Jelly](fishes/fish-eel-seastar-part-3/101-eurhamphaea-vexilligera-red-spot-comb-jelly.md)
+  * [102:Hippocampus bargibanti,Pygmy Seahorse](fishes/fish-eel-seastar-part-3/102-hippocampus-bargibanti-pygmy-seahorse.md)
+  * [103:Hydrophis belcheri,Faint-banded Seasnake](fishes/fish-eel-seastar-part-3/103-hydrophis-belcheri-faint-banded-seasnake.md)
+  * [104:Lutjanus bohar,Red Snapper,Twospot Red Snapper](fishes/fish-eel-seastar-part-3/104-lutjanus-bohar-red-snapper-twospot-red-snapper.md)
+  * [105:Manta alfredi,Alfred Manta](fishes/fish-eel-seastar-part-3/105-manta-alfredi-alfred-manta.md)
+  * [106:Mobula eregoodootenkee,Longhorned Pygmy Devil Ray, Pygmy Devilray](fishes/fish-eel-seastar-part-3/106-mobula-eregoodootenkee-longhorned-pygmy-devil-ray-pygmy-devilray.md)
+  * [107:Octopus hummelincki,Bumblebee Octopus, Caribbean Two-Spot Octopus](fishes/fish-eel-seastar-part-3/107-octopus-hummelincki-bumblebee-octopus-caribbean-two-spot-octopus.md)
+  * [108:Ostracion cubicus,Cubed Boxfish,Yellow Box-fish](fishes/fish-eel-seastar-part-3/108-ostracion-cubicus-cubed-boxfish-yellow-box-fish.md)
+  * [109:Paraploactis kagoshimensis,Phantom Velvetfish](fishes/fish-eel-seastar-part-3/109-paraploactis-kagoshimensis-phantom-velvetfish.md)
 
 ## Others
 
