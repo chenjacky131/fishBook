@@ -163,7 +163,7 @@
   * [22:Gymnothorax flavimarginatus,Yellow-edged Moray](fishes/untitled/22-yellowmargin-moray-eel.md)
   * [23:Gymnothorax thyrsoideus,Greyface Moray Eel,White-eyed Moray](fishes/untitled/23-white-eyed-moray-eel.md)
   * [24:Turkey Moray,White-mouth Moray,Gymnothorax meleagris](fishes/untitled/24-whitemouth-moray-eel-gymnothorax-meleagris-guinea-moray-eel-spotted-moray.md)
-  * [25:Ribbon Moray Eel,Rhinomuraena quaesita](fishes/untitled/25-ribbon-moray-eel-rhinomuraena-quaesita.md)
+  * [25:Rhinomuraena quaesita,Ribbon Moray Eel](fishes/untitled/25-ribbon-moray-eel-rhinomuraena-quaesita.md)
   * [26:Dwarf Moray,Gymnothorax melatremus](fishes/untitled/26-golden-moral-eel.md)
   * [27:Black-finned Snake Eel,Ophichthus altipennis](fishes/untitled/27-black-finned-snake-eel.md)
   * [28:Neotrygon kuhlii,Bluespotted Stingray](fishes/untitled/28-blue-spotted-stingray.md)

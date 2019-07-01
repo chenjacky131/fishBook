@@ -1,6 +1,8 @@
-# 25:Ribbon Moray Eel,Rhinomuraena quaesita
+# 25:Rhinomuraena quaesita,Ribbon Moray Eel
 
 #### Chinese name:安汶彩带鳗、 黑身管鼻鯙、 大口管鼻鯙、 五彩鳗
 
-![](../../.gitbook/assets/ribbon-moray-eel.jpg)
+![male](../../.gitbook/assets/ribbon-moray-eel.jpg)
+
+![juvenile](../../.gitbook/assets/ribbon-moray-eel2.jpg)
 
