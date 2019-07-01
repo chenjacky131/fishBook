@@ -6,3 +6,5 @@ found in anilao
 
 ![](../../.gitbook/assets/ablabys-macracanthus%20%281%29.jpg)
 
+![juvenile](../../.gitbook/assets/ablabys-macracanthus2.jpg)
+
