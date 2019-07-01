@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/berrys-bobtail-squid.jpg)
 
+![](../../.gitbook/assets/berrys-bobtail-squid2.jpg)
+
