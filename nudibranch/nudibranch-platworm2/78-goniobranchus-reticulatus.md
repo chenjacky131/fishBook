@@ -6,3 +6,5 @@ found in aniao
 
 ![](../../.gitbook/assets/goniobranchus-reticulatus.jpg)
 
+![](../../.gitbook/assets/goniobranchus-reticulatus2.jpg)
+
