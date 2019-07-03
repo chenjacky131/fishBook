@@ -253,6 +253,10 @@
 * [110:Antennarius commerson,Antennarius commersoni](fishes/110-antennarius-commerson-antennarius-commersoni.md)
 * [111:Dugong dugon,Dugong](fishes/111-dugong-dugon-dugong.md)
 * [112:Inimicus didactylus,Bearded ghoul](fishes/112-inimicus-didactylus-bearded-ghoul.md)
+* [113:Lactoria cornuta,Longhorn Cowfish](fishes/113-lactoria-cornuta-longhorn-cowfish.md)
+* [114:Pentaceraster alveolatus,Cushion Sea Star](fishes/114-pentaceraster-alveolatus-cushion-sea-star.md)
+* [115:Scorpaenodes parvipinnis,Lowfin Scorpionfish](fishes/115-scorpaenodes-parvipinnis-lowfin-scorpionfish.md)
+* [116:Sepia latimanus,Broadclub Cuttlefish](fishes/116-sepia-latimanus-broadclub-cuttlefish.md)
 
 ## Others
 
