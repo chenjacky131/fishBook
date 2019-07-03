@@ -252,6 +252,7 @@
   * [109:Paraploactis kagoshimensis,Phantom Velvetfish](fishes/fish-eel-seastar-part-3/109-paraploactis-kagoshimensis-phantom-velvetfish.md)
 * [110:Antennarius commerson,Antennarius commersoni](fishes/110-antennarius-commerson-antennarius-commersoni.md)
 * [111:Dugong dugon,Dugong](fishes/111-dugong-dugon-dugong.md)
+* [112:Inimicus didactylus,Bearded ghoul](fishes/112-inimicus-didactylus-bearded-ghoul.md)
 
 ## Others
 
