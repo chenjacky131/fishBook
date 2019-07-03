@@ -12,7 +12,7 @@
 | ![](../../.gitbook/assets/small-ostracion-cubicus.jpg)  | [108:Ostracion cubicus,Cubed Boxfish,Yellow Box-fish](108-ostracion-cubicus-cubed-boxfish-yellow-box-fish.md) |
 | ![](../../.gitbook/assets/small-paraploactis-kagoshimensis.jpg)  | [109:Paraploactis kagoshimensis,Phantom Velvetfish](109-paraploactis-kagoshimensis-phantom-velvetfish.md) |
 | ![](../../.gitbook/assets/small-antennarius-commerson.jpg)  | [110:Antennarius commerson,Antennarius commersoni](110-antennarius-commerson-antennarius-commersoni.md) |
-| ![](../../.gitbook/assets/small-dugong-dugon.jpg)  | [111:Dugong dugon,Dugong](111-dugong-dugon-dugong.md) |
+| ![](../../.gitbook/assets/small-dugong-dugon%20%281%29.jpg)  | [111:Dugong dugon,Dugong](111-dugong-dugon-dugong.md) |
 | ![](../../.gitbook/assets/small-inimicus-didactylus.jpg)  | [112:Inimicus didactylus,Bearded ghoul](112-inimicus-didactylus-bearded-ghoul.md) |
 | ![](../../.gitbook/assets/small-lactoria-cornuta.jpg)  | [113:Lactoria cornuta,Longhorn Cowfish](113-lactoria-cornuta-longhorn-cowfish.md) |
 | ![](../../.gitbook/assets/small-pentaceraster-alveolatus.jpg)  | [114:Pentaceraster alveolatus,Cushion Sea Star](114-pentaceraster-alveolatus-cushion-sea-star.md) |

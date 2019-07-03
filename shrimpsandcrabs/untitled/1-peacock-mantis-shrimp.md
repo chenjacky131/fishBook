@@ -4,5 +4,7 @@
 
 ![](../../.gitbook/assets/peacock-mantis-shrimp.jpg)
 
-### Video link: [Matis Shrimp](https://drive.google.com/open?id=1dALbRqHtYT4_acKqqznWrRCxqrzkRwoS) 
+| ![](../../.gitbook/assets/small-peacock-mantis-shrimp.jpg)  | [video](https://drive.google.com/open?id=1dALbRqHtYT4_acKqqznWrRCxqrzkRwoS) |
+| :---: | :---: |
+
 

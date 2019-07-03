@@ -8,5 +8,7 @@ found in malapascua philippines
 
 ![](../../.gitbook/assets/sepia-latimanus2.jpg)
 
-## [Video Link](https://drive.google.com/open?id=1ws82zrQb8_2aII7-Ju9qq6FlXoiJWj0e)
+| thumbnail | video link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-sepia-latimanus.jpg)  | [video](https://drive.google.com/open?id=1ws82zrQb8_2aII7-Ju9qq6FlXoiJWj0e) |
 

@@ -8,5 +8,5 @@ found in anilao philippines
 
 | thumbnail | video link |
 | :---: | :---: |
-|  | [video](https://drive.google.com/open?id=1QUKl7uyOCyTGq0tyAALIeSDdBSCBpa9s) |
+| ![](../../.gitbook/assets/small-taenianotus-triacanthus.jpg)  | [video](https://drive.google.com/open?id=1QUKl7uyOCyTGq0tyAALIeSDdBSCBpa9s) |
 

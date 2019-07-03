@@ -6,5 +6,7 @@ found in anilao philippines
 
 ![](../../.gitbook/assets/lactoria-cornuta.jpg)
 
-## [Video Link](https://drive.google.com/open?id=1KwdFPx2uAG0icP45aiLoXrBJGJzo5feu)
+| thumbnail | video link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-lactoria-cornuta.jpg)  | [video](https://drive.google.com/open?id=1KwdFPx2uAG0icP45aiLoXrBJGJzo5feu) |
 
