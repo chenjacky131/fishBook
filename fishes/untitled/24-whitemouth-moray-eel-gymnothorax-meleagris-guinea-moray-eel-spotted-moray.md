@@ -6,5 +6,5 @@
 
 | thumbnail | video link |
 | :---: | :---: |
-| ![](../../.gitbook/assets/small-whitemouth-moray-eel.jpg)  | video |
+| ![](../../.gitbook/assets/small-whitemouth-moray-eel.jpg)  | [video](https://drive.google.com/open?id=1vTiUgexqOqtDqW-3hTqN4v2RUVTI7anz) |
 
