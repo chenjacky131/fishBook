@@ -85,6 +85,13 @@
   * [77:Carminodoris nodulosa](nudibranch/nudibranch-platworm2/77-carminodoris-nodulosa.md)
   * [78:Goniobranchus reticulatus](nudibranch/nudibranch-platworm2/78-goniobranchus-reticulatus.md)
   * [79:Hypselodoris tryoni,Tryon's Risbecia](nudibranch/nudibranch-platworm2/79-hypselodoris-tryoni-tryons-risbecia.md)
+  * [80:Bornella anguilla,Snakey Bornella, Eel Bornella](nudibranch/nudibranch-platworm2/80-bornella-anguilla-snakey-bornella-eel-bornella.md)
+  * [81:Goniobranchus coi,Co's Chromodoris](nudibranch/nudibranch-platworm2/81-goniobranchus-coi-cos-chromodoris.md)
+  * [82:Halgerda batangas,Batangas Halgerda](nudibranch/nudibranch-platworm2/82-halgerda-batangas-batangas-halgerda.md)
+  * [83:Hexabranchus sanguineus,Spanish Dancer](nudibranch/nudibranch-platworm2/83-hexabranchus-sanguineus-spanish-dancer.md)
+  * [84:Miamira miamirana](nudibranch/nudibranch-platworm2/84-miamira-miamirana.md)
+  * [85:Pleurobranchus forskalii,Sidegill Slug](nudibranch/nudibranch-platworm2/85-pleurobranchus-forskalii-sidegill-slug.md)
+  * [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](nudibranch/nudibranch-platworm2/86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md)
 
 ## ShrimpsAndCrabs
 
@@ -258,6 +265,7 @@
   * [115:Scorpaenodes parvipinnis,Lowfin Scorpionfish](fishes/fish-eel-seastar-part-3/115-scorpaenodes-parvipinnis-lowfin-scorpionfish.md)
   * [116:Sepia latimanus,Broadclub Cuttlefish](fishes/fish-eel-seastar-part-3/116-sepia-latimanus-broadclub-cuttlefish.md)
   * [117:Taenianotus triacanthus,Leaf Scorpionfish](fishes/fish-eel-seastar-part-3/117-taenianotus-triacanthus-leaf-scorpionfish.md)
+  * [118:Pearsonothuria graeffei,Graeffe's Sea Cucumber, Blackspotted Sea Cucumber](fishes/fish-eel-seastar-part-3/118-pearsonothuria-graeffei-graeffes-sea-cucumber-blackspotted-sea-cucumber.md)
 
 ## Others
 

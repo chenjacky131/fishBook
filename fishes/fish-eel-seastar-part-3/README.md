@@ -19,4 +19,5 @@
 | ![](../../.gitbook/assets/small-scorpaenodes-parvipinnis.jpg)  | [115:Scorpaenodes parvipinnis,Lowfin Scorpionfish](115-scorpaenodes-parvipinnis-lowfin-scorpionfish.md) |
 | ![](../../.gitbook/assets/small-sepia-latimanus.jpg)  | [116:Sepia latimanus,Broadclub Cuttlefish](116-sepia-latimanus-broadclub-cuttlefish.md) |
 | ![](../../.gitbook/assets/small-taenianotus-triacanthus.jpg)  | [117:Taenianotus triacanthus,Leaf Scorpionfish](117-taenianotus-triacanthus-leaf-scorpionfish.md) |
+| ![](../../.gitbook/assets/small-pearsonothuria-graeffei.jpg)  | [118:Pearsonothuria graeffei,Graeffe's Sea Cucumber, Blackspotted Sea Cucumber](118-pearsonothuria-graeffei-graeffes-sea-cucumber-blackspotted-sea-cucumber.md) |
 

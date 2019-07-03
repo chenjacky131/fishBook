@@ -31,6 +31,13 @@
 | ![](../../.gitbook/assets/small-carminodoris-nodulosa.jpg)  | [77:Carminodoris nodulosa](77-carminodoris-nodulosa.md) |
 | ![](../../.gitbook/assets/small-goniobranchus-reticulatus.jpg)  | [78:Goniobranchus reticulatus](78-goniobranchus-reticulatus.md) |
 | ![](../../.gitbook/assets/small-hypselodoris-tryoni.jpg)  | [79:Hypselodoris tryoni,Tryon's Risbecia](79-hypselodoris-tryoni-tryons-risbecia.md) |
+| ![](../../.gitbook/assets/small-bornella-anguilla.jpg)  | [80:Bornella anguilla,Snakey Bornella, Eel Bornella](80-bornella-anguilla-snakey-bornella-eel-bornella.md) |
+| ![](../../.gitbook/assets/small-goniobranchus-coi.jpg)  | [81:Goniobranchus coi,Co's Chromodoris](81-goniobranchus-coi-cos-chromodoris.md) |
+| ![](../../.gitbook/assets/small-halgerda-batangas.jpg)  | [82:Halgerda batangas,Batangas Halgerda](82-halgerda-batangas-batangas-halgerda.md) |
+| ![](../../.gitbook/assets/small-hexabranchus-sanguineus.jpg)  | [83:Hexabranchus sanguineus,Spanish Dancer](83-hexabranchus-sanguineus-spanish-dancer.md) |
+| ![](../../.gitbook/assets/small-miamira-miamirana.jpg)  | [84:Miamira miamirana](84-miamira-miamirana.md) |
+| ![](../../.gitbook/assets/small-pleurobranchus-forskalii.jpg)  | [85:Pleurobranchus forskalii,Sidegill Slug](85-pleurobranchus-forskalii-sidegill-slug.md) |
+| ![](../../.gitbook/assets/samll-pseudoceros-lindae.jpg)  | [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md) |
 
 
 
