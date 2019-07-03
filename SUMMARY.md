@@ -250,6 +250,8 @@
   * [107:Octopus hummelincki,Bumblebee Octopus, Caribbean Two-Spot Octopus](fishes/fish-eel-seastar-part-3/107-octopus-hummelincki-bumblebee-octopus-caribbean-two-spot-octopus.md)
   * [108:Ostracion cubicus,Cubed Boxfish,Yellow Box-fish](fishes/fish-eel-seastar-part-3/108-ostracion-cubicus-cubed-boxfish-yellow-box-fish.md)
   * [109:Paraploactis kagoshimensis,Phantom Velvetfish](fishes/fish-eel-seastar-part-3/109-paraploactis-kagoshimensis-phantom-velvetfish.md)
+* [110:Antennarius commerson,Antennarius commersoni](fishes/110-antennarius-commerson-antennarius-commersoni.md)
+* [111:Dugong dugon,Dugong](fishes/111-dugong-dugon-dugong.md)
 
 ## Others
 
