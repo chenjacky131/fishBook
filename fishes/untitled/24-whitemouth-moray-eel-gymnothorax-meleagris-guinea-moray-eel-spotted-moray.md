@@ -4,3 +4,7 @@
 
 ![](../../.gitbook/assets/whitemouth-moray-eel.jpg)
 
+| thumbnail | video link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-whitemouth-moray-eel.jpg)  | video |
+
