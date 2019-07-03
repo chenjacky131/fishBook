@@ -250,13 +250,14 @@
   * [107:Octopus hummelincki,Bumblebee Octopus, Caribbean Two-Spot Octopus](fishes/fish-eel-seastar-part-3/107-octopus-hummelincki-bumblebee-octopus-caribbean-two-spot-octopus.md)
   * [108:Ostracion cubicus,Cubed Boxfish,Yellow Box-fish](fishes/fish-eel-seastar-part-3/108-ostracion-cubicus-cubed-boxfish-yellow-box-fish.md)
   * [109:Paraploactis kagoshimensis,Phantom Velvetfish](fishes/fish-eel-seastar-part-3/109-paraploactis-kagoshimensis-phantom-velvetfish.md)
-* [110:Antennarius commerson,Antennarius commersoni](fishes/110-antennarius-commerson-antennarius-commersoni.md)
-* [111:Dugong dugon,Dugong](fishes/111-dugong-dugon-dugong.md)
-* [112:Inimicus didactylus,Bearded ghoul](fishes/112-inimicus-didactylus-bearded-ghoul.md)
-* [113:Lactoria cornuta,Longhorn Cowfish](fishes/113-lactoria-cornuta-longhorn-cowfish.md)
-* [114:Pentaceraster alveolatus,Cushion Sea Star](fishes/114-pentaceraster-alveolatus-cushion-sea-star.md)
-* [115:Scorpaenodes parvipinnis,Lowfin Scorpionfish](fishes/115-scorpaenodes-parvipinnis-lowfin-scorpionfish.md)
-* [116:Sepia latimanus,Broadclub Cuttlefish](fishes/116-sepia-latimanus-broadclub-cuttlefish.md)
+  * [110:Antennarius commerson,Antennarius commersoni](fishes/fish-eel-seastar-part-3/110-antennarius-commerson-antennarius-commersoni.md)
+  * [111:Dugong dugon,Dugong](fishes/fish-eel-seastar-part-3/111-dugong-dugon-dugong.md)
+  * [112:Inimicus didactylus,Bearded ghoul](fishes/fish-eel-seastar-part-3/112-inimicus-didactylus-bearded-ghoul.md)
+  * [113:Lactoria cornuta,Longhorn Cowfish](fishes/fish-eel-seastar-part-3/113-lactoria-cornuta-longhorn-cowfish.md)
+  * [114:Pentaceraster alveolatus,Cushion Sea Star](fishes/fish-eel-seastar-part-3/114-pentaceraster-alveolatus-cushion-sea-star.md)
+  * [115:Scorpaenodes parvipinnis,Lowfin Scorpionfish](fishes/fish-eel-seastar-part-3/115-scorpaenodes-parvipinnis-lowfin-scorpionfish.md)
+  * [116:Sepia latimanus,Broadclub Cuttlefish](fishes/fish-eel-seastar-part-3/116-sepia-latimanus-broadclub-cuttlefish.md)
+  * [117:Taenianotus triacanthus,Leaf Scorpionfish](fishes/fish-eel-seastar-part-3/117-taenianotus-triacanthus-leaf-scorpionfish.md)
 
 ## Others
 

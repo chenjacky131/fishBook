@@ -4,5 +4,5 @@ found in coron philippines
 
 #### Chinese name:儒艮
 
-![](../.gitbook/assets/dugong-dugon.jpg)
+![](../../.gitbook/assets/dugong-dugon.jpg)
 
