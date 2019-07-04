@@ -278,6 +278,7 @@
   * [5:barrel sponge,Xestospongia testudinaria](others/others/5-barrel-sponge-xestospongia-testudinaria.md)
   * [6:Asthenosoma varium,Fire Urchin](others/others/6-asthenosoma-varium-fire-urchin.md)
   * [7:Plerogyra sinuosa,Bubble Coral](others/others/7-plerogyra-sinuosa-bubble-coral.md)
+* [8:Anamobaea sp,Ghost Feather Duster](others/8-anamobaea-sp-ghost-feather-duster.md)
 
 ## Unknow
 
