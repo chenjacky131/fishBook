@@ -114,7 +114,7 @@
   * [16: Spiny Tiger Shrimp, Bongo Shrimp,Phyllognathia ceratophthalma](shrimpsandcrabs/untitled/16-spiny-tiger-shrimp.md)
   * [17: Squat Anemone Shrimp,Thor amboinensis](shrimpsandcrabs/untitled/17-squat-anemone-shrimp-sexy-anemone-shrimp.md)
   * [18: Long Nose shrimp, Donald Duck Shrimp,Leander plumosus](shrimpsandcrabs/untitled/18-donald-duck-shrimp-leander-plumosus.md)
-  * [19: Barrel Sponge Porcelain Crab,Aliaporcellana sp.02](shrimpsandcrabs/untitled/19-aliaporcellana-porcelain-crab.md)
+  * [19: Aliaporcellana spongicola，Barrel Sponge Porcelain Crab](shrimpsandcrabs/untitled/19-aliaporcellana-porcelain-crab.md)
   * [20: Emperor shrimp,Zenopontonia rex](shrimpsandcrabs/untitled/20-emperor-shrimp.md)
   * [21:Mushroom Coral Shrimp,Cuapetes kororensis](shrimpsandcrabs/untitled/21-mushroom-coral-shrimp-popcorn-shrimp-periclmenes-kororensis-white-head-shrimp.md)
   * [22:White-spotted Hermit Crab,Dardanus megistos](shrimpsandcrabs/untitled/22-white-spotted-hermit-shrimp.md)
@@ -278,7 +278,10 @@
   * [5:barrel sponge,Xestospongia testudinaria](others/others/5-barrel-sponge-xestospongia-testudinaria.md)
   * [6:Asthenosoma varium,Fire Urchin](others/others/6-asthenosoma-varium-fire-urchin.md)
   * [7:Plerogyra sinuosa,Bubble Coral](others/others/7-plerogyra-sinuosa-bubble-coral.md)
-* [8:Anamobaea sp,Ghost Feather Duster](others/8-anamobaea-sp-ghost-feather-duster.md)
+  * [8:Anamobaea sp,Ghost Feather Duster](others/others/8-anamobaea-sp-ghost-feather-duster.md)
+  * [9:Casmaria ponderosa,Heavy Bonnet](others/others/9-casmaria-ponderosa-heavy-bonnet.md)
+  * [10:Cerianthus filiformis,Tube Anemone, Large Tube Anemone](others/others/10-cerianthus-filiformis-tube-anemone-large-tube-anemone.md)
+  * [11:Coriocella nigra,Network Lamellaria,Lack Velutinid](others/others/11-coriocella-nigra-network-lamellaria-lack-velutinid.md)
 
 ## Unknow
 

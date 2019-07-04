@@ -13,6 +13,10 @@ description: no fish neither nudi
 | ![](../../.gitbook/assets/small-barrel-sponge.jpg)  | [5:barrel sponge,Xestospongia testudinaria](5-barrel-sponge-xestospongia-testudinaria.md) |
 | ![](../../.gitbook/assets/small-asthenosoma-varium.jpg)  | [6:Asthenosoma varium,Fire Urchin](6-asthenosoma-varium-fire-urchin.md) |
 | ![](../../.gitbook/assets/small-plerogyra-sinuosa.jpg)  | [7:Plerogyra sinuosa,Bubble Coral](7-plerogyra-sinuosa-bubble-coral.md) |
+| ![](../../.gitbook/assets/small-anamobaea-sp2-ghost-feather-duster.jpg)  | [8:Anamobaea sp,Ghost Feather Duster](8-anamobaea-sp-ghost-feather-duster.md) |
+| ![](../../.gitbook/assets/small-casmaria-ponderosa.jpg)  | [9:Casmaria ponderosa,Heavy Bonnet](9-casmaria-ponderosa-heavy-bonnet.md) |
+| ![](../../.gitbook/assets/small-cerianthus-filiformis.jpg)  | [10:Cerianthus filiformis,Tube Anemone, Large Tube Anemone](10-cerianthus-filiformis-tube-anemone-large-tube-anemone.md) |
+| ![](../../.gitbook/assets/small-coriocella-nigra.jpg)  | [11:Coriocella nigra,Network Lamellaria,Lack Velutinid](11-coriocella-nigra-network-lamellaria-lack-velutinid.md) |
 
 
 
