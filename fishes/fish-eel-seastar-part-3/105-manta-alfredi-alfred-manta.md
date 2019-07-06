@@ -6,3 +6,7 @@ found in tubattaha
 
 ![](../../.gitbook/assets/manta-alfredi.jpg)
 
+| Thumbnail | Vidwo Link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-manta-alfredi.jpg)  | [video](https://drive.google.com/open?id=16yyvmoBZ3CTMaFQyOxybAowV9-BTnoTS) |
+

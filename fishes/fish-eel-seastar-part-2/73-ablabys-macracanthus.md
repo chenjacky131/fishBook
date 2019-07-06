@@ -8,3 +8,7 @@ found in anilao
 
 ![juvenile](../../.gitbook/assets/ablabys-macracanthus2.jpg)
 
+| Thumbnail | Video Link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-ablabys-macracanthus%20%281%29.jpg)  | [video](https://drive.google.com/open?id=1ADcDd-WxPi2L0XK3HCpY5ZeOdbLiQDp5) |
+

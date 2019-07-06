@@ -6,3 +6,7 @@ found in malapascua
 
 ![](../../.gitbook/assets/mobula-eregoodootenkee.jpg)
 
+| Thumbnail | Video Link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-mobula-eregoodootenkee.jpg)  | [video](https://drive.google.com/open?id=14mw-BKr5uT-54H6vCr4ucil_EeJK9_Mb) |
+

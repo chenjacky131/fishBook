@@ -189,7 +189,7 @@
   * [26:Dwarf Moray,Gymnothorax melatremus](fishes/untitled/26-golden-moral-eel.md)
   * [27:Black-finned Snake Eel,Ophichthus altipennis](fishes/untitled/27-black-finned-snake-eel.md)
   * [28:Neotrygon kuhlii,Bluespotted Stingray](fishes/untitled/28-blue-spotted-stingray.md)
-  * [29:Whitetip Reef Shark,Triaenodon obesus](fishes/untitled/29-whitetip-reef-shark-triaenodon-obesus.md)
+  * [29:Triaenodon obesus,Whitetip Reef Shark](fishes/untitled/29-whitetip-reef-shark-triaenodon-obesus.md)
   * [30:Electric Clam,Ctenoides ales](fishes/untitled/30-electronic-shell.md)
   * [31:Granulated Sea Star,Choriaster granulatus](fishes/untitled/31-granulated-sea-star.md)
   * [32:Ornate Slippery Goby, Lubricogobius ornatus](fishes/untitled/32-blue-eye-goby.md)
@@ -286,6 +286,7 @@
   * [121:Rhinopias argoliba,Scorpionfish](fishes/fish-eel-seastar-part-3/121-rhinopias-argoliba-scorpionfish.md)
   * [122:Thelenota anax,Amberfish Sea Cucumber](fishes/fish-eel-seastar-part-3/122-thelenota-anax-amberfish-sea-cucumber.md)
   * [123:Gymnothorax javanicus,Giant Moray](fishes/fish-eel-seastar-part-3/123-gymnothorax-javanicus-giant-moray.md)
+* [124:Rhincodon typus,Whale Shark](fishes/124-rhincodon-typus-whale-shark.md)
 
 ## Others
 
