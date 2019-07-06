@@ -1,5 +1,5 @@
 ---
-description: no fish neither nudi
+description: 'Snails, Shells, Urchins,Anemone,Coral,Crowy'
 ---
 
 # Others
@@ -17,6 +17,15 @@ description: no fish neither nudi
 | ![](../../.gitbook/assets/small-casmaria-ponderosa.jpg)  | [9:Casmaria ponderosa,Heavy Bonnet](9-casmaria-ponderosa-heavy-bonnet.md) |
 | ![](../../.gitbook/assets/small-cerianthus-filiformis.jpg)  | [10:Cerianthus filiformis,Tube Anemone, Large Tube Anemone](10-cerianthus-filiformis-tube-anemone-large-tube-anemone.md) |
 | ![](../../.gitbook/assets/small-coriocella-nigra.jpg)  | [11:Coriocella nigra,Network Lamellaria,Lack Velutinid](11-coriocella-nigra-network-lamellaria-lack-velutinid.md) |
+| ![](../../.gitbook/assets/small-diadema-paucispinum.jpg)  | [12:Diadema paucispinum](12-diadema-paucispinum.md) |
+| ![](../../.gitbook/assets/small-echineulima-asthenosomae.jpg)  | [13:Echineulima asthenosomae,Fire Urchin Snail](13-echineulima-asthenosomae-fire-urchin-snail.md) |
+| ![](../../.gitbook/assets/small-echinothrix-calamaris.jpg)  | [14:Echinothrix calamaris,Banded Urchin](14-echinothrix-calamaris-banded-urchin.md) |
+| ![](../../.gitbook/assets/small-eucidaris-thouarsii.jpg)  | [15:Eucidaris thouarsii,Slate Pencil Urchin](15-eucidaris-thouarsii-slate-pencil-urchin.md) |
+| ![](../../.gitbook/assets/small-maretia-planulata.jpg)  | [16:Maretia planulata,Irregular Sea Urchin](16-maretia-planulata-irregular-sea-urchin.md) |
+| ![](../../.gitbook/assets/small-mespilia-globulus.jpg)  | [17:Mespilia globulus,Tuxedo Urchin](17-mespilia-globulus-tuxedo-urchin.md) |
+| ![](../../.gitbook/assets/small-murex-ternispina.jpg)  | [18:Murex ternispina,Triple-spined Murex, Black-spined Murex](18-murex-ternispina-triple-spined-murex-black-spined-murex.md) |
+| ![](../../.gitbook/assets/small-oliva-oliva.jpg)  | [19:Oliva oliva](19-oliva-oliva.md) |
+| ![](../../.gitbook/assets/small-talparia-talpa.jpg)  | [20:Talparia talpa,Chocolate Banded Cowry](20-talparia-talpa-chocolate-banded-cowry.md) |
 
 
 

@@ -281,6 +281,9 @@
   * [117:Taenianotus triacanthus,Leaf Scorpionfish](fishes/fish-eel-seastar-part-3/117-taenianotus-triacanthus-leaf-scorpionfish.md)
   * [118:Pearsonothuria graeffei,Graeffe's Sea Cucumber, Blackspotted Sea Cucumber](fishes/fish-eel-seastar-part-3/118-pearsonothuria-graeffei-graeffes-sea-cucumber-blackspotted-sea-cucumber.md)
   * [119:Cheilinus undulatus,Hump-headed Wrasse,Napoleon Wrasse,Giant Wrasse](fishes/fish-eel-seastar-part-3/119-cheilinus-undulatus-hump-headed-wrasse-napoleon-wrasse-giant-wrasse.md)
+  * [120:Plectorhinchus albovittatus,Two-striped Sweetlips, Giant Sweetlips](fishes/fish-eel-seastar-part-3/120-plectorhinchus-albovittatus-two-striped-sweetlips-giant-sweetlips.md)
+  * [121:Rhinopias argoliba,Scorpionfish](fishes/fish-eel-seastar-part-3/121-rhinopias-argoliba-scorpionfish.md)
+  * [122:Thelenota anax,Amberfish Sea Cucumber](fishes/fish-eel-seastar-part-3/122-thelenota-anax-amberfish-sea-cucumber.md)
 
 ## Others
 
@@ -296,6 +299,15 @@
   * [9:Casmaria ponderosa,Heavy Bonnet](others/others/9-casmaria-ponderosa-heavy-bonnet.md)
   * [10:Cerianthus filiformis,Tube Anemone, Large Tube Anemone](others/others/10-cerianthus-filiformis-tube-anemone-large-tube-anemone.md)
   * [11:Coriocella nigra,Network Lamellaria,Lack Velutinid](others/others/11-coriocella-nigra-network-lamellaria-lack-velutinid.md)
+  * [12:Diadema paucispinum](others/others/12-diadema-paucispinum.md)
+  * [13:Echineulima asthenosomae,Fire Urchin Snail](others/others/13-echineulima-asthenosomae-fire-urchin-snail.md)
+  * [14:Echinothrix calamaris,Banded Urchin](others/others/14-echinothrix-calamaris-banded-urchin.md)
+  * [15:Eucidaris thouarsii,Slate Pencil Urchin](others/others/15-eucidaris-thouarsii-slate-pencil-urchin.md)
+  * [16:Maretia planulata,Irregular Sea Urchin](others/others/16-maretia-planulata-irregular-sea-urchin.md)
+  * [17:Mespilia globulus,Tuxedo Urchin](others/others/17-mespilia-globulus-tuxedo-urchin.md)
+  * [18:Murex ternispina,Triple-spined Murex, Black-spined Murex](others/others/18-murex-ternispina-triple-spined-murex-black-spined-murex.md)
+  * [19:Oliva oliva](others/others/19-oliva-oliva.md)
+  * [20:Talparia talpa,Chocolate Banded Cowry](others/others/20-talparia-talpa-chocolate-banded-cowry.md)
 
 ## Unknow
 

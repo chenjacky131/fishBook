@@ -21,4 +21,7 @@
 | ![](../../.gitbook/assets/small-taenianotus-triacanthus.jpg)  | [117:Taenianotus triacanthus,Leaf Scorpionfish](117-taenianotus-triacanthus-leaf-scorpionfish.md) |
 | ![](../../.gitbook/assets/small-pearsonothuria-graeffei.jpg)  | [118:Pearsonothuria graeffei,Graeffe's Sea Cucumber, Blackspotted Sea Cucumber](118-pearsonothuria-graeffei-graeffes-sea-cucumber-blackspotted-sea-cucumber.md) |
 | ![](../../.gitbook/assets/small-cheilinus-undulatus.jpg)  | [119:Cheilinus undulatus,Hump-headed Wrasse,Napoleon Wrasse,Giant Wrasse](119-cheilinus-undulatus-hump-headed-wrasse-napoleon-wrasse-giant-wrasse.md) |
+| ![](../../.gitbook/assets/small-plectorhinchus-albovittatus.jpg)  | [120:Plectorhinchus albovittatus,Two-striped Sweetlips, Giant Sweetlips](120-plectorhinchus-albovittatus-two-striped-sweetlips-giant-sweetlips.md) |
+| ![](../../.gitbook/assets/small-rhinopias-argoliba.jpg)  | [121:Rhinopias argoliba,Scorpionfish](121-rhinopias-argoliba-scorpionfish.md) |
+| ![](../../.gitbook/assets/small-thelenota-anax.jpg)  | [122:Thelenota anax,Amberfish Sea Cucumber](122-thelenota-anax-amberfish-sea-cucumber.md) |
 
