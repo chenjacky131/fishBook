@@ -1,8 +1,8 @@
 ---
-description: 'This part is about shrimps , crabs, lobster,shells and clams'
+description: 'This part is about shrimps , crabs, lobster,clams'
 ---
 
-# Shrimp,Crab
+# Shrimp,Crab1
 
 | Thumbnail | Link |
 | :---: | :---: |
@@ -52,4 +52,8 @@ description: 'This part is about shrimps , crabs, lobster,shells and clams'
 | ![](../../.gitbook/assets/small-araiopontonia-odontorhyncha.jpg)  | [44:Araiopontonia odontorhyncha,Slender Crinoid Shrimp](44-araiopontonia-odontorhyncha-slender-crinoid-shrimp.md) |
 | ![](../../.gitbook/assets/small-miropandalus-hardingi.jpg)  | [45:Miropandalus hardingi,Dragon Shrimp, Gorgonian Horned Shrimp](45-miropandalus-hardingi-dragon-shrimp-gorgonian-horned-shrimp.md) |
 | ![](../../.gitbook/assets/small-pontonides-ankeri.jpg)  | [46:Pontonides ankeri,Barred Wire Coral Shrimp](46-pontonides-ankeri-barred-wire-coral-shrimp.md) |
+| ![](../../.gitbook/assets/small-calappa-calappa.jpg)  | [47:Calappa calappa,Giant Box crab,Shame-faced Crab](47-calappa-calappa-giant-box-crab-shame-faced-crab.md) |
+| ![](../../.gitbook/assets/small-daldorfia-horrida.jpg)  | [48:Daldorfia horrida,Rubble Crab, Horrid Elbow Crab](48-daldorfia-horrida-rubble-crab-horrid-elbow-crab.md) |
+| ![](../../.gitbook/assets/small-dardanus-lagopodes.jpg)  | [49:Dardanus lagopodes,Hairy Red Hermit Crab, Dark Knee Hermit Crab](49-dardanus-lagopodes-hairy-red-hermit-crab-dark-knee-hermit-crab.md) |
+| ![](../../.gitbook/assets/small-hoplophrys-oatesi.jpg)  | [50:Hoplophrys oatesi,Dendronephtya Crab](50-hoplophrys-oatesi-dendronephtya-crab.md) |
 

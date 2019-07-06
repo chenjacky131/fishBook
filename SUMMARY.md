@@ -95,7 +95,7 @@
 
 ## ShrimpsAndCrabs
 
-* [Shrimp,Crab](shrimpsandcrabs/untitled/README.md)
+* [Shrimp,Crab1](shrimpsandcrabs/untitled/README.md)
   * [1: Odontodactylus scyllarus,Peacock Mantis Shrimp](shrimpsandcrabs/untitled/1-peacock-mantis-shrimp.md)
   * [2:Hairy Shrimp, Algae Shrimp,Phycocaris simulans](shrimpsandcrabs/untitled/2-hairy-shrimp-algae-shrimp.md)
   * [3: Ocellated Tozeuma Shrimp,Tozeuma lanceolatum](shrimpsandcrabs/untitled/3-ocellated-tozeuma-shrimp.md)
@@ -142,6 +142,20 @@
   * [44:Araiopontonia odontorhyncha,Slender Crinoid Shrimp](shrimpsandcrabs/untitled/44-araiopontonia-odontorhyncha-slender-crinoid-shrimp.md)
   * [45:Miropandalus hardingi,Dragon Shrimp, Gorgonian Horned Shrimp](shrimpsandcrabs/untitled/45-miropandalus-hardingi-dragon-shrimp-gorgonian-horned-shrimp.md)
   * [46:Pontonides ankeri,Barred Wire Coral Shrimp](shrimpsandcrabs/untitled/46-pontonides-ankeri-barred-wire-coral-shrimp.md)
+  * [47:Calappa calappa,Giant Box crab,Shame-faced Crab](shrimpsandcrabs/untitled/47-calappa-calappa-giant-box-crab-shame-faced-crab.md)
+  * [48:Daldorfia horrida,Rubble Crab, Horrid Elbow Crab](shrimpsandcrabs/untitled/48-daldorfia-horrida-rubble-crab-horrid-elbow-crab.md)
+  * [49:Dardanus lagopodes,Hairy Red Hermit Crab, Dark Knee Hermit Crab](shrimpsandcrabs/untitled/49-dardanus-lagopodes-hairy-red-hermit-crab-dark-knee-hermit-crab.md)
+  * [50:Hoplophrys oatesi,Dendronephtya Crab](shrimpsandcrabs/untitled/50-hoplophrys-oatesi-dendronephtya-crab.md)
+* [Shrimp, Crab2](shrimpsandcrabs/shrimp-crab2/README.md)
+  * [51:Lissocarcinus laevis,Harlequin Crab, Harlequin Swimming Crab](shrimpsandcrabs/shrimp-crab2/51-lissocarcinus-laevis-harlequin-crab-harlequin-swimming-crab.md)
+  * [52:Lissoporcellana nakasonei,Soft Coral Porcelain Crab](shrimpsandcrabs/shrimp-crab2/52-lissoporcellana-nakasonei-soft-coral-porcelain-crab.md)
+  * [53:Loxorhynchus crispatus,Moss Crab, Masking Crab, Decorator Crab](shrimpsandcrabs/shrimp-crab2/53-loxorhynchus-crispatus-moss-crab-masking-crab-decorator-crab.md)
+  * [54:Odontonia bagginsi,Ascidian Partner Shrimp](shrimpsandcrabs/shrimp-crab2/54-odontonia-bagginsi-ascidian-partner-shrimp.md)
+  * [55:Portunus pelagicus,Flower Crab, Blue Swimmer Crab](shrimpsandcrabs/shrimp-crab2/55-portunus-pelagicus-flower-crab-blue-swimmer-crab.md)
+  * [56:Processidae-sp,Night Shrimp](shrimpsandcrabs/shrimp-crab2/56-processidae-sp-night-shrimp.md)
+  * [57:Pseudocryptochirus viridis](shrimpsandcrabs/shrimp-crab2/57-pseudocryptochirus-viridis.md)
+  * [58:Pycnogonida sp,Sea Spider](shrimpsandcrabs/shrimp-crab2/58-pycnogonida-sp-sea-spider.md)
+  * [59:Thenus orientalis,Flathead Lobster,Slipper Lobster](shrimpsandcrabs/shrimp-crab2/59-thenus-orientalis-flathead-lobster-slipper-lobster.md)
 
 ## Fishes
 
