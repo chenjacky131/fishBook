@@ -92,6 +92,7 @@
   * [84:Miamira miamirana](nudibranch/nudibranch-platworm2/84-miamira-miamirana.md)
   * [85:Pleurobranchus forskalii,Sidegill Slug](nudibranch/nudibranch-platworm2/85-pleurobranchus-forskalii-sidegill-slug.md)
   * [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](nudibranch/nudibranch-platworm2/86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md)
+  * [87:Notobryon wardi,Iridescent Nudibranch, Ward's Nudibranch](nudibranch/nudibranch-platworm2/87-notobryon-wardi-iridescent-nudibranch-wards-nudibranch.md)
 
 ## ShrimpsAndCrabs
 
@@ -284,6 +285,7 @@
   * [120:Plectorhinchus albovittatus,Two-striped Sweetlips, Giant Sweetlips](fishes/fish-eel-seastar-part-3/120-plectorhinchus-albovittatus-two-striped-sweetlips-giant-sweetlips.md)
   * [121:Rhinopias argoliba,Scorpionfish](fishes/fish-eel-seastar-part-3/121-rhinopias-argoliba-scorpionfish.md)
   * [122:Thelenota anax,Amberfish Sea Cucumber](fishes/fish-eel-seastar-part-3/122-thelenota-anax-amberfish-sea-cucumber.md)
+  * [123:Gymnothorax javanicus,Giant Moray](fishes/fish-eel-seastar-part-3/123-gymnothorax-javanicus-giant-moray.md)
 
 ## Others
 

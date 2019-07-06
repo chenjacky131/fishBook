@@ -38,6 +38,7 @@
 | ![](../../.gitbook/assets/small-miamira-miamirana.jpg)  | [84:Miamira miamirana](84-miamira-miamirana.md) |
 | ![](../../.gitbook/assets/small-pleurobranchus-forskalii.jpg)  | [85:Pleurobranchus forskalii,Sidegill Slug](85-pleurobranchus-forskalii-sidegill-slug.md) |
 | ![](../../.gitbook/assets/samll-pseudoceros-lindae.jpg)  | [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md) |
+| ![](../../.gitbook/assets/small-notobryon-wardi%20%281%29.jpg)  | [87:Notobryon wardi,Iridescent Nudibranch, Ward's Nudibranch](87-notobryon-wardi-iridescent-nudibranch-wards-nudibranch.md) |
 
 
 

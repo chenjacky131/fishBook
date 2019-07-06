@@ -24,4 +24,5 @@
 | ![](../../.gitbook/assets/small-plectorhinchus-albovittatus.jpg)  | [120:Plectorhinchus albovittatus,Two-striped Sweetlips, Giant Sweetlips](120-plectorhinchus-albovittatus-two-striped-sweetlips-giant-sweetlips.md) |
 | ![](../../.gitbook/assets/small-rhinopias-argoliba.jpg)  | [121:Rhinopias argoliba,Scorpionfish](121-rhinopias-argoliba-scorpionfish.md) |
 | ![](../../.gitbook/assets/small-thelenota-anax.jpg)  | [122:Thelenota anax,Amberfish Sea Cucumber](122-thelenota-anax-amberfish-sea-cucumber.md) |
+| ![](../../.gitbook/assets/small-gymnothorax-javanicus%20%281%29.jpg)  | [123:Gymnothorax javanicus,Giant Moray](123-gymnothorax-javanicus-giant-moray.md) |
 
