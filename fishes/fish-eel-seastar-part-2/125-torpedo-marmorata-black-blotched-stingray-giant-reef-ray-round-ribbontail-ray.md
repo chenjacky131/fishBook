@@ -1,4 +1,4 @@
-# 125:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray
+# 76:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray
 
 found in tubbataha philippines
 

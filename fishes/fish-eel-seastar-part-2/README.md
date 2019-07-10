@@ -27,7 +27,7 @@
 | ![](../../.gitbook/assets/small-ablabys-macracanthus%20%281%29.jpg)  | [73:Ablabys macracanthus](73-ablabys-macracanthus.md) |
 | ![](../../.gitbook/assets/small-acanthurus-xanthopterus.jpg)  | [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md) |
 | ![](../../.gitbook/assets/small-balistoides-conspicillum.jpg)  | [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md) |
-| ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [76:Balistoides viridescens,Titan triggerfish](76-balistoides-viridescens-titan-triggerfish.md) |
+| ![](../../.gitbook/assets/small-torpedo-marmorata.jpg)  | [76:Balistoides viridescens,Titan triggerfish](125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md) |
 | ![](../../.gitbook/assets/small-bothus-lunatus.jpg)  | [77:Bothus lunatus,Plate fish](77-bothus-lunatus-plate-fish.md) |
 | ![](../../.gitbook/assets/small-caranx-melampygus.jpg)  | [78:Caranx melampygus,Bluefin trevally](78-caranx-melampygus-bluefin-trevally.md) |
 | ![](../../.gitbook/assets/small-cromileptes-altivelis.jpg)  | [79:Cromileptes altivelis,Humpback grouper](79-cromileptes-altivelis-humpback-grouper.md) |

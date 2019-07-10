@@ -174,7 +174,7 @@
   * [11:Carpet Sole,Liachirus melanospilos](fishes/untitled/11-carpet-sole.md)
   * [12:Warty Frogfish,Antennarius maculatus,Clown frogfish](fishes/untitled/12-warty-frogfish-antennarius-maculatus.md)
   * [13:Painted Frogfish,Antennarius Pictus](fishes/untitled/13-painted-frogfish-antennarius-pictus.md)
-  * [14:Titan Triggerfish,Balistoides viridescens](fishes/untitled/14-titan-triggerfish.md)
+  * [14:Balistoides viridescens,Titan Triggerfish](fishes/untitled/14-titan-triggerfish.md)
   * [15:Birdbeak Burrfish,Cyclichthys orbicularis](fishes/untitled/15-orbicular-burrfish.md)
   * [16:Spotfin Burrfish,Chilomycterus reticulatus](fishes/untitled/16-spotfin-burrfish.md)
   * [17:Black-blotched Porcupinefish,Diodon liturosus](fishes/untitled/17-masked-porcuplinefish.md)
@@ -190,7 +190,7 @@
   * [27:Black-finned Snake Eel,Ophichthus altipennis](fishes/untitled/27-black-finned-snake-eel.md)
   * [28:Neotrygon kuhlii,Bluespotted Stingray](fishes/untitled/28-blue-spotted-stingray.md)
   * [29:Triaenodon obesus,Whitetip Reef Shark](fishes/untitled/29-whitetip-reef-shark-triaenodon-obesus.md)
-  * [30:Electric Clam,Ctenoides ales](fishes/untitled/30-electronic-shell.md)
+  * [30:Ctenoides ales,Electric Clam](fishes/untitled/30-electronic-shell.md)
   * [31:Granulated Sea Star,Choriaster granulatus](fishes/untitled/31-granulated-sea-star.md)
   * [32:Ornate Slippery Goby, Lubricogobius ornatus](fishes/untitled/32-blue-eye-goby.md)
   * [33:Necklace Starfish,Fromia monilis](fishes/untitled/33-peppermint-starfish.md)
@@ -237,7 +237,7 @@
   * [73:Ablabys macracanthus](fishes/fish-eel-seastar-part-2/73-ablabys-macracanthus.md)
   * [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](fishes/fish-eel-seastar-part-2/74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md)
   * [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](fishes/fish-eel-seastar-part-2/75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md)
-  * [76:Balistoides viridescens,Titan triggerfish](fishes/fish-eel-seastar-part-2/76-balistoides-viridescens-titan-triggerfish.md)
+  * [76:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](fishes/fish-eel-seastar-part-2/125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md)
   * [77:Bothus lunatus,Plate fish](fishes/fish-eel-seastar-part-2/77-bothus-lunatus-plate-fish.md)
   * [78:Caranx melampygus,Bluefin trevally](fishes/fish-eel-seastar-part-2/78-caranx-melampygus-bluefin-trevally.md)
   * [79:Cromileptes altivelis,Humpback grouper](fishes/fish-eel-seastar-part-2/79-cromileptes-altivelis-humpback-grouper.md)
@@ -287,7 +287,8 @@
   * [122:Thelenota anax,Amberfish Sea Cucumber](fishes/fish-eel-seastar-part-3/122-thelenota-anax-amberfish-sea-cucumber.md)
   * [123:Gymnothorax javanicus,Giant Moray](fishes/fish-eel-seastar-part-3/123-gymnothorax-javanicus-giant-moray.md)
   * [124:Rhincodon typus,Whale Shark](fishes/fish-eel-seastar-part-3/124-rhincodon-typus-whale-shark.md)
-  * [125:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](fishes/fish-eel-seastar-part-3/125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md)
+  * [125:Sphyraena putnamae,Sawtooth Barracuda](fishes/fish-eel-seastar-part-3/125-sphyraena-putnamae-sawtooth-barracuda.md)
+  * [126:Caranx lugubris,Black Jack](fishes/fish-eel-seastar-part-3/126-caranx-lugubris-black-jack.md)
 
 ## Others
 

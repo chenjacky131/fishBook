@@ -26,5 +26,6 @@
 | ![](../../.gitbook/assets/small-thelenota-anax.jpg)  | [122:Thelenota anax,Amberfish Sea Cucumber](122-thelenota-anax-amberfish-sea-cucumber.md) |
 | ![](../../.gitbook/assets/small-gymnothorax-javanicus%20%281%29.jpg)  | [123:Gymnothorax javanicus,Giant Moray](123-gymnothorax-javanicus-giant-moray.md) |
 | ![](../../.gitbook/assets/small-rhincodon-typus.jpg)  | [124:Rhincodon typus,Whale Shark](124-rhincodon-typus-whale-shark.md) |
-| ![](../../.gitbook/assets/small-torpedo-marmorata.jpg)  | [125:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md) |
+| ![](../../.gitbook/assets/small-sphyraena-putnamae.jpg)  | [125:Sphyraena putnamae,Sawtooth Barracuda](125-sphyraena-putnamae-sawtooth-barracuda.md) |
+| ![](../../.gitbook/assets/small-caranx-lugubris.jpg)  | [126:Caranx lugubris,Black Jack](126-caranx-lugubris-black-jack.md) |
 
