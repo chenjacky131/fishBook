@@ -167,7 +167,7 @@
   * [4:Masked Spinefoot,Siganus puellus](fishes/untitled/4-masked-rabbitfish-siganus-puellus-decorated-rabbitfish.md)
   * [5:Amphiprion melanopus,Red And Black Anemonefish,Fire Clownfish](fishes/untitled/5-red-and-black-anemonefish-amphiprion-melanopus.md)
   * [6:Amphiprion ocellaris,Clown Anemonefish, Western Clown Anemonefish](fishes/untitled/6-false-clown-anemonefish-ocellaris-clownfish-amphiprion-ocellaris.md)
-  * [7:Platax orbicularis,Orbicular Batfish](fishes/untitled/7-circular-spadefish-platax-orbicularis.md)
+  * [7:Platax teira,Longfin Batfish,Tiera Batfish,Spotbelly Batfish](fishes/untitled/7-circular-spadefish-platax-orbicularis.md)
   * [8:Plectorhinchus lineatus，Yellowbanded Sweetlips，Diagonal-banded Sweetlips](fishes/untitled/8-diagonal-banded-sweetlips-plectorhinchus-lineatus.md)
   * [9:Okinawa goby,Gobiodon okinawae](fishes/untitled/9-lubricogobius-exiguus-yellow-pygmy-goby.md)
   * [10:Large Whip Goby,Bryaninops amplus](fishes/untitled/10-bryaninops-loki-loki-whip-goby.md)
