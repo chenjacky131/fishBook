@@ -6,3 +6,7 @@ found in malapascua
 
 ![](../../.gitbook/assets/cassiopea-andromeda.jpg)
 
+| Thummbnail | Video Link |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-cassiopea-andromeda.jpg)  | [video](https://drive.google.com/open?id=10jUnFqBqithaSJYqBA8BjYWItqZgMT6H) |
+

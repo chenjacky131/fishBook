@@ -222,7 +222,7 @@
   * [58:Aspidontus dussumieri,Dussumier's Blenny, Lance Blenny](fishes/fish-eel-seastar-part-2/58-aspidontus-dussumieri-dussumiers-blenny-lance-blenny.md)
   * [59:Dactyloptena orientalis,Flying Gurnard, Helmet Gurnard , Oriental Flying](fishes/fish-eel-seastar-part-2/59-dactyloptena-orientalis-flying-gurnard-helmet-gurnard-oriental-flying.md)
   * [60:Gorgasia maculata,Whitespotted garden eel](fishes/fish-eel-seastar-part-2/60-gorgasia-maculata-whitespotted-garden-eel.md)
-  * [61:Striped eel catfish,Plotosus lineatus](fishes/fish-eel-seastar-part-2/61-striped-eel-catfish-plotosus-lineatus.md)
+  * [61:Plotosus lineatus,Striped eel catfish](fishes/fish-eel-seastar-part-2/61-striped-eel-catfish-plotosus-lineatus.md)
   * [62:Siokunichthys nigrolineatus,Mushroom-coral Pipefish](fishes/fish-eel-seastar-part-2/62-siokunichthys-nigrolineatus-mushroom-coral-pipefish.md)
   * [63:Pterois volitans,Red lionfish](fishes/fish-eel-seastar-part-2/63-pterois-volitans-red-lionfish.md)
   * [64:Dendrochirus zebra,Zebra Lionfish,Dwarf Lionfish,Zebra Turkeyfish](fishes/fish-eel-seastar-part-2/64-dendrochirus-zebra-zebra-lionfish-dwarf-lionfish-zebra-turkeyfish.md)
@@ -286,7 +286,8 @@
   * [121:Rhinopias argoliba,Scorpionfish](fishes/fish-eel-seastar-part-3/121-rhinopias-argoliba-scorpionfish.md)
   * [122:Thelenota anax,Amberfish Sea Cucumber](fishes/fish-eel-seastar-part-3/122-thelenota-anax-amberfish-sea-cucumber.md)
   * [123:Gymnothorax javanicus,Giant Moray](fishes/fish-eel-seastar-part-3/123-gymnothorax-javanicus-giant-moray.md)
-* [124:Rhincodon typus,Whale Shark](fishes/124-rhincodon-typus-whale-shark.md)
+  * [124:Rhincodon typus,Whale Shark](fishes/fish-eel-seastar-part-3/124-rhincodon-typus-whale-shark.md)
+  * [125:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](fishes/fish-eel-seastar-part-3/125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md)
 
 ## Others
 
