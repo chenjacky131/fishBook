@@ -202,7 +202,7 @@
   * [39:Crocodile Fish,Cymbacephalus beauforti](fishes/untitled/39-crocodile-fish-cymbacephalus-beauforti-de-beauforts-flathead.md)
   * [40:File fish,Brachaluteres jacksonianus](fishes/untitled/21-unknow.md)
   * [41:Dark Red-Spined Brittle Star](fishes/untitled/41-dark-red-spined-brittle-star.md)
-  * [42:Japanese Surgeonfish,Acanthurus japonicus](fishes/untitled/42-japanese-surgeonfish-acanthurus-japonicus.md)
+  * [42:Acanthurus japonicus，Japanese Surgeonfish](fishes/untitled/42-japanese-surgeonfish-acanthurus-japonicus.md)
   * [43：Three-spot Dascyllus,Dascyllus trimaculatus](fishes/untitled/43-three-spot-dascyllus.md)
   * [44:Striped Large-eye Bream,Gnathodentex aureolineatus](fishes/untitled/44-striped-large-eye-bream-gnathodentex-aureolineatus.md)
   * [45:Black Spoteed Puffer,Arothron nigropunctatus](fishes/untitled/45-black-spoteed-puffer-arothron-nigropunctatus.md)
