@@ -1,4 +1,4 @@
-# 76:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray
+# 76:Taeniurops meyeni,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray
 
 found in tubbataha philippines
 
@@ -8,5 +8,5 @@ found in tubbataha philippines
 
 | Thumbnail | Video Link |
 | :---: | :---: |
-| ![](../../.gitbook/assets/small-torpedo-marmorata.jpg)  | [video](https://drive.google.com/open?id=1qmQ76N2QEzbqzjYAOI4gpvp9Z8VzBGXa) |
+| ![](../../.gitbook/assets/small-torpedo-marmorata.jpg)  | [video](https://drive.google.com/open?id=1rCCfQMFHXQJ2aED10ubSlpHe5avqTIBP) |
 

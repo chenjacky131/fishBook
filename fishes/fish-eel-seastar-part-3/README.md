@@ -28,4 +28,5 @@
 | ![](../../.gitbook/assets/small-rhincodon-typus.jpg)  | [124:Rhincodon typus,Whale Shark](124-rhincodon-typus-whale-shark.md) |
 | ![](../../.gitbook/assets/small-sphyraena-putnamae.jpg)  | [125:Sphyraena putnamae,Sawtooth Barracuda](125-sphyraena-putnamae-sawtooth-barracuda.md) |
 | ![](../../.gitbook/assets/small-caranx-lugubris.jpg)  | [126:Caranx lugubris,Black Jack](126-caranx-lugubris-black-jack.md) |
+| ![](../../.gitbook/assets/small-gymnosarda-unicolor.jpg)  | [127:Gymnosarda unicolor,Dogtooth Tuna](127-gymnosarda-unicolor-dogtooth-tuna.md) |
 

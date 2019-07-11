@@ -237,7 +237,7 @@
   * [73:Ablabys macracanthus](fishes/fish-eel-seastar-part-2/73-ablabys-macracanthus.md)
   * [74:Acanthurus xanthopterus,Cuvier's Surgeonfish, Purple Surgeonfish, Ring-tailed Surgeonfish](fishes/fish-eel-seastar-part-2/74-acanthurus-xanthopterus-cuviers-surgeonfish-purple-surgeonfish-ring-tailed-surgeonfish.md)
   * [75:Balistoides conspicillum,Big-spotted Triggerfish, Clown Trigger-fish](fishes/fish-eel-seastar-part-2/75-balistoides-conspicillum-big-spotted-triggerfish-clown-trigger-fish.md)
-  * [76:Torpedo marmorata,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](fishes/fish-eel-seastar-part-2/125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md)
+  * [76:Taeniurops meyeni,Black-blotched Stingray, Giant Reef Ray, Round Ribbontail Ray](fishes/fish-eel-seastar-part-2/125-torpedo-marmorata-black-blotched-stingray-giant-reef-ray-round-ribbontail-ray.md)
   * [77:Bothus lunatus,Plate fish](fishes/fish-eel-seastar-part-2/77-bothus-lunatus-plate-fish.md)
   * [78:Caranx melampygus,Bluefin trevally](fishes/fish-eel-seastar-part-2/78-caranx-melampygus-bluefin-trevally.md)
   * [79:Cromileptes altivelis,Humpback grouper](fishes/fish-eel-seastar-part-2/79-cromileptes-altivelis-humpback-grouper.md)
@@ -289,6 +289,7 @@
   * [124:Rhincodon typus,Whale Shark](fishes/fish-eel-seastar-part-3/124-rhincodon-typus-whale-shark.md)
   * [125:Sphyraena putnamae,Sawtooth Barracuda](fishes/fish-eel-seastar-part-3/125-sphyraena-putnamae-sawtooth-barracuda.md)
   * [126:Caranx lugubris,Black Jack](fishes/fish-eel-seastar-part-3/126-caranx-lugubris-black-jack.md)
+  * [127:Gymnosarda unicolor,Dogtooth Tuna](fishes/fish-eel-seastar-part-3/127-gymnosarda-unicolor-dogtooth-tuna.md)
 
 ## Others
 
