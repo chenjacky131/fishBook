@@ -6,3 +6,7 @@ found in tubbataha
 
 ![](../../.gitbook/assets/heniochus-chrysostomus.jpg)
 
+found in anilao
+
+![juvenile](../../.gitbook/assets/heniochus-chrysostomus2.jpg)
+

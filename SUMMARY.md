@@ -43,7 +43,7 @@
   * [36: Bumpy Mexichromis,Mexichromis multituberculata](nudibranch/untitled/36-bumpy-mexichromis-purple-tipped-multi-pustuled-slug-mexichromis-multituber.md)
   * [37: Mushroom Coral Reticulidia,Reticulidia fungia](nudibranch/untitled/37-mushroom-coral-reticulidia.md)
   * [38: Double-ringed Flabellina,Samla bilas](nudibranch/untitled/38-bicolor-flabellina.md)
-  * [39: Sky Blue Phyllidia,Phyllidia coelestis](nudibranch/untitled/39-sea-blue-phyllidia.md)
+  * [39: Phyllidia coelestis,Sky Blue Phyllidia](nudibranch/untitled/39-sea-blue-phyllidia.md)
   * [40:Headshield Slug,Spinophallus falciphallus](nudibranch/untitled/40-philinopsis-falciphallus-gosliner.md)
   * [41:CKangaroo Nudibranch, Purple Edged Ceratosoma Nudibranch,Ceratosoma tenue](nudibranch/untitled/8-unknow.md)
   * [42:Nudibranch,Hypselodoris purpureomaculosa](nudibranch/untitled/3-unknow.md)

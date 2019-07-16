@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/gorgasia-maculata.jpg)
 
+![](../../.gitbook/assets/gorgasia-maculata2.jpg)
+

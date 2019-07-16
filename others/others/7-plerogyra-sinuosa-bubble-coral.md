@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/plerogyra-sinuosa.jpg)
 
+![](../../.gitbook/assets/plerogyra-sinuosa2.jpg)
+
