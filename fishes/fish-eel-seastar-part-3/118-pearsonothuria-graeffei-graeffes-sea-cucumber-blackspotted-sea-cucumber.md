@@ -6,3 +6,5 @@ found in anilao philippines
 
 ![](../../.gitbook/assets/pearsonothuria-graeffei.jpg)
 
+![juvenile](../../.gitbook/assets/pearsonothuria-graeffei2.jpg)
+

@@ -290,6 +290,7 @@
   * [125:Sphyraena putnamae,Sawtooth Barracuda](fishes/fish-eel-seastar-part-3/125-sphyraena-putnamae-sawtooth-barracuda.md)
   * [126:Caranx lugubris,Black Jack](fishes/fish-eel-seastar-part-3/126-caranx-lugubris-black-jack.md)
   * [127:Gymnosarda unicolor,Dogtooth Tuna](fishes/fish-eel-seastar-part-3/127-gymnosarda-unicolor-dogtooth-tuna.md)
+  * [128:Callistoctopus macropus,White-spotted Octopus](fishes/fish-eel-seastar-part-3/128-callistoctopus-macropus-white-spotted-octopus.md)
 
 ## Others
 
