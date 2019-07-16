@@ -4,5 +4,7 @@
 
 ![juvenile](../../.gitbook/assets/plectorhinchus-chaetodonoides.jpg)
 
+![juvenile](../../.gitbook/assets/plectorhinchus-chaetodonoides3.jpg)
+
 ![](../../.gitbook/assets/plectorhinchus-chaetodonoides2.jpg)
 
