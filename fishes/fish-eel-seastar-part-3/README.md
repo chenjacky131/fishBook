@@ -30,4 +30,7 @@
 | ![](../../.gitbook/assets/small-caranx-lugubris.jpg)  | [126:Caranx lugubris,Black Jack](126-caranx-lugubris-black-jack.md) |
 | ![](../../.gitbook/assets/small-gymnosarda-unicolor.jpg)  | [127:Gymnosarda unicolor,Dogtooth Tuna](127-gymnosarda-unicolor-dogtooth-tuna.md) |
 | ![](../../.gitbook/assets/small-callistoctopus-macropus.jpg)  | [128:Callistoctopus macropus,White-spotted Octopus](128-callistoctopus-macropus-white-spotted-octopus.md) |
+| ![](../../.gitbook/assets/small-centropyge-bicolor.jpg)  | [129:Centropyge bicolor,Bicolor Angelfish](129-centropyge-bicolor-bicolor-angelfish.md) |
+| ![](../../.gitbook/assets/small-echinaster-callosus.jpg)  | [130:Echinaster callosus,Banded Bubble Star,Warty Sea Star,Lumpy Sea Star](130-echinaster-callosus-banded-bubble-star-warty-sea-star-lumpy-sea-star.md) |
+| ![](../../.gitbook/assets/small-gymnothorax-zonipectis.jpg)  | [131:Gymnothorax zonipectis,Barredfin Moray](131-gymnothorax-zonipectis-barredfin-moray.md) |
 

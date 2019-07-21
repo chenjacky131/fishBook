@@ -93,6 +93,7 @@
   * [85:Pleurobranchus forskalii,Sidegill Slug](nudibranch/nudibranch-platworm2/85-pleurobranchus-forskalii-sidegill-slug.md)
   * [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](nudibranch/nudibranch-platworm2/86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md)
   * [87:Notobryon wardi,Iridescent Nudibranch, Ward's Nudibranch](nudibranch/nudibranch-platworm2/87-notobryon-wardi-iridescent-nudibranch-wards-nudibranch.md)
+  * [88:Coryphellina exoptata,Desirable Flabellina](nudibranch/nudibranch-platworm2/88-coryphellina-exoptata-desirable-flabellina.md)
 
 ## ShrimpsAndCrabs
 
@@ -291,6 +292,9 @@
   * [126:Caranx lugubris,Black Jack](fishes/fish-eel-seastar-part-3/126-caranx-lugubris-black-jack.md)
   * [127:Gymnosarda unicolor,Dogtooth Tuna](fishes/fish-eel-seastar-part-3/127-gymnosarda-unicolor-dogtooth-tuna.md)
   * [128:Callistoctopus macropus,White-spotted Octopus](fishes/fish-eel-seastar-part-3/128-callistoctopus-macropus-white-spotted-octopus.md)
+  * [129:Centropyge bicolor,Bicolor Angelfish](fishes/fish-eel-seastar-part-3/129-centropyge-bicolor-bicolor-angelfish.md)
+  * [130:Echinaster callosus,Banded Bubble Star,Warty Sea Star,Lumpy Sea Star](fishes/fish-eel-seastar-part-3/130-echinaster-callosus-banded-bubble-star-warty-sea-star-lumpy-sea-star.md)
+  * [131:Gymnothorax zonipectis,Barredfin Moray](fishes/fish-eel-seastar-part-3/131-gymnothorax-zonipectis-barredfin-moray.md)
 
 ## Others
 
@@ -315,6 +319,9 @@
   * [18:Murex ternispina,Triple-spined Murex, Black-spined Murex](others/others/18-murex-ternispina-triple-spined-murex-black-spined-murex.md)
   * [19:Oliva oliva](others/others/19-oliva-oliva.md)
   * [20:Talparia talpa,Chocolate Banded Cowry](others/others/20-talparia-talpa-chocolate-banded-cowry.md)
+  * [21:Entacmaea quadricolor,Bulb-entacle Sea Anemone,Bubble-tip Sea Anemone](others/others/21-entacmaea-quadricolor-bulb-entacle-sea-anemone-bubble-tip-sea-anemone.md)
+  * [22:Fimbriaphyllia ancora,Anchor Coral Hammer Coral](others/others/22-fimbriaphyllia-ancora-anchor-coral-hammer-coral.md)
+  * [23:Spirobranchus giganteus,Christmas Tree Worm, Horned Feather Worm](others/others/23-spirobranchus-giganteus-christmas-tree-worm-horned-feather-worm.md)
 
 ## Unknow
 
