@@ -40,6 +40,14 @@
 | ![](../../.gitbook/assets/samll-pseudoceros-lindae.jpg)  | [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md) |
 | ![](../../.gitbook/assets/small-notobryon-wardi%20%281%29.jpg)  | [87:Notobryon wardi,Iridescent Nudibranch, Ward's Nudibranch](87-notobryon-wardi-iridescent-nudibranch-wards-nudibranch.md) |
 | ![](../../.gitbook/assets/small-coryphellina-exoptata.jpg)  | [88:Coryphellina exoptata,Desirable Flabellina](88-coryphellina-exoptata-desirable-flabellina.md) |
+| ![](../../.gitbook/assets/small-aegires-serenae.jpg)  | [89:Aegires serenae,Gray Norse God](89-aegires-serenae-gray-norse-god.md) |
+| ![](../../.gitbook/assets/small-chelidonura-amoena.jpg)  | [90:Chelidonura amoena,Lovely Headshield Slug](90-chelidonura-amoena-lovely-headshield-slug.md) |
+| ![](../../.gitbook/assets/small-colpodaspis-thompsoni.jpg)  | [91:Colpodaspis thompsoni,Fried Egg Sea Slug](91-colpodaspis-thompsoni-fried-egg-sea-slug.md) |
+| ![](../../.gitbook/assets/small-goniobranchus-albopunctatus.jpg)  | [92:Goniobranchus albopunctatus,White-spotted Nudibranch](92-goniobranchus-albopunctatus-white-spotted-nudibranch.md) |
+| ![](../../.gitbook/assets/small-hypselodoris-apolegma.jpg)  | [93:Hypselodoris apolegma,Giant Hypselodoris](93-hypselodoris-apolegma-giant-hypselodoris.md) |
+| ![](../../.gitbook/assets/small-hypselodoris-purpureomaculosa.jpg)  | [94:Hypselodoris purpureomaculosa](94-hypselodoris-purpureomaculosa.md) |
+| ![](../../.gitbook/assets/small-nembrotha-cristata.jpg)  | [95:Nembrotha cristata,Crested Nembrotha](95-nembrotha-cristata-crested-nembrotha.md) |
+| ![](../../.gitbook/assets/small-paradoris-liturata.jpg)  | [96:Paradoris liturata,Bumpy Paradoris](96-paradoris-liturata-bumpy-paradoris.md) |
 
 
 

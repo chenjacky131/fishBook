@@ -30,7 +30,7 @@
   * [23: Blue Dragon Nudibranch,Pteraeolidia ianthina](nudibranch/untitled/23-blue-dragon-nudibranch-pteraeolidia-ianthina.md)
   * [24: Redline Flabellina,Flabellina rubrolineata](nudibranch/untitled/24-redline-flabellina-flabellina-rubrolineata.md)
   * [25: Nudibranch,Verconia alboannulata](nudibranch/untitled/25-white-ring-noumea.md)
-  * [26: Dark Margin Glossodoris,Doriprismatica atromarginata](nudibranch/untitled/26-dark-margin-glossodoris-glossodoris-atromarginata.md)
+  * [26: Doriprismatica atromarginata,Dark Margin Glossodoris](nudibranch/untitled/26-dark-margin-glossodoris-glossodoris-atromarginata.md)
   * [27: Yellow Flatworm,Pseudoceros laingensis](nudibranch/untitled/27-laing-island-flatworm.md)
   * [28: Blue Velvet Headshield Slug,Chelidonura varians](nudibranch/untitled/28-sapphire-flatworm.md)
   * [29:Yellowspot Flatworm,Thysanozoon flavotuberculatum](nudibranch/untitled/29-thysanozoon-sp.-1.md)
@@ -94,6 +94,14 @@
   * [86:Pseudoceros lindae,Linda's Flatworm, Polyclad Flatworm](nudibranch/nudibranch-platworm2/86-pseudoceros-lindae-lindas-flatworm-polyclad-flatworm.md)
   * [87:Notobryon wardi,Iridescent Nudibranch, Ward's Nudibranch](nudibranch/nudibranch-platworm2/87-notobryon-wardi-iridescent-nudibranch-wards-nudibranch.md)
   * [88:Coryphellina exoptata,Desirable Flabellina](nudibranch/nudibranch-platworm2/88-coryphellina-exoptata-desirable-flabellina.md)
+  * [89:Aegires serenae,Gray Norse God](nudibranch/nudibranch-platworm2/89-aegires-serenae-gray-norse-god.md)
+  * [90:Chelidonura amoena,Lovely Headshield Slug](nudibranch/nudibranch-platworm2/90-chelidonura-amoena-lovely-headshield-slug.md)
+  * [91:Colpodaspis thompsoni,Fried Egg Sea Slug](nudibranch/nudibranch-platworm2/91-colpodaspis-thompsoni-fried-egg-sea-slug.md)
+  * [92:Goniobranchus albopunctatus,White-spotted Nudibranch](nudibranch/nudibranch-platworm2/92-goniobranchus-albopunctatus-white-spotted-nudibranch.md)
+  * [93:Hypselodoris apolegma,Giant Hypselodoris](nudibranch/nudibranch-platworm2/93-hypselodoris-apolegma-giant-hypselodoris.md)
+  * [94:Hypselodoris purpureomaculosa](nudibranch/nudibranch-platworm2/94-hypselodoris-purpureomaculosa.md)
+  * [95:Nembrotha cristata,Crested Nembrotha](nudibranch/nudibranch-platworm2/95-nembrotha-cristata-crested-nembrotha.md)
+  * [96:Paradoris liturata,Bumpy Paradoris](nudibranch/nudibranch-platworm2/96-paradoris-liturata-bumpy-paradoris.md)
 
 ## ShrimpsAndCrabs
 
