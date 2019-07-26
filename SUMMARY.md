@@ -166,6 +166,8 @@
   * [57:Pseudocryptochirus viridis](shrimpsandcrabs/shrimp-crab2/57-pseudocryptochirus-viridis.md)
   * [58:Pycnogonida sp,Sea Spider](shrimpsandcrabs/shrimp-crab2/58-pycnogonida-sp-sea-spider.md)
   * [59:Thenus orientalis,Flathead Lobster,Slipper Lobster](shrimpsandcrabs/shrimp-crab2/59-thenus-orientalis-flathead-lobster-slipper-lobster.md)
+  * [60:Calcinus latens,Blue Sock Hermit Crab](shrimpsandcrabs/shrimp-crab2/60-calcinus-latens-blue-sock-hermit-crab.md)
+  * [61:Pylopaguropsis lewinsohni ,Hermit Crab](shrimpsandcrabs/shrimp-crab2/61-pylopaguropsis-lewinsohni-hermit-crab.md)
 
 ## Fishes
 
@@ -303,6 +305,7 @@
   * [129:Centropyge bicolor,Bicolor Angelfish](fishes/fish-eel-seastar-part-3/129-centropyge-bicolor-bicolor-angelfish.md)
   * [130:Echinaster callosus,Banded Bubble Star,Warty Sea Star,Lumpy Sea Star](fishes/fish-eel-seastar-part-3/130-echinaster-callosus-banded-bubble-star-warty-sea-star-lumpy-sea-star.md)
   * [131:Gymnothorax zonipectis,Barredfin Moray](fishes/fish-eel-seastar-part-3/131-gymnothorax-zonipectis-barredfin-moray.md)
+  * [132:Echinaster luzonicus,Seastar](fishes/fish-eel-seastar-part-3/132-echinaster-luzonicus-seastar.md)
 
 ## Others
 
@@ -330,6 +333,10 @@
   * [21:Entacmaea quadricolor,Bulb-entacle Sea Anemone,Bubble-tip Sea Anemone](others/others/21-entacmaea-quadricolor-bulb-entacle-sea-anemone-bubble-tip-sea-anemone.md)
   * [22:Fimbriaphyllia ancora,Anchor Coral Hammer Coral](others/others/22-fimbriaphyllia-ancora-anchor-coral-hammer-coral.md)
   * [23:Spirobranchus giganteus,Christmas Tree Worm, Horned Feather Worm](others/others/23-spirobranchus-giganteus-christmas-tree-worm-horned-feather-worm.md)
+  * [24:Hyotissa hyotis,True Oysters](others/others/24-hyotissa-hyotis-true-oysters.md)
+  * [25:Terebra sp](others/others/25-terebra-sp.md)
+  * [26:Ventricaria ventricosa](others/others/26-ventricaria-ventricosa.md)
+  * [27:Virgularia Sp,Sea Pen](others/others/27-virgularia-sp-sea-pen.md)
 
 ## Unknow
 
