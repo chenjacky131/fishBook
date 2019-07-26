@@ -34,4 +34,5 @@
 | ![](../../.gitbook/assets/small-echinaster-callosus.jpg)  | [130:Echinaster callosus,Banded Bubble Star,Warty Sea Star,Lumpy Sea Star](130-echinaster-callosus-banded-bubble-star-warty-sea-star-lumpy-sea-star.md) |
 | ![](../../.gitbook/assets/small-gymnothorax-zonipectis.jpg)  | [131:Gymnothorax zonipectis,Barredfin Moray](131-gymnothorax-zonipectis-barredfin-moray.md) |
 | ![](../../.gitbook/assets/small-echinaster-luzonicus.jpg)  | [132:Echinaster luzonicus,Seastar](132-echinaster-luzonicus-seastar.md) |
+| ![](../../.gitbook/assets/small-stichopus-chloronotus.jpg)  | [133:Stichopus chloronotus,Greenfish](133-stichopus-chloronotus-greenfish.md) |
 

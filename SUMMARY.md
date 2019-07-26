@@ -306,6 +306,7 @@
   * [130:Echinaster callosus,Banded Bubble Star,Warty Sea Star,Lumpy Sea Star](fishes/fish-eel-seastar-part-3/130-echinaster-callosus-banded-bubble-star-warty-sea-star-lumpy-sea-star.md)
   * [131:Gymnothorax zonipectis,Barredfin Moray](fishes/fish-eel-seastar-part-3/131-gymnothorax-zonipectis-barredfin-moray.md)
   * [132:Echinaster luzonicus,Seastar](fishes/fish-eel-seastar-part-3/132-echinaster-luzonicus-seastar.md)
+  * [133:Stichopus chloronotus,Greenfish](fishes/fish-eel-seastar-part-3/133-stichopus-chloronotus-greenfish.md)
 
 ## Others
 
