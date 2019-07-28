@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/inimicus-didactylus.jpg)
 
+![juvenile](../../.gitbook/assets/inimicus-didactylus3.jpg)
+
