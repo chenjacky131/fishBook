@@ -13,4 +13,5 @@
 | ![](../../.gitbook/assets/small-thenus-orientalis.jpg)  | [59:Thenus orientalis,Flathead Lobster,Slipper Lobster](59-thenus-orientalis-flathead-lobster-slipper-lobster.md) |
 | ![](../../.gitbook/assets/small-calcinus-latens.jpg)  | [60:Calcinus latens,Blue Sock Hermit Crab](60-calcinus-latens-blue-sock-hermit-crab.md) |
 | ![](../../.gitbook/assets/small-pylopaguropsis-lewinsohni.jpg)  | [61:Pylopaguropsis lewinsohni ,Hermit Crab](61-pylopaguropsis-lewinsohni-hermit-crab.md) |
+| ![](../../.gitbook/assets/small-aniculus-retipes.jpg)  | [62:Aniculus retipes,Hermit Crab](62-aniculus-retipes-hermit-crab.md) |
 

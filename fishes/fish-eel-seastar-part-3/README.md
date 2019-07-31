@@ -35,4 +35,10 @@
 | ![](../../.gitbook/assets/small-gymnothorax-zonipectis.jpg)  | [131:Gymnothorax zonipectis,Barredfin Moray](131-gymnothorax-zonipectis-barredfin-moray.md) |
 | ![](../../.gitbook/assets/small-echinaster-luzonicus.jpg)  | [132:Echinaster luzonicus,Seastar](132-echinaster-luzonicus-seastar.md) |
 | ![](../../.gitbook/assets/small-stichopus-chloronotus.jpg)  | [133:Stichopus chloronotus,Greenfish](133-stichopus-chloronotus-greenfish.md) |
+| ![](../../.gitbook/assets/small-cetoscarus-bicolor.jpg)  | [134:Cetoscarus bicolor,Bicolour Parrotfish,Two-colored Parrotfish](134-cetoscarus-bicolor-bicolour-parrotfish-two-colored-parrotfish.md) |
+| ![](../../.gitbook/assets/small-euapta-sp.jpg)  | [135:Euapta sp,Seacucumber](135-euapta-sp-seacucumber.md) |
+| ![](../../.gitbook/assets/small-hapalochlaena-lunulata.jpg)  | [136:Hapalochlaena lunulata, Greater blue-ringed Octopus](136-hapalochlaena-lunulata-greater-blue-ringed-octopus.md) |
+| ![](../../.gitbook/assets/small-rhynchostracion-nasus.jpg)  | [137:Rhynchostracion nasus,Long-nosed Box-fish, Small-nosed Boxfish](137-rhynchostracion-nasus-long-nosed-box-fish-small-nosed-boxfish.md) |
+| ![](../../.gitbook/assets/small-sebastapistes-strongia.jpg)  | [138:Sebastapistes strongia,Barchin Scorpionfish](138-sebastapistes-strongia-barchin-scorpionfish.md) |
+| ![](../../.gitbook/assets/small-toxopneustes-pileolus.jpg)  | [139:Toxopneustes pileolus,Flower Urchin](139-toxopneustes-pileolus-flower-urchin.md) |
 

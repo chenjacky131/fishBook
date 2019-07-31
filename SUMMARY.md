@@ -122,7 +122,7 @@
   * [14: Stenopus hispidus,Banded Coral Shrimp](shrimpsandcrabs/untitled/14-banded-coral-shrimp.md)
   * [15:Harlequin Shrimp,Hymenocera picta](shrimpsandcrabs/untitled/15-harlequin-shrimp.md)
   * [16: Spiny Tiger Shrimp, Bongo Shrimp,Phyllognathia ceratophthalma](shrimpsandcrabs/untitled/16-spiny-tiger-shrimp.md)
-  * [17: Squat Anemone Shrimp,Thor amboinensis](shrimpsandcrabs/untitled/17-squat-anemone-shrimp-sexy-anemone-shrimp.md)
+  * [17: Thor amboinensis,Squat Anemone Shrimp](shrimpsandcrabs/untitled/17-squat-anemone-shrimp-sexy-anemone-shrimp.md)
   * [18: Long Nose shrimp, Donald Duck Shrimp,Leander plumosus](shrimpsandcrabs/untitled/18-donald-duck-shrimp-leander-plumosus.md)
   * [19: Aliaporcellana spongicola，Barrel Sponge Porcelain Crab](shrimpsandcrabs/untitled/19-aliaporcellana-porcelain-crab.md)
   * [20: Emperor shrimp,Zenopontonia rex](shrimpsandcrabs/untitled/20-emperor-shrimp.md)
@@ -168,6 +168,7 @@
   * [59:Thenus orientalis,Flathead Lobster,Slipper Lobster](shrimpsandcrabs/shrimp-crab2/59-thenus-orientalis-flathead-lobster-slipper-lobster.md)
   * [60:Calcinus latens,Blue Sock Hermit Crab](shrimpsandcrabs/shrimp-crab2/60-calcinus-latens-blue-sock-hermit-crab.md)
   * [61:Pylopaguropsis lewinsohni ,Hermit Crab](shrimpsandcrabs/shrimp-crab2/61-pylopaguropsis-lewinsohni-hermit-crab.md)
+  * [62:Aniculus retipes,Hermit Crab](shrimpsandcrabs/shrimp-crab2/62-aniculus-retipes-hermit-crab.md)
 
 ## Fishes
 
@@ -307,6 +308,12 @@
   * [131:Gymnothorax zonipectis,Barredfin Moray](fishes/fish-eel-seastar-part-3/131-gymnothorax-zonipectis-barredfin-moray.md)
   * [132:Echinaster luzonicus,Seastar](fishes/fish-eel-seastar-part-3/132-echinaster-luzonicus-seastar.md)
   * [133:Stichopus chloronotus,Greenfish](fishes/fish-eel-seastar-part-3/133-stichopus-chloronotus-greenfish.md)
+  * [134:Cetoscarus bicolor,Bicolour Parrotfish,Two-colored Parrotfish](fishes/fish-eel-seastar-part-3/134-cetoscarus-bicolor-bicolour-parrotfish-two-colored-parrotfish.md)
+  * [135:Euapta sp,Seacucumber](fishes/fish-eel-seastar-part-3/135-euapta-sp-seacucumber.md)
+  * [136:Hapalochlaena lunulata, Greater blue-ringed Octopus](fishes/fish-eel-seastar-part-3/136-hapalochlaena-lunulata-greater-blue-ringed-octopus.md)
+  * [137:Rhynchostracion nasus,Long-nosed Box-fish, Small-nosed Boxfish](fishes/fish-eel-seastar-part-3/137-rhynchostracion-nasus-long-nosed-box-fish-small-nosed-boxfish.md)
+  * [138:Sebastapistes strongia,Barchin Scorpionfish](fishes/fish-eel-seastar-part-3/138-sebastapistes-strongia-barchin-scorpionfish.md)
+  * [139:Toxopneustes pileolus,Flower Urchin](fishes/fish-eel-seastar-part-3/139-toxopneustes-pileolus-flower-urchin.md)
 
 ## Others
 
