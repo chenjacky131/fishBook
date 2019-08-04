@@ -102,6 +102,10 @@
   * [94:Hypselodoris purpureomaculosa](nudibranch/nudibranch-platworm2/94-hypselodoris-purpureomaculosa.md)
   * [95:Nembrotha cristata,Crested Nembrotha](nudibranch/nudibranch-platworm2/95-nembrotha-cristata-crested-nembrotha.md)
   * [96:Paradoris liturata,Bumpy Paradoris](nudibranch/nudibranch-platworm2/96-paradoris-liturata-bumpy-paradoris.md)
+  * [97:Costasiella kuroshimae,Shaun the Sheep Nudibranch](nudibranch/nudibranch-platworm2/97-costasiella-kuroshimae-shaun-the-sheep-nudibranch.md)
+  * [98:Pseudoceros liparus,Racing-Stripes-Flatworm](nudibranch/nudibranch-platworm2/98-pseudoceros-liparus-racing-stripes-flatworm.md)
+  * [99:Pseudoceros scintillatus,Brilliant Flatworm](nudibranch/nudibranch-platworm2/99-pseudoceros-scintillatus-brilliant-flatworm.md)
+  * [100:Oxynoe viridis,Supsucking Slug, Sacoglossa](nudibranch/nudibranch-platworm2/100-oxynoe-viridis-supsucking-slug-sacoglossa.md)
 
 ## ShrimpsAndCrabs
 
@@ -314,6 +318,7 @@
   * [137:Rhynchostracion nasus,Long-nosed Box-fish, Small-nosed Boxfish](fishes/fish-eel-seastar-part-3/137-rhynchostracion-nasus-long-nosed-box-fish-small-nosed-boxfish.md)
   * [138:Sebastapistes strongia,Barchin Scorpionfish](fishes/fish-eel-seastar-part-3/138-sebastapistes-strongia-barchin-scorpionfish.md)
   * [139:Toxopneustes pileolus,Flower Urchin](fishes/fish-eel-seastar-part-3/139-toxopneustes-pileolus-flower-urchin.md)
+  * [140:Neothyonidium magnum,Magnum Sea Cucumber,Burrowing Sea Cucumber](fishes/fish-eel-seastar-part-3/140-neothyonidium-magnum-magnum-sea-cucumber-burrowing-sea-cucumber.md)
 
 ## Others
 
@@ -345,6 +350,8 @@
   * [25:Terebra sp](others/others/25-terebra-sp.md)
   * [26:Ventricaria ventricosa](others/others/26-ventricaria-ventricosa.md)
   * [27:Virgularia Sp,Sea Pen](others/others/27-virgularia-sp-sea-pen.md)
+  * [28:Cypraea pantherina,Panther Cowry](others/others/28-cypraea-pantherina-panther-cowry.md)
+  * [29:Phalium bandatum,Banded Bonnet](others/others/29-phalium-bandatum-banded-bonnet.md)
 
 ## Unknow
 

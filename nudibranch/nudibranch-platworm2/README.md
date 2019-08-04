@@ -48,6 +48,10 @@
 | ![](../../.gitbook/assets/small-hypselodoris-purpureomaculosa.jpg)  | [94:Hypselodoris purpureomaculosa](94-hypselodoris-purpureomaculosa.md) |
 | ![](../../.gitbook/assets/small-nembrotha-cristata.jpg)  | [95:Nembrotha cristata,Crested Nembrotha](95-nembrotha-cristata-crested-nembrotha.md) |
 | ![](../../.gitbook/assets/small-paradoris-liturata.jpg)  | [96:Paradoris liturata,Bumpy Paradoris](96-paradoris-liturata-bumpy-paradoris.md) |
+| ![](../../.gitbook/assets/small-costasiella-kuroshimae.jpg)  | [97:Costasiella kuroshimae,Shaun the Sheep Nudibranch](97-costasiella-kuroshimae-shaun-the-sheep-nudibranch.md) |
+| ![](../../.gitbook/assets/small-pseudoceros-liparus.jpg)  | [98:Pseudoceros liparus,Racing-Stripes-Flatworm](98-pseudoceros-liparus-racing-stripes-flatworm.md) |
+| ![](../../.gitbook/assets/small-pseudoceros-scintillatus.jpg)  | [99:Pseudoceros scintillatus,Brilliant Flatworm](99-pseudoceros-scintillatus-brilliant-flatworm.md) |
+| ![](../../.gitbook/assets/small-oxynoe-viridis.jpg)  | [100:Oxynoe viridis,Supsucking Slug, Sacoglossa](100-oxynoe-viridis-supsucking-slug-sacoglossa.md) |
 
 
 

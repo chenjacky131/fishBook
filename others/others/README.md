@@ -33,6 +33,8 @@ description: 'Snails, Shells, Urchins,Anemone,Coral,Crowy'
 | ![](../../.gitbook/assets/small-terebra-sp.jpg)  | [25:Terebra sp](25-terebra-sp.md) |
 | ![](../../.gitbook/assets/small-ventricaria-ventricosa.jpg)  | [26:Ventricaria ventricosa](26-ventricaria-ventricosa.md) |
 | ![](../../.gitbook/assets/small-virgularia-sp.jpg)  | [27:Virgularia Sp,Sea Pen](27-virgularia-sp-sea-pen.md) |
+| ![](../../.gitbook/assets/small-cypraea-pantherina.jpg)  | [28:Cypraea pantherina,Panther Cowry](28-cypraea-pantherina-panther-cowry.md) |
+| ![](../../.gitbook/assets/small-phalium-bandatum%20%281%29.jpg)  | [29:Phalium bandatum,Banded Bonnet](29-phalium-bandatum-banded-bonnet.md) |
 
 
 
