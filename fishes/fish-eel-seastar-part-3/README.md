@@ -42,4 +42,5 @@
 | ![](../../.gitbook/assets/small-sebastapistes-strongia.jpg)  | [138:Sebastapistes strongia,Barchin Scorpionfish](138-sebastapistes-strongia-barchin-scorpionfish.md) |
 | ![](../../.gitbook/assets/small-toxopneustes-pileolus.jpg)  | [139:Toxopneustes pileolus,Flower Urchin](139-toxopneustes-pileolus-flower-urchin.md) |
 | ![](../../.gitbook/assets/small-neothyonidium-magnum.jpg)  | [140:Neothyonidium magnum,Magnum Sea Cucumber,Burrowing Sea Cucumber](140-neothyonidium-magnum-magnum-sea-cucumber-burrowing-sea-cucumber.md) |
+| ![](../../.gitbook/assets/small-idiosepius-pygmaeus%20%281%29.jpg)  | [141:Idiosepius pygmaeus,Two-tone Pygmy Squid](141-idiosepius-pygmaeus-two-tone-pygmy-squid.md) |
 

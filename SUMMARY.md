@@ -319,6 +319,7 @@
   * [138:Sebastapistes strongia,Barchin Scorpionfish](fishes/fish-eel-seastar-part-3/138-sebastapistes-strongia-barchin-scorpionfish.md)
   * [139:Toxopneustes pileolus,Flower Urchin](fishes/fish-eel-seastar-part-3/139-toxopneustes-pileolus-flower-urchin.md)
   * [140:Neothyonidium magnum,Magnum Sea Cucumber,Burrowing Sea Cucumber](fishes/fish-eel-seastar-part-3/140-neothyonidium-magnum-magnum-sea-cucumber-burrowing-sea-cucumber.md)
+  * [141:Idiosepius pygmaeus,Two-tone Pygmy Squid](fishes/fish-eel-seastar-part-3/141-idiosepius-pygmaeus-two-tone-pygmy-squid.md)
 
 ## Others
 
@@ -352,6 +353,7 @@
   * [27:Virgularia Sp,Sea Pen](others/others/27-virgularia-sp-sea-pen.md)
   * [28:Cypraea pantherina,Panther Cowry](others/others/28-cypraea-pantherina-panther-cowry.md)
   * [29:Phalium bandatum,Banded Bonnet](others/others/29-phalium-bandatum-banded-bonnet.md)
+  * [30:Cystiscus minutissimus](others/others/30-cystiscus-minutissimus.md)
 
 ## Unknow
 
