@@ -1,4 +1,4 @@
-# Nudibranch,Platworm2
+# Nudibranch,Flatworm2
 
 | Thumbnail | Link |
 | :---: | :---: |

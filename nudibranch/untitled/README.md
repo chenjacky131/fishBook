@@ -1,8 +1,8 @@
 ---
-description: This part is about nudibranches and platworms
+description: This part is about nudibranches and flatworms
 ---
 
-# Nudibranch,Platworm1
+# Nudibranch,Flatworm1
 
 | Thumbnail | Link |
 | :---: | :---: |
