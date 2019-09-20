@@ -16,13 +16,7 @@ description: >-
 
 All the photos were posted in my instagram , Here is the link : [**Chenjacky7003**](https://www.instagram.com/jackchen7003/)\*\*\*\*
 
-If the name of the creature is wrong, advices and suggestion is welcomed and I will fixed it.Also if you know the names of the creature in the group of "unknow" , please don't hesitate to tell me.
-
-Here is my messenger:
-
-![](.gitbook/assets/1.jpg)
-
-Most of the details are from the websites below,it's really good website.
+Most of the details are from the websites below
 
 1: [**Tropical Reefs**](https://reefguide.org)\*\*\*\*
 
