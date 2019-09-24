@@ -45,7 +45,7 @@
   * [38: Double-ringed Flabellina,Samla bilas](nudibranch/untitled/38-bicolor-flabellina.md)
   * [39: Phyllidia coelestis,Sky Blue Phyllidia](nudibranch/untitled/39-sea-blue-phyllidia.md)
   * [40:Headshield Slug,Spinophallus falciphallus](nudibranch/untitled/40-philinopsis-falciphallus-gosliner.md)
-  * [41:CKangaroo Nudibranch, Purple Edged Ceratosoma Nudibranch,Ceratosoma tenue](nudibranch/untitled/8-unknow.md)
+  * [41:Ceratosoma tenue,CKangaroo Nudibranch, Purple Edged Ceratosoma Nudibranch](nudibranch/untitled/8-unknow.md)
   * [42:Nudibranch,Hypselodoris purpureomaculosa](nudibranch/untitled/3-unknow.md)
   * [43:Cratena lineata](nudibranch/untitled/4-unknow.md)
   * [44:Nudibranch,Phestilla melanobrachia](nudibranch/untitled/7-unknow.md)
