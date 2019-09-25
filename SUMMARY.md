@@ -106,6 +106,9 @@
   * [98:Pseudoceros liparus,Racing-Stripes-Flatworm](nudibranch/nudibranch-platworm2/98-pseudoceros-liparus-racing-stripes-flatworm.md)
   * [99:Pseudoceros scintillatus,Brilliant Flatworm](nudibranch/nudibranch-platworm2/99-pseudoceros-scintillatus-brilliant-flatworm.md)
   * [100:Oxynoe viridis,Supsucking Slug, Sacoglossa](nudibranch/nudibranch-platworm2/100-oxynoe-viridis-supsucking-slug-sacoglossa.md)
+* [Nudibranch,Flatworm3](nudibranch/nudibranch-flatworm3/README.md)
+  * [111:Coryphellina lotos](nudibranch/nudibranch-flatworm3/111-coryphellina-lotos.md)
+  * [112:Dolabella auricularia,Blunt-end Sea Hare, Eared Sea Hare, Wedge Sea Hare](nudibranch/nudibranch-flatworm3/112-dolabella-auricularia-blunt-end-sea-hare-eared-sea-hare-wedge-sea-hare.md)
 
 ## ShrimpsAndCrabs
 
@@ -364,6 +367,9 @@
   * [28:Cypraea pantherina,Panther Cowry](others/others/28-cypraea-pantherina-panther-cowry.md)
   * [29:Phalium bandatum,Banded Bonnet](others/others/29-phalium-bandatum-banded-bonnet.md)
   * [30:Cystiscus minutissimus](others/others/30-cystiscus-minutissimus.md)
+  * [31:Ovula ovum,Common Egg Cowrie](others/others/31-ovula-ovum-common-egg-cowrie.md)
+  * [32:Santia sp,Sponge Isopod](others/others/32-santia-sp-sponge-isopod.md)
+  * [33:Tripneustes gratilla,Pincushion Hairy Urchin,Cake Sea Urchin](others/others/33-tripneustes-gratilla-pincushion-hairy-urchin-cake-sea-urchin.md)
 
 ## Unknow
 
