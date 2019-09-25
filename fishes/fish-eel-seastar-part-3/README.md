@@ -43,4 +43,11 @@
 | ![](../../.gitbook/assets/small-toxopneustes-pileolus.jpg)  | [139:Toxopneustes pileolus,Flower Urchin](139-toxopneustes-pileolus-flower-urchin.md) |
 | ![](../../.gitbook/assets/small-neothyonidium-magnum.jpg)  | [140:Neothyonidium magnum,Magnum Sea Cucumber,Burrowing Sea Cucumber](140-neothyonidium-magnum-magnum-sea-cucumber-burrowing-sea-cucumber.md) |
 | ![](../../.gitbook/assets/small-idiosepius-pygmaeus%20%281%29.jpg)  | [141:Idiosepius pygmaeus,Two-tone Pygmy Squid](141-idiosepius-pygmaeus-two-tone-pygmy-squid.md) |
+| ![](../../.gitbook/assets/small-arothron-mappa.jpg)  | [142:Arothron mappa,Map puffer](142-arothron-mappa-map-puffer.md) |
+| ![](../../.gitbook/assets/small-colochirus-robustus.jpg)  | [143:Colochirus robustus,Robust Sea Cucumber,Yellow Sea Cucumber](143-colochirus-robustus-robust-sea-cucumber-yellow-sea-cucumber.md) |
+| ![](../../.gitbook/assets/small-eretmochelys-imbricata%20%281%29.jpg)  | [144:Eretmochelys imbricata,Hawksbill turtle](144-dolabella-auricularia.md) |
+|  | [145:Hippocampus histrix,Thorny Seahorse](145-hippocampus-histrix-thorny-seahorse.md) |
+| ![](../../.gitbook/assets/small-hippocampus-kuda.jpg)  | [146:Hippocampus kuda,Spotted Seahorse,Estuary Seahorse](146-hippocampus-kuda-spotted-seahorse-estuary-seahorse.md) |
+| ![](../../.gitbook/assets/small-ophichthus-bonaparti.jpg)  | [147:Ophichthus bonaparti,Napoleon Snake Eel,Purple-banded Snake Eel](147-ophichthus-bonaparti-napoleon-snake-eel-purple-banded-snake-eel.md) |
+| ![](../../.gitbook/assets/small-petroscirtes-breviceps.jpg)  | [148:Petroscirtes breviceps,Striped poison-fang blenny mimic](148-petroscirtes-breviceps-striped-poison-fang-blenny-mimic.md) |
 

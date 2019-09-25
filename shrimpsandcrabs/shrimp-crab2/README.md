@@ -14,4 +14,6 @@
 | ![](../../.gitbook/assets/small-calcinus-latens.jpg)  | [60:Calcinus latens,Blue Sock Hermit Crab](60-calcinus-latens-blue-sock-hermit-crab.md) |
 | ![](../../.gitbook/assets/small-pylopaguropsis-lewinsohni.jpg)  | [61:Pylopaguropsis lewinsohni ,Hermit Crab](61-pylopaguropsis-lewinsohni-hermit-crab.md) |
 | ![](../../.gitbook/assets/small-aniculus-retipes.jpg)  | [62:Aniculus retipes,Hermit Crab](62-aniculus-retipes-hermit-crab.md) |
+| ![](../../.gitbook/assets/small-allogalathea-elegans.jpg)  | [63:Allogalathea elegans,Crinoid Squat Lobster,Feather Star Squat Lobster](63-allogalathea-elegans-crinoid-squat-lobster-feather-star-squat-lobster.md) |
+| ![](../../.gitbook/assets/small-camposcia-retusa.jpg)  | [64:Camposcia retusa,Decorator Crab](64-camposcia-retusa-decorator-crab.md) |
 

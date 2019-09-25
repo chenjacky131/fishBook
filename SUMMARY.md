@@ -173,6 +173,8 @@
   * [60:Calcinus latens,Blue Sock Hermit Crab](shrimpsandcrabs/shrimp-crab2/60-calcinus-latens-blue-sock-hermit-crab.md)
   * [61:Pylopaguropsis lewinsohni ,Hermit Crab](shrimpsandcrabs/shrimp-crab2/61-pylopaguropsis-lewinsohni-hermit-crab.md)
   * [62:Aniculus retipes,Hermit Crab](shrimpsandcrabs/shrimp-crab2/62-aniculus-retipes-hermit-crab.md)
+  * [63:Allogalathea elegans,Crinoid Squat Lobster,Feather Star Squat Lobster](shrimpsandcrabs/shrimp-crab2/63-allogalathea-elegans-crinoid-squat-lobster-feather-star-squat-lobster.md)
+  * [64:Camposcia retusa,Decorator Crab](shrimpsandcrabs/shrimp-crab2/64-camposcia-retusa-decorator-crab.md)
 
 ## Fishes
 
@@ -320,6 +322,14 @@
   * [139:Toxopneustes pileolus,Flower Urchin](fishes/fish-eel-seastar-part-3/139-toxopneustes-pileolus-flower-urchin.md)
   * [140:Neothyonidium magnum,Magnum Sea Cucumber,Burrowing Sea Cucumber](fishes/fish-eel-seastar-part-3/140-neothyonidium-magnum-magnum-sea-cucumber-burrowing-sea-cucumber.md)
   * [141:Idiosepius pygmaeus,Two-tone Pygmy Squid](fishes/fish-eel-seastar-part-3/141-idiosepius-pygmaeus-two-tone-pygmy-squid.md)
+  * [142:Arothron mappa,Map puffer](fishes/fish-eel-seastar-part-3/142-arothron-mappa-map-puffer.md)
+  * [143:Colochirus robustus,Robust Sea Cucumber,Yellow Sea Cucumber](fishes/fish-eel-seastar-part-3/143-colochirus-robustus-robust-sea-cucumber-yellow-sea-cucumber.md)
+  * [144:Eretmochelys imbricata,Hawksbill turtle](fishes/fish-eel-seastar-part-3/144-dolabella-auricularia.md)
+  * [145:Hippocampus histrix,Thorny Seahorse](fishes/fish-eel-seastar-part-3/145-hippocampus-histrix-thorny-seahorse.md)
+  * [146:Hippocampus kuda,Spotted Seahorse,Estuary Seahorse](fishes/fish-eel-seastar-part-3/146-hippocampus-kuda-spotted-seahorse-estuary-seahorse.md)
+  * [147:Ophichthus bonaparti,Napoleon Snake Eel,Purple-banded Snake Eel](fishes/fish-eel-seastar-part-3/147-ophichthus-bonaparti-napoleon-snake-eel-purple-banded-snake-eel.md)
+  * [148:Petroscirtes breviceps,Striped poison-fang blenny mimic](fishes/fish-eel-seastar-part-3/148-petroscirtes-breviceps-striped-poison-fang-blenny-mimic.md)
+  * [149:Plectorhinchus Orientalis,Oriental Sweetlips](fishes/fish-eel-seastar-part-3/149-plectorhinchus-orientalis-oriental-sweetlips.md)
 
 ## Others
 
