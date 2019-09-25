@@ -6,6 +6,8 @@
 
 ![](../../.gitbook/assets/balistoides-viridescens%20%281%29.jpg)
 
+![](../../.gitbook/assets/balistoides-viridescens2.jpg)
+
 | Thumbnail | Video Link |
 | :---: | :---: |
 | ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [video](https://drive.google.com/open?id=1Gt0CuuRMqWv7UobDyhu_A0nkwqoGmRke) |

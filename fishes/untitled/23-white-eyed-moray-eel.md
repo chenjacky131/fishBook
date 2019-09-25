@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/white-eyed-moray-eel.jpg)
 
-![](../../.gitbook/assets/white-eyed-moray-eel2.jpg)
+![](../../.gitbook/assets/white-eyed-moray-eel2%20%281%29.jpg)
 
 ![](../../.gitbook/assets/white-eyed-moray-eel3.jpg)
 

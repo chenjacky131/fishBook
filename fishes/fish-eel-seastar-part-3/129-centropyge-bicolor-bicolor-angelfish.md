@@ -6,3 +6,5 @@ found in anilao philippines
 
 ![](../../.gitbook/assets/centropyge-bicolor.jpg)
 
+![](../../.gitbook/assets/centropyge-bicolor2.jpg)
+

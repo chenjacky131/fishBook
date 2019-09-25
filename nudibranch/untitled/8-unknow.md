@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/ceratosoma-tenue.jpg)
 
+![](../../.gitbook/assets/ceratosoma-tenue2.jpg)
+
