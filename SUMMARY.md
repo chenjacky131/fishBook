@@ -334,6 +334,8 @@
   * [148:Petroscirtes breviceps,Striped poison-fang blenny mimic](fishes/fish-eel-seastar-part-3/148-petroscirtes-breviceps-striped-poison-fang-blenny-mimic.md)
   * [149:Plectorhinchus Orientalis,Oriental Sweetlips](fishes/fish-eel-seastar-part-3/149-plectorhinchus-orientalis-oriental-sweetlips.md)
   * [150:Echidna nebulosa,Snowflake Moray](fishes/fish-eel-seastar-part-3/150-echidna-nebulosa-snowflake-moray.md)
+* [Fish,Eel,Seastar Part 4](fishes/fish-eel-seastar-part-4/README.md)
+  * [151:Thaumoctopus mimicus,Mimic Octopus](fishes/fish-eel-seastar-part-4/151-thaumoctopus-mimicus-mimic-octopus.md)
 
 ## Others
 
