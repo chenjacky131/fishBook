@@ -333,6 +333,7 @@
   * [147:Ophichthus bonaparti,Napoleon Snake Eel,Purple-banded Snake Eel](fishes/fish-eel-seastar-part-3/147-ophichthus-bonaparti-napoleon-snake-eel-purple-banded-snake-eel.md)
   * [148:Petroscirtes breviceps,Striped poison-fang blenny mimic](fishes/fish-eel-seastar-part-3/148-petroscirtes-breviceps-striped-poison-fang-blenny-mimic.md)
   * [149:Plectorhinchus Orientalis,Oriental Sweetlips](fishes/fish-eel-seastar-part-3/149-plectorhinchus-orientalis-oriental-sweetlips.md)
+  * [150:Echidna nebulosa,Snowflake Moray](fishes/fish-eel-seastar-part-3/150-echidna-nebulosa-snowflake-moray.md)
 
 ## Others
 

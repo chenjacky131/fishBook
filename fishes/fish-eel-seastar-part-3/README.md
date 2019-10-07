@@ -50,4 +50,6 @@
 | ![](../../.gitbook/assets/small-hippocampus-kuda.jpg)  | [146:Hippocampus kuda,Spotted Seahorse,Estuary Seahorse](146-hippocampus-kuda-spotted-seahorse-estuary-seahorse.md) |
 | ![](../../.gitbook/assets/small-ophichthus-bonaparti.jpg)  | [147:Ophichthus bonaparti,Napoleon Snake Eel,Purple-banded Snake Eel](147-ophichthus-bonaparti-napoleon-snake-eel-purple-banded-snake-eel.md) |
 | ![](../../.gitbook/assets/small-petroscirtes-breviceps.jpg)  | [148:Petroscirtes breviceps,Striped poison-fang blenny mimic](148-petroscirtes-breviceps-striped-poison-fang-blenny-mimic.md) |
+| ![](../../.gitbook/assets/small-plectorhinchus-orientalis.jpg)  | [149:Plectorhinchus Orientalis,Oriental Sweetlips](149-plectorhinchus-orientalis-oriental-sweetlips.md) |
+| ![](../../.gitbook/assets/small-echidna-nebulosa.jpg)  | [150:Echidna nebulosa,Snowflake Moray](150-echidna-nebulosa-snowflake-moray.md) |
 
