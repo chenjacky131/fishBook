@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/balistoides-viridescens2.jpg)
 
-| Thumbnail | Video Link |
-| :---: | :---: |
-| ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [video](https://drive.google.com/open?id=1Gt0CuuRMqWv7UobDyhu_A0nkwqoGmRke) |
+| Thumbnail | Video Link | Video Link |
+| :---: | :---: | :---: |
+| ![](../../.gitbook/assets/small-balistoides-viridescens.jpg)  | [video](https://drive.google.com/open?id=1Gt0CuuRMqWv7UobDyhu_A0nkwqoGmRke) | [video2](https://drive.google.com/open?id=16c69musYhsXv7PRLfzw5UpVAhhvqk4ao) |
 

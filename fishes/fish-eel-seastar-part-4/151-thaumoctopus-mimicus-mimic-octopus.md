@@ -1,6 +1,6 @@
-# 151:Thaumoctopus mimicus,Mimic Octopus
+# 151:Wunderpus photogenicus,Wunderpus Octopus
 
-#### Chinese Name: 拟态章鱼
+#### Chinese Name: 斑马章鱼
 
 ![](../../.gitbook/assets/thaumoctopus-mimicus.jpg)
 

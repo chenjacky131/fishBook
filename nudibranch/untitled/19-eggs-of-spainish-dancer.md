@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/eggs-of-spanish-dancer.jpg)
 
+![](../../.gitbook/assets/eggsofspanishdancer.jpg)
+

@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/quadrella-maculosa.jpg)
 
+![juvenile](../../.gitbook/assets/quadrella-maculosa%20%282%29.jpg)
+

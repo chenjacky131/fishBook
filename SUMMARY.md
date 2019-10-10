@@ -335,7 +335,7 @@
   * [149:Plectorhinchus Orientalis,Oriental Sweetlips](fishes/fish-eel-seastar-part-3/149-plectorhinchus-orientalis-oriental-sweetlips.md)
   * [150:Echidna nebulosa,Snowflake Moray](fishes/fish-eel-seastar-part-3/150-echidna-nebulosa-snowflake-moray.md)
 * [Fish,Eel,Seastar Part 4](fishes/fish-eel-seastar-part-4/README.md)
-  * [151:Thaumoctopus mimicus,Mimic Octopus](fishes/fish-eel-seastar-part-4/151-thaumoctopus-mimicus-mimic-octopus.md)
+  * [151:Wunderpus photogenicus,Wunderpus Octopus](fishes/fish-eel-seastar-part-4/151-thaumoctopus-mimicus-mimic-octopus.md)
 
 ## Others
 
@@ -373,6 +373,7 @@
   * [31:Ovula ovum,Common Egg Cowrie](others/others/31-ovula-ovum-common-egg-cowrie.md)
   * [32:Santia sp,Sponge Isopod](others/others/32-santia-sp-sponge-isopod.md)
   * [33:Tripneustes gratilla,Pincushion Hairy Urchin,Cake Sea Urchin](others/others/33-tripneustes-gratilla-pincushion-hairy-urchin-cake-sea-urchin.md)
+  * [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](others/others/34-ianthella-basta-elephant-ear-sponge-paper-sponge.md)
 
 ## Unknow
 
