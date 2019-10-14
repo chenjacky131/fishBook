@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/yellow-pygmy-goby.jpg)
 
+![](../../.gitbook/assets/okinawa-goby.jpg)
+

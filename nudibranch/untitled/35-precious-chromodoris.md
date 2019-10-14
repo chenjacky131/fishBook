@@ -1,4 +1,4 @@
-# 35: Nudibranch,Goniobranchus rubrocornutus
+# 35: Goniobranchus verrieri,Nudibranch
 
 #### Chinese name:未知
 
