@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/fire-goby2.jpg)
 
+![](../../.gitbook/assets/fire-goby3.jpg)
+

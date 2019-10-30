@@ -6,3 +6,5 @@
 
 ![](../../.gitbook/assets/pacific-trumpetfish.jpg)
 
+![](../../.gitbook/assets/pacific-trumpetfish4.jpg)
+

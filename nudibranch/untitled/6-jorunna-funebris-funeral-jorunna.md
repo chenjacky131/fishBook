@@ -6,3 +6,5 @@
 
 ![juvenile](../../.gitbook/assets/jorunna-funebris-juvenile.jpg)
 
+![](../../.gitbook/assets/jorunna-funebris2.jpg)
+
