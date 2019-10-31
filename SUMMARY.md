@@ -198,7 +198,7 @@
   * [14:Balistoides viridescens,Titan Triggerfish](fishes/untitled/14-titan-triggerfish.md)
   * [15:Birdbeak Burrfish,Cyclichthys orbicularis](fishes/untitled/15-orbicular-burrfish.md)
   * [16:Spotfin Burrfish,Chilomycterus reticulatus](fishes/untitled/16-spotfin-burrfish.md)
-  * [17:Black-blotched Porcupinefish,Diodon liturosus](fishes/untitled/17-masked-porcuplinefish.md)
+  * [17:Diodon holocanthus,Long-spine Porcupinefish](fishes/untitled/17-masked-porcuplinefish.md)
   * [18:Pacific Trumpetfish,Chinese Trumpetfish,Aulostomus chinensis](fishes/untitled/18-pacific-trumpetfish.md)
   * [19:Harlequin Ghost Pipefish, Ornate Ghost Pipefish,Solenostomus paradoxus](fishes/untitled/19-ornate-ghost-pipefish-solenostomus-paradoxus.md)
   * [20:Yellowbanded Pipefish,Dunckerocampus pessuliferus](fishes/untitled/20-ringed-pipefish-doryrhamphus-dactyliophorus-banded-pipefish.md)
