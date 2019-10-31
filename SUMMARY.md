@@ -136,7 +136,7 @@
   * [21:Mushroom Coral Shrimp,Cuapetes kororensis](shrimpsandcrabs/untitled/21-mushroom-coral-shrimp-popcorn-shrimp-periclmenes-kororensis-white-head-shrimp.md)
   * [22:White-spotted Hermit Crab,Dardanus megistos](shrimpsandcrabs/untitled/22-white-spotted-hermit-shrimp.md)
   * [23: Sea Star Shrimp,Zenopontonia soror](shrimpsandcrabs/untitled/23-sea-star-shrimp.md)
-  * [24: Lisa's Mantis Shrimp​,Lysiosquillina lisa](shrimpsandcrabs/untitled/24-lisas-mantis-shrimp.md)
+  * [24: Lysiosquillina lisa,Lisa's Mantis Shrimp​](shrimpsandcrabs/untitled/24-lisas-mantis-shrimp.md)
   * [25:Carinate Snapping Shrimp,Synalpheus carinatus](shrimpsandcrabs/untitled/25-soft-coral-snapping-shrimp-synalpheus-neomeris.md)
   * [26: Crinoid snapping shrimp,Synalpheus stimpsonii](shrimpsandcrabs/untitled/26-stimpsons-snapping-shrimp-synalpheus-stimpsonii.md)
   * [27: Peacocktail Anemone Shrimp,Pacific Clown Anemone Shrimp,Ancylocaris brevicarpalis](shrimpsandcrabs/untitled/27-peacock-tail-anemone-shrimp.md)

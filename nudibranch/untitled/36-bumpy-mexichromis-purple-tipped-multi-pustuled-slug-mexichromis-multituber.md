@@ -4,3 +4,7 @@
 
 ![](../../.gitbook/assets/bumpy-mexichromis.jpg)
 
+![](../../.gitbook/assets/mexichromis-multituberculata.jpg)
+
+![](../../.gitbook/assets/mexichromis-multituberculata2.jpg)
+
