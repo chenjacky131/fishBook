@@ -4,3 +4,7 @@
 
 ![](../../.gitbook/assets/pterois-volitans.jpg)
 
+![juvenile](../../.gitbook/assets/lionfish2.jpg)
+
+![juvenile](../../.gitbook/assets/lionfish3.jpg)
+
