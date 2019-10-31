@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/moorish-idol.jpg)
 
+![](../../.gitbook/assets/moorish-idol2.jpg)
+
