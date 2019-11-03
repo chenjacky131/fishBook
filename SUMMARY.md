@@ -199,7 +199,7 @@
   * [15:Birdbeak Burrfish,Cyclichthys orbicularis](fishes/untitled/15-orbicular-burrfish.md)
   * [16:Spotfin Burrfish,Chilomycterus reticulatus](fishes/untitled/16-spotfin-burrfish.md)
   * [17:Diodon holocanthus,Long-spine Porcupinefish](fishes/untitled/17-masked-porcuplinefish.md)
-  * [18:Pacific Trumpetfish,Chinese Trumpetfish,Aulostomus chinensis](fishes/untitled/18-pacific-trumpetfish.md)
+  * [18:Aulostomus chinensis,Pacific Trumpetfish,Chinese Trumpetfish](fishes/untitled/18-pacific-trumpetfish.md)
   * [19:Harlequin Ghost Pipefish, Ornate Ghost Pipefish,Solenostomus paradoxus](fishes/untitled/19-ornate-ghost-pipefish-solenostomus-paradoxus.md)
   * [20:Yellowbanded Pipefish,Dunckerocampus pessuliferus](fishes/untitled/20-ringed-pipefish-doryrhamphus-dactyliophorus-banded-pipefish.md)
   * [21:Corythoichthys haematopterus,Messmate pipefish,Yello-banded pipefish](fishes/untitled/21-orange-spotted-pipefish-corythoichthys-ocellatus.md)

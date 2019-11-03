@@ -8,3 +8,5 @@
 
 ![](../../.gitbook/assets/arothron-nigropunctatus2.jpg)
 
+![](../../.gitbook/assets/arothron-nigropunctatus3.jpg)
+
