@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/phyllidiella-pustulosa.jpg)
 
+![](../../.gitbook/assets/phyllidiella-pustulosa2.jpg)
+

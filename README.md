@@ -20,7 +20,7 @@ Most of the details are from the websites below
 
 1: [**Tropical Reefs**](https://reefguide.org)\*\*\*\*
 
-2: [**潜水时光**](http://www.lazydiving.com/report)\*\*\*\*
+2: [**潜水时光**](http://lazydiving.com/report/)\*\*\*\*
 
 3: [**reeflex**](https://www.reeflex.net)\*\*\*\*
 
