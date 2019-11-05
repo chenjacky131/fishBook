@@ -2,5 +2,5 @@
 
 #### Chinese name:绵羊海兔
 
-![](../../.gitbook/assets/costasiella-usagi.jpg)
+![](../../.gitbook/assets/costasiella-usagi%20%281%29.jpg)
 

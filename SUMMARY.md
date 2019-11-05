@@ -209,7 +209,7 @@
   * [10:Large Whip Goby,Bryaninops amplus](fishes/untitled/10-bryaninops-loki-loki-whip-goby.md)
   * [11:Carpet Sole,Liachirus melanospilos](fishes/untitled/11-carpet-sole.md)
   * [12:Warty Frogfish,Antennarius maculatus,Clown frogfish](fishes/untitled/12-warty-frogfish-antennarius-maculatus.md)
-  * [13:Painted Frogfish,Antennarius Pictus](fishes/untitled/13-painted-frogfish-antennarius-pictus.md)
+  * [13:Antennarius Pictus,Painted Frogfish](fishes/untitled/13-painted-frogfish-antennarius-pictus.md)
   * [14:Balistoides viridescens,Titan Triggerfish](fishes/untitled/14-titan-triggerfish.md)
   * [15:Birdbeak Burrfish,Cyclichthys orbicularis](fishes/untitled/15-orbicular-burrfish.md)
   * [16:Spotfin Burrfish,Chilomycterus reticulatus](fishes/untitled/16-spotfin-burrfish.md)
@@ -351,6 +351,15 @@
   * [150:Echidna nebulosa,Snowflake Moray](fishes/fish-eel-seastar-part-3/150-echidna-nebulosa-snowflake-moray.md)
 * [Fish,Eel,Seastar Part 4](fishes/fish-eel-seastar-part-4/README.md)
   * [151:Wunderpus photogenicus,Wunderpus Octopus](fishes/fish-eel-seastar-part-4/151-thaumoctopus-mimicus-mimic-octopus.md)
+  * [152:Antennarius striatus,Striped Anglerfish](fishes/fish-eel-seastar-part-4/152-antennarius-striatus-striped-anglerfish.md)
+  * [153:Arothron caeruleopunctatus ,Blue-spotted Puffer](fishes/fish-eel-seastar-part-4/153-arothron-caeruleopunctatus-blue-spotted-puffer.md)
+  * [154:Arothron stellatus,Star Blaasop, Staring Blow Fish, Star Puffer, Starry Pufferfish, Starry Toadf](fishes/fish-eel-seastar-part-4/154-arothron-stellatus-star-blaasop-staring-blow-fish-star-puffer-starry-pufferfish-starry-toadf.md)
+  * [155:Aurelia aurita,Moon Jellyfish](fishes/fish-eel-seastar-part-4/155-aurelia-aurita-moon-jellyfish.md)
+  * [156:Bolbometopon muricatum,Bumphead Parrotfish, Double-headed Parrotfish, Green Humphead Parrotfish](fishes/fish-eel-seastar-part-4/156-bolbometopon-muricatum-bumphead-parrotfish-double-headed-parrotfish-green-humphead-parrotfish.md)
+  * [157:Chaetodon adiergastos,Bantayan Butterflyfish, Eye-patch Butterflyfish, Panda Butterflyfish](fishes/fish-eel-seastar-part-4/157-chaetodon-adiergastos-bantayan-butterflyfish-eye-patch-butterflyfish-panda-butterflyfish.md)
+  * [158:Cirrhitichthys falco,Coral Hawkfish , Dwarf Hawkfish, Falco Hawkfish , Falcon Hawkfish](fishes/fish-eel-seastar-part-4/158-cirrhitichthys-falco-coral-hawkfish-dwarf-hawkfish-falco-hawkfish-falcon-hawkfish.md)
+  * [159:Coris gaimard,African Clown Wrasse, African Coris, Clown Wrasse, Gaimard's Wrasse, Rainbow Wrass](fishes/fish-eel-seastar-part-4/159-coris-gaimard-african-clown-wrasse-african-coris-clown-wrasse-gaimards-wrasse-rainbow-wrass.md)
+  * [160:Diodon liturosus,Black-blotched Porcupinefish](fishes/fish-eel-seastar-part-4/160-diodon-liturosus-black-blotched-porcupinefish.md)
 
 ## Others
 

@@ -22,7 +22,7 @@ description: 'This part is about fishes , ells, seastars,rays,sharks'
 | ![](../../.gitbook/assets/small-titan-triggerfish.jpg)  | [14:Titan Triggerfish,Balistoides viridescens](14-titan-triggerfish.md) |
 | ![](../../.gitbook/assets/small-orbicular-burrfish.jpg)  | [15:Birdbeak Burrfish,Cyclichthys orbicularis](15-orbicular-burrfish.md) |
 | ![](../../.gitbook/assets/small-spotfin-burrfish.jpg)  | [16:Spotfin Burrfish,Chilomycterus reticulatus](16-spotfin-burrfish.md) |
-| ![](../../.gitbook/assets/small-masked-porcuplinefish.jpg)  | [17:Black-blotched Porcupinefish,Diodon liturosus](17-masked-porcuplinefish.md) |
+| ![](../../.gitbook/assets/small-masked-porcuplinefish.jpg)  | [17:Diodon holocanthus,Long-spine Porcupinefish](17-masked-porcuplinefish.md) |
 | ![](../../.gitbook/assets/small-pacific-trumpetfish.jpg)  | [18:Pacific Trumpetfish,Chinese Trumpetfish,Aulostomus chinensis](18-pacific-trumpetfish.md) |
 | ![](../../.gitbook/assets/small-ornate-ghost-pipefish.jpg)  | [19:Harlequin Ghost Pipefish, Ornate Ghost Pipefish,Solenostomus paradoxus](19-ornate-ghost-pipefish-solenostomus-paradoxus.md) |
 | ![](../../.gitbook/assets/small-ringed-pipefish.jpg)  | [20:Yellowbanded Pipefish,Dunckerocampus pessuliferus](20-ringed-pipefish-doryrhamphus-dactyliophorus-banded-pipefish.md) |

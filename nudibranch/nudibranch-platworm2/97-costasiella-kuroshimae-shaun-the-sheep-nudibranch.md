@@ -4,3 +4,5 @@
 
 ![](../../.gitbook/assets/costasiella-kuroshimae.jpg)
 
+![](../../.gitbook/assets/costasiella-kuroshimae2.jpg)
+

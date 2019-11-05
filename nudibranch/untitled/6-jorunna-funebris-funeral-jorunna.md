@@ -8,3 +8,7 @@
 
 ![](../../.gitbook/assets/jorunna-funebris2.jpg)
 
+| Thumbnail | VideoLink |
+| :---: | :---: |
+| ![](../../.gitbook/assets/small-jorunna-funebris.jpg)  | [VideoLink](https://drive.google.com/open?id=1bl1U5IY0Y-POXhxUCNAWYqTc_6UYmH73) |
+
