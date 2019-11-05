@@ -10,7 +10,7 @@
   * [3:Psychedelic Batwing Slug,Sagaminopteron psychedelicum](nudibranch/untitled/3-psychedelic-batwing-slug.md)
   * [4:Ornate Sapsucking Slug,Ornate Leaf Slug,Elysia ornata](nudibranch/untitled/4-ornate-elysia-ornate-sapsucking-slug.md)
   * [5:Lined Nembrotha,Nembrotha lineolata](nudibranch/untitled/5-nembrotha-lineolata.md)
-  * [6:Funeral Jorunna,Jorunna funebris](nudibranch/untitled/6-jorunna-funebris-funeral-jorunna.md)
+  * [6:Jorunna funebris,Funeral Jorunna](nudibranch/untitled/6-jorunna-funebris-funeral-jorunna.md)
   * [7:Kunie's Chromodoris,Goniobranchus kuniei](nudibranch/untitled/7-kunies-chromodoris-goniobranchus-kuniei.md)
   * [8:Bus Stop Chromodoris,Goniobranchus hintuanensis](nudibranch/untitled/8-bus-stop-chromodoris-chromodoris-hintuanensis.md)
   * [9:Cadlinella ornatissima,Cadlinella ornatissima](nudibranch/untitled/9-ornamental-cadlinella.md)
