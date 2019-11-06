@@ -360,6 +360,12 @@
   * [158:Cirrhitichthys falco,Coral Hawkfish , Dwarf Hawkfish, Falco Hawkfish , Falcon Hawkfish](fishes/fish-eel-seastar-part-4/158-cirrhitichthys-falco-coral-hawkfish-dwarf-hawkfish-falco-hawkfish-falcon-hawkfish.md)
   * [159:Coris gaimard,African Clown Wrasse, African Coris, Clown Wrasse, Gaimard's Wrasse, Rainbow Wrass](fishes/fish-eel-seastar-part-4/159-coris-gaimard-african-clown-wrasse-african-coris-clown-wrasse-gaimards-wrasse-rainbow-wrass.md)
   * [160:Diodon liturosus,Black-blotched Porcupinefish](fishes/fish-eel-seastar-part-4/160-diodon-liturosus-black-blotched-porcupinefish.md)
+  * [161:Heteroconger hassi,Spotted Garden-eel](fishes/fish-eel-seastar-part-4/161-heteroconger-hassi-spotted-garden-eel.md)
+  * [162:Mola mola,Giant Sunfish, Headfish, Mola Ocean Sunfish, Moonfish, Ocean Sunfish, Sunfish](fishes/fish-eel-seastar-part-4/162-mola-mola-giant-sunfish-headfish-mola-ocean-sunfish-moonfish-ocean-sunfish-sunfish.md)
+  * [163:Naso vlamingii,Big-nose Unicorn, Big-nose Unicornfish, Scribbled Unicornfish](fishes/fish-eel-seastar-part-4/163-naso-vlamingii-big-nose-unicorn-big-nose-unicornfish-scribbled-unicornfish.md)
+  * [164:Pomacanthus annularis,Bluering Angelfish, Blue Ring Angelfish, Blue-ringed Angelfish](fishes/fish-eel-seastar-part-4/164-pomacanthus-annularis-bluering-angelfish-blue-ring-angelfish-blue-ringed-angelfish.md)
+  * [165:Ptereleotris evides,Arrow Goby, Blackfin Dartfish, Sailfin Hovergoby, Scissortail Dartfish](fishes/fish-eel-seastar-part-4/165-ptereleotris-evides-arrow-goby-blackfin-dartfish-sailfin-hovergoby-scissortail-dartfish.md)
+  * [166:Pygoplites diacanthus,Bluebanded Angelfish, Empress Angelfish, Regal Angelfish](fishes/fish-eel-seastar-part-4/166-pygoplites-diacanthus-bluebanded-angelfish-empress-angelfish-regal-angelfish.md)
 
 ## Others
 
