@@ -16,4 +16,7 @@
 | ![](../../.gitbook/assets/small-aniculus-retipes.jpg)  | [62:Aniculus retipes,Hermit Crab](62-aniculus-retipes-hermit-crab.md) |
 | ![](../../.gitbook/assets/small-allogalathea-elegans.jpg)  | [63:Allogalathea elegans,Crinoid Squat Lobster,Feather Star Squat Lobster](63-allogalathea-elegans-crinoid-squat-lobster-feather-star-squat-lobster.md) |
 | ![](../../.gitbook/assets/small-camposcia-retusa.jpg)  | [64:Camposcia retusa,Decorator Crab](64-camposcia-retusa-decorator-crab.md) |
+| ![](../../.gitbook/assets/small-idiomysis-tsurnamali.jpg)  | [65:Idiomysis tsurnamali,Tsurnamali Opossum Shrimp, Mysid Shrimp](65-idiomysis-tsurnamali-tsurnamali-opossum-shrimp-mysid-shrimp.md) |
+| ![](../../.gitbook/assets/small-laomenes-pardus.jpg)  | [66:Laomenes pardus,Leopard Crinoid Shrimp](66-laomenes-pardus-leopard-crinoid-shrimp.md) |
+| ![](../../.gitbook/assets/small-latreutes-pymoeus.jpg)  | [67:Latreutes pymoeus,Bignose Seagrass Shrimp](67-latreutes-pymoeus-bignose-seagrass-shrimp.md) |
 

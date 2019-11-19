@@ -1,6 +1,6 @@
-# 124:Tambja morosa,Gloomy Nudibranch
+# 124:Haminoea sp,Bubble Snail
 
-#### Chinese name:蓝纹锈边海蛞蝓
+#### Chinese name:葡萄螺
 
-![](../../.gitbook/assets/tambja-morosa.jpg)
+![](../../.gitbook/assets/haminoea-sp.jpg)
 

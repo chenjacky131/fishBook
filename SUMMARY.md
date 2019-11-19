@@ -120,7 +120,7 @@
   * [121:Lomanotus-sp,Nudibranch](nudibranch/nudibranch-flatworm3/121-lomanotus-sp-nudibranch.md)
   * [122:Melibe viridis,Green Melibe](nudibranch/nudibranch-flatworm3/122-melibe-viridis-green-melibe.md)
   * [123:Siphopteron tigrinum,Batwing Slug](nudibranch/nudibranch-flatworm3/123-siphopteron-tigrinum-batwing-slug.md)
-  * [124:Tambja morosa,Gloomy Nudibranch](nudibranch/nudibranch-flatworm3/124-tambja-morosa-gloomy-nudibranch.md)
+  * [124:Haminoea sp,Bubble Snail](nudibranch/nudibranch-flatworm3/124-tambja-morosa-gloomy-nudibranch.md)
   * [125:Thecacera-sp,Nudibranch](nudibranch/nudibranch-flatworm3/125-thecacera-sp-nudibranch.md)
   * [126:Thuridilla carlsoni,Sapsucking Slug](nudibranch/nudibranch-flatworm3/126-thuridilla-carlsoni-sapsucking-slug.md)
   * [127:Unidentia sandramillenae ,Nudibranch](nudibranch/nudibranch-flatworm3/127-unidentia-sandramillenae-nudibranch.md)
@@ -193,6 +193,9 @@
   * [62:Aniculus retipes,Hermit Crab](shrimpsandcrabs/shrimp-crab2/62-aniculus-retipes-hermit-crab.md)
   * [63:Allogalathea elegans,Crinoid Squat Lobster,Feather Star Squat Lobster](shrimpsandcrabs/shrimp-crab2/63-allogalathea-elegans-crinoid-squat-lobster-feather-star-squat-lobster.md)
   * [64:Camposcia retusa,Decorator Crab](shrimpsandcrabs/shrimp-crab2/64-camposcia-retusa-decorator-crab.md)
+  * [65:Idiomysis tsurnamali,Tsurnamali Opossum Shrimp, Mysid Shrimp](shrimpsandcrabs/shrimp-crab2/65-idiomysis-tsurnamali-tsurnamali-opossum-shrimp-mysid-shrimp.md)
+  * [66:Laomenes pardus,Leopard Crinoid Shrimp](shrimpsandcrabs/shrimp-crab2/66-laomenes-pardus-leopard-crinoid-shrimp.md)
+  * [67:Latreutes pymoeus,Bignose Seagrass Shrimp](shrimpsandcrabs/shrimp-crab2/67-latreutes-pymoeus-bignose-seagrass-shrimp.md)
 
 ## Fishes
 
@@ -404,6 +407,8 @@
   * [32:Santia sp,Sponge Isopod](others/others/32-santia-sp-sponge-isopod.md)
   * [33:Tripneustes gratilla,Pincushion Hairy Urchin,Cake Sea Urchin](others/others/33-tripneustes-gratilla-pincushion-hairy-urchin-cake-sea-urchin.md)
   * [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](others/others/34-ianthella-basta-elephant-ear-sponge-paper-sponge.md)
+  * [35:Pteria crocea](others/others/35-pteria-crocea.md)
+  * [36:Spondylus varius,Giant variable Thorny Oyster](others/others/36-spondylus-varius-giant-variable-thorny-oyster.md)
 
 ## Unknow
 

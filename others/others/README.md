@@ -40,6 +40,8 @@ description: 'Snails, Shells, Urchins,Anemone,Coral,Crowy'
 | ![](../../.gitbook/assets/small-sponge-isopod.jpg)  | [32:Santia sp,Sponge Isopod](32-santia-sp-sponge-isopod.md) |
 | ![](../../.gitbook/assets/small-tripneustes-gratilla.jpg)  | [33:Tripneustes gratilla,Pincushion Hairy Urchin,Cake Sea Urchin](33-tripneustes-gratilla-pincushion-hairy-urchin-cake-sea-urchin.md) |
 | ![](../../.gitbook/assets/small-ianthella-basta.jpg)  | [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](34-ianthella-basta-elephant-ear-sponge-paper-sponge.md) |
+| ![](../../.gitbook/assets/small-pteria-crocea.jpg)  | [35:Pteria crocea](35-pteria-crocea.md) |
+| ![](../../.gitbook/assets/small-spondylus-varius.jpg)  | [36:Spondylus varius,Giant variable Thorny Oyster](36-spondylus-varius-giant-variable-thorny-oyster.md) |
 
 
 
