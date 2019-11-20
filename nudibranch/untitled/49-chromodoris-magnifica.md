@@ -4,3 +4,7 @@
 
 ![](../../.gitbook/assets/chromodoris-magnifica.jpg)
 
+![](../../.gitbook/assets/chromodoris-magnifica2.jpg)
+
+![](../../.gitbook/assets/chromodoris-magnifica3.jpg)
+
