@@ -42,6 +42,12 @@ description: 'Snails, Shells, Urchins,Anemone,Coral,Crowy'
 | ![](../../.gitbook/assets/small-ianthella-basta.jpg)  | [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](34-ianthella-basta-elephant-ear-sponge-paper-sponge.md) |
 | ![](../../.gitbook/assets/small-pteria-crocea.jpg)  | [35:Pteria crocea](35-pteria-crocea.md) |
 | ![](../../.gitbook/assets/small-spondylus-varius.jpg)  | [36:Spondylus varius,Giant variable Thorny Oyster](36-spondylus-varius-giant-variable-thorny-oyster.md) |
+| ![](../../.gitbook/assets/small-haminoea-sp.jpg)  | [37:Haminoea sp,Bubble Snail](37-haminoea-sp-bubble-snail.md) |
+| ![](../../.gitbook/assets/small-ethalia-catharinae.jpg)  | [38:Ethalia catharinae,Sensitive Shell](38-ethalia-catharinae-sensitive-shell.md) |
+| ![](../../.gitbook/assets/small-naticarius-orientalis.jpg)  | [39:Naticarius orientalis,Moon Snail](39-naticarius-orientalis-moon-snail.md) |
+| ![](../../.gitbook/assets/small-paracorynactis-hoplites.jpg)  | [40:Paracorynactis hoplites,Paracorynactis Hoplites](40-paracorynactis-hoplites-paracorynactis-hoplites.md) |
+| ![](../../.gitbook/assets/small-predaea-weldii.jpg)  | [41:Predaea weldii,Red Alga, Gelatinous Seaweed](41-predaea-weldii-red-alga-gelatinous-seaweed.md) |
+| ![](../../.gitbook/assets/small-thylacodes-grandis.jpg)  | [42:Thylacodes grandis,Grand Coral Worm Snail](42-thylacodes-grandis-grand-coral-worm-snail.md) |
 
 
 

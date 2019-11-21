@@ -19,4 +19,6 @@
 | ![](../../.gitbook/assets/small-idiomysis-tsurnamali.jpg)  | [65:Idiomysis tsurnamali,Tsurnamali Opossum Shrimp, Mysid Shrimp](65-idiomysis-tsurnamali-tsurnamali-opossum-shrimp-mysid-shrimp.md) |
 | ![](../../.gitbook/assets/small-laomenes-pardus.jpg)  | [66:Laomenes pardus,Leopard Crinoid Shrimp](66-laomenes-pardus-leopard-crinoid-shrimp.md) |
 | ![](../../.gitbook/assets/small-latreutes-pymoeus.jpg)  | [67:Latreutes pymoeus,Bignose Seagrass Shrimp](67-latreutes-pymoeus-bignose-seagrass-shrimp.md) |
+| ![](../../.gitbook/assets/small-porcellanella-haigae.jpg)  | [68:Porcellanella haigae,Haig's Porcelain Crab, Sea-pen Crab](68-porcellanella-haigae-haigs-porcelain-crab-sea-pen-crab.md) |
+| ![](../../.gitbook/assets/small-pseudopaguristes-kuekenthali.jpg)  | [69:Pseudopaguristes kuekenthali,Orange Hermit Crab](69-pseudopaguristes-kuekenthali-orange-hermit-crab.md) |
 

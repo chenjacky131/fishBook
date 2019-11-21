@@ -15,7 +15,7 @@
 | ![](../../.gitbook/assets/small-lomanotus-sp.jpg)  | [121:Lomanotus-sp,Nudibranch](121-lomanotus-sp-nudibranch.md) |
 | ![](../../.gitbook/assets/small-melibe-viridis.jpg)  | [122:Melibe viridis,Green Melibe](122-melibe-viridis-green-melibe.md) |
 | ![](../../.gitbook/assets/small-siphopteron-tigrinum.jpg)  | [123:Siphopteron tigrinum,Batwing Slug](123-siphopteron-tigrinum-batwing-slug.md) |
-| ![](../../.gitbook/assets/small-haminoea-sp.jpg)  | [124:Haminoea sp,Bubble Snail](124-tambja-morosa-gloomy-nudibranch.md) |
+| ![](../../.gitbook/assets/small-haminoea-sp%20%281%29.jpg)  | [124:Haminoea sp,Bubble Snail](124-tambja-morosa-gloomy-nudibranch.md) |
 | ![](../../.gitbook/assets/small-thecacera-sp.jpg)  | [125:Thecacera-sp,Nudibranch](125-thecacera-sp-nudibranch.md) |
 | ![](../../.gitbook/assets/small-thuridilla-carlsoni.jpg)  | [126:Thuridilla carlsoni,Sapsucking Slug](126-thuridilla-carlsoni-sapsucking-slug.md) |
 | ![](../../.gitbook/assets/small-unidentia-sandramillenae.jpg)  | [127:Unidentia sandramillenae ,Nudibranch](127-unidentia-sandramillenae-nudibranch.md) |

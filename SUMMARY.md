@@ -196,6 +196,8 @@
   * [65:Idiomysis tsurnamali,Tsurnamali Opossum Shrimp, Mysid Shrimp](shrimpsandcrabs/shrimp-crab2/65-idiomysis-tsurnamali-tsurnamali-opossum-shrimp-mysid-shrimp.md)
   * [66:Laomenes pardus,Leopard Crinoid Shrimp](shrimpsandcrabs/shrimp-crab2/66-laomenes-pardus-leopard-crinoid-shrimp.md)
   * [67:Latreutes pymoeus,Bignose Seagrass Shrimp](shrimpsandcrabs/shrimp-crab2/67-latreutes-pymoeus-bignose-seagrass-shrimp.md)
+  * [68:Porcellanella haigae,Haig's Porcelain Crab, Sea-pen Crab](shrimpsandcrabs/shrimp-crab2/68-porcellanella-haigae-haigs-porcelain-crab-sea-pen-crab.md)
+  * [69:Pseudopaguristes kuekenthali,Orange Hermit Crab](shrimpsandcrabs/shrimp-crab2/69-pseudopaguristes-kuekenthali-orange-hermit-crab.md)
 
 ## Fishes
 
@@ -369,6 +371,7 @@
   * [164:Pomacanthus annularis,Bluering Angelfish, Blue Ring Angelfish, Blue-ringed Angelfish](fishes/fish-eel-seastar-part-4/164-pomacanthus-annularis-bluering-angelfish-blue-ring-angelfish-blue-ringed-angelfish.md)
   * [165:Ptereleotris evides,Arrow Goby, Blackfin Dartfish, Sailfin Hovergoby, Scissortail Dartfish](fishes/fish-eel-seastar-part-4/165-ptereleotris-evides-arrow-goby-blackfin-dartfish-sailfin-hovergoby-scissortail-dartfish.md)
   * [166:Pygoplites diacanthus,Bluebanded Angelfish, Empress Angelfish, Regal Angelfish](fishes/fish-eel-seastar-part-4/166-pygoplites-diacanthus-bluebanded-angelfish-empress-angelfish-regal-angelfish.md)
+  * [167:Ablabys taenianotus,Cockatoo Waspfish](fishes/fish-eel-seastar-part-4/167-ablabys-taenianotus-cockatoo-waspfish.md)
 
 ## Others
 
@@ -409,6 +412,12 @@
   * [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](others/others/34-ianthella-basta-elephant-ear-sponge-paper-sponge.md)
   * [35:Pteria crocea](others/others/35-pteria-crocea.md)
   * [36:Spondylus varius,Giant variable Thorny Oyster](others/others/36-spondylus-varius-giant-variable-thorny-oyster.md)
+  * [37:Haminoea sp,Bubble Snail](others/others/37-haminoea-sp-bubble-snail.md)
+  * [38:Ethalia catharinae,Sensitive Shell](others/others/38-ethalia-catharinae-sensitive-shell.md)
+  * [39:Naticarius orientalis,Moon Snail](others/others/39-naticarius-orientalis-moon-snail.md)
+  * [40:Paracorynactis hoplites,Paracorynactis Hoplites](others/others/40-paracorynactis-hoplites-paracorynactis-hoplites.md)
+  * [41:Predaea weldii,Red Alga, Gelatinous Seaweed](others/others/41-predaea-weldii-red-alga-gelatinous-seaweed.md)
+  * [42:Thylacodes grandis,Grand Coral Worm Snail](others/others/42-thylacodes-grandis-grand-coral-worm-snail.md)
 
 ## Unknow
 

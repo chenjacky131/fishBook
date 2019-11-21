@@ -18,4 +18,5 @@
 | ![](../../.gitbook/assets/small-pomacanthus-annularis.jpg)  | [164:Pomacanthus annularis,Bluering Angelfish, Blue Ring Angelfish, Blue-ringed Angelfish](164-pomacanthus-annularis-bluering-angelfish-blue-ring-angelfish-blue-ringed-angelfish.md) |
 | ![](../../.gitbook/assets/small-ptereleotris-evides.jpg)  | [165:Ptereleotris evides,Arrow Goby, Blackfin Dartfish, Sailfin Hovergoby, Scissortail Dartfish](165-ptereleotris-evides-arrow-goby-blackfin-dartfish-sailfin-hovergoby-scissortail-dartfish.md) |
 | ![](../../.gitbook/assets/small-pygoplites-diacanthus.jpg)  | [166:Pygoplites diacanthus,Bluebanded Angelfish, Empress Angelfish, Regal Angelfish](166-pygoplites-diacanthus-bluebanded-angelfish-empress-angelfish-regal-angelfish.md) |
+| ![](../../.gitbook/assets/small-ablabys-taenianotus.jpg)  | [167:Ablabys taenianotus,Cockatoo Waspfish](167-ablabys-taenianotus-cockatoo-waspfish.md) |
 
