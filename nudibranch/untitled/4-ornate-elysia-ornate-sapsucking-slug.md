@@ -4,5 +4,3 @@
 
 ![](../../.gitbook/assets/ornate-sapsucking-slug.jpg)
 
-![](../../.gitbook/assets/ornate-sapsucking-slug2.jpg)
-

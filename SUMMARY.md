@@ -124,6 +124,7 @@
   * [125:Thecacera-sp,Nudibranch](nudibranch/nudibranch-flatworm3/125-thecacera-sp-nudibranch.md)
   * [126:Thuridilla carlsoni,Sapsucking Slug](nudibranch/nudibranch-flatworm3/126-thuridilla-carlsoni-sapsucking-slug.md)
   * [127:Unidentia sandramillenae ,Nudibranch](nudibranch/nudibranch-flatworm3/127-unidentia-sandramillenae-nudibranch.md)
+  * [128:Elysia nigropunctata,Sap-sucking Slug](nudibranch/nudibranch-flatworm3/128-elysia-nigropunctata-sap-sucking-slug.md)
 
 ## ShrimpsAndCrabs
 
@@ -410,7 +411,7 @@
   * [32:Santia sp,Sponge Isopod](others/others/32-santia-sp-sponge-isopod.md)
   * [33:Tripneustes gratilla,Pincushion Hairy Urchin,Cake Sea Urchin](others/others/33-tripneustes-gratilla-pincushion-hairy-urchin-cake-sea-urchin.md)
   * [34:Ianthella basta,Elephant Ear Sponge, Paper Sponge](others/others/34-ianthella-basta-elephant-ear-sponge-paper-sponge.md)
-  * [35:Pteria crocea](others/others/35-pteria-crocea.md)
+  * [35:Pterelectroma physoides, Zebra Wingshell, Winged Oysters](others/others/35-pteria-crocea.md)
   * [36:Spondylus varius,Giant variable Thorny Oyster](others/others/36-spondylus-varius-giant-variable-thorny-oyster.md)
   * [37:Haminoea sp,Bubble Snail](others/others/37-haminoea-sp-bubble-snail.md)
   * [38:Ethalia catharinae,Sensitive Shell](others/others/38-ethalia-catharinae-sensitive-shell.md)

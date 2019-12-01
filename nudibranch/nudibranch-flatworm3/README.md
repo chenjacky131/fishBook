@@ -19,4 +19,5 @@
 | ![](../../.gitbook/assets/small-thecacera-sp.jpg)  | [125:Thecacera-sp,Nudibranch](125-thecacera-sp-nudibranch.md) |
 | ![](../../.gitbook/assets/small-thuridilla-carlsoni.jpg)  | [126:Thuridilla carlsoni,Sapsucking Slug](126-thuridilla-carlsoni-sapsucking-slug.md) |
 | ![](../../.gitbook/assets/small-unidentia-sandramillenae.jpg)  | [127:Unidentia sandramillenae ,Nudibranch](127-unidentia-sandramillenae-nudibranch.md) |
+| ![](../../.gitbook/assets/small-elysia-nigropunctata.jpg)  | [128:Elysia nigropunctata,Sap-sucking Slug](128-elysia-nigropunctata-sap-sucking-slug.md) |
 

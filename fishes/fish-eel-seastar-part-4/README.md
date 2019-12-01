@@ -2,7 +2,7 @@
 
 | Thumbnail | Link |
 | :---: | :---: |
-| ![](../../.gitbook/assets/small-thaumoctopus-mimicus%20%281%29.jpg)  | [151:Thaumoctopus mimicus,Mimic Octopus](151-thaumoctopus-mimicus-mimic-octopus.md) |
+| ![](../../.gitbook/assets/small-thaumoctopus-mimicus%20%281%29.jpg)  | [151:Wunderpus photogenicus,Wunderpus Octopus](151-thaumoctopus-mimicus-mimic-octopus.md) |
 | ![](../../.gitbook/assets/small-antennarius-striatus.jpg)  | [152:Antennarius striatus,Striped Anglerfish](152-antennarius-striatus-striped-anglerfish.md) |
 | ![](../../.gitbook/assets/small-arothron-caeruleopunctatus.jpg)  | [153:Arothron caeruleopunctatus ,Blue-spotted Puffer](153-arothron-caeruleopunctatus-blue-spotted-puffer.md) |
 | ![](../../.gitbook/assets/small-arothron-stellatus.jpg)  | [154:Arothron stellatus,Star Blaasop, Staring Blow Fish, Star Puffer, Starry Pufferfish, Starry Toadf](154-arothron-stellatus-star-blaasop-staring-blow-fish-star-puffer-starry-pufferfish-starry-toadf.md) |

@@ -1,4 +1,4 @@
-# 35:Pteria crocea
+# 35:Pterelectroma physoides, Zebra Wingshell, Winged Oysters
 
 #### Chinese name: 未知
 
