@@ -1,7 +1,7 @@
 ---
 description: >-
-  This is a site about all the ocean creatures I've met underwater, all photos
-  were tooken by me
+  This blog is no longer maintenanced ,  check http://www.jackchen7003.com for
+  the new version
 ---
 
 # About

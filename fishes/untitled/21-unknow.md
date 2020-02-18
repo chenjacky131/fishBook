@@ -1,4 +1,4 @@
-# 40:File fish,Brachaluteres jacksonianus
+# 40:Brachaluteres jacksonianus,Filefish
 
 #### Chinese name: 杰克逊短革单棘鲀
 
